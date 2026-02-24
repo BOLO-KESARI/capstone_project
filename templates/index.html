@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AviationStack Dashboard</title>
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+    />
+    <link
+        href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+        rel="stylesheet"
+    />
+    <link href="/static/style.css" rel="stylesheet" />
+</head>
+<body>
+    <!-- ============================================================ -->
+    <!-- Navbar                                                        -->
+    <!-- ============================================================ -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
+        <div class="container-fluid">
+            <a class="navbar-brand d-flex align-items-center" href="/">
+                <i class="bi bi-airplane-engines me-2 fs-4"></i>
+                <span class="fw-bold">AviationStack Dashboard</span>
+            </a>
+            <div class="d-flex">
+                <a href="/dashboard" class="btn btn-outline-light btn-sm">
+                    <i class="bi bi-bar-chart-line me-1"></i>Analytics Dashboard
+                </a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container-fluid mt-4">
+        <div class="row">
+            <!-- ====================================================== -->
+            <!-- Sidebar – endpoint picker                              -->
+            <!-- ====================================================== -->
+            <div class="col-lg-3 col-md-4">
+                <div class="card shadow-sm mb-4">
+                    <div class="card-header bg-primary text-white">
+                        <i class="bi bi-list-ul me-1"></i> API Endpoints
+                    </div>
+                    <div class="list-group list-group-flush" id="endpoint-list">
+                        <button class="list-group-item list-group-item-action active"
+                                data-endpoint="flights" data-icon="bi-airplane">
+                            <i class="bi bi-airplane me-2"></i>Flights
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                data-endpoint="routes" data-icon="bi-signpost-split">
+                            <i class="bi bi-signpost-split me-2"></i>Routes
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                data-endpoint="airports" data-icon="bi-building">
+                            <i class="bi bi-building me-2"></i>Airports
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                data-endpoint="airlines" data-icon="bi-globe2">
+                            <i class="bi bi-globe2 me-2"></i>Airlines
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                data-endpoint="airplanes" data-icon="bi-airplane-fill">
+                            <i class="bi bi-airplane-fill me-2"></i>Airplanes
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                data-endpoint="aircraft_types" data-icon="bi-gear">
+                            <i class="bi bi-gear me-2"></i>Aircraft Types
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                data-endpoint="taxes" data-icon="bi-receipt">
+                            <i class="bi bi-receipt me-2"></i>Aviation Taxes
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                data-endpoint="cities" data-icon="bi-pin-map">
+                            <i class="bi bi-pin-map me-2"></i>Cities
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                data-endpoint="countries" data-icon="bi-flag">
+                            <i class="bi bi-flag me-2"></i>Countries
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                data-endpoint="timetable" data-icon="bi-calendar-check">
+                            <i class="bi bi-calendar-check me-2"></i>Flight Schedules
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                data-endpoint="flights_future" data-icon="bi-calendar-plus">
+                            <i class="bi bi-calendar-plus me-2"></i>Future Schedules
+                        </button>
+
+                        <div class="list-group-item list-group-item-secondary fw-bold small text-uppercase py-2">
+                            <i class="bi bi-database-fill-gear me-1"></i> Simulated Internal Data
+                        </div>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/bookings" data-icon="bi-wallet2">
+                            <i class="bi bi-wallet2 me-2"></i>Bookings
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/flights" data-icon="bi-calendar-week">
+                            <i class="bi bi-calendar-week me-2"></i>Flights Schedule
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/passengers" data-icon="bi-people">
+                            <i class="bi bi-people me-2"></i>Passenger CRM
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/operations" data-icon="bi-activity">
+                            <i class="bi bi-activity me-2"></i>Operations
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/competitor" data-icon="bi-graph-up-arrow">
+                            <i class="bi bi-graph-up-arrow me-2"></i>Competitors
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/events" data-icon="bi-calendar-event">
+                            <i class="bi bi-calendar-event me-2"></i>Regional Events
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/economy" data-icon="bi-bar-chart-line">
+                            <i class="bi bi-bar-chart-line me-2"></i>Economic Indicators
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/holidays" data-icon="bi-calendar3">
+                            <i class="bi bi-calendar3 me-2"></i>Holiday Calendar
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/traffic" data-icon="bi-bar-chart-steps">
+                            <i class="bi bi-bar-chart-steps me-2"></i>Airport Traffic
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/trends" data-icon="bi-search-heart">
+                            <i class="bi bi-search-heart me-2"></i>Google Trends
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/sentiment" data-icon="bi-chat-heart">
+                            <i class="bi bi-chat-heart me-2"></i>Social Sentiment
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/fuel" data-icon="bi-fuel-pump">
+                            <i class="bi bi-fuel-pump me-2"></i>Fuel Prices
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/booking_patterns" data-icon="bi-graph-up-arrow">
+                            <i class="bi bi-graph-up-arrow me-2"></i>Booking Patterns
+                        </button>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="sim/advanced_analytics" data-icon="bi-stars">
+                            <i class="bi bi-stars me-2"></i>Advanced Analytics
+                        </button>
+
+                        <div class="list-group-item list-group-item-info fw-bold small text-uppercase py-2">
+                            <i class="bi bi-cloud-sun me-1"></i> External Services
+                        </div>
+                        <button class="list-group-item list-group-item-action"
+                                 data-endpoint="weather" data-icon="bi-thermometer-half">
+                            <i class="bi bi-thermometer-half me-2"></i>Live Weather
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- ====================================================== -->
+            <!-- Main content area                                      -->
+            <!-- ====================================================== -->
+            <div class="col-lg-9 col-md-8">
+                <!-- Filters -->
+                <div class="card shadow-sm mb-4" id="filter-card">
+                    <div class="card-header bg-white d-flex justify-content-between align-items-center">
+                        <span><i class="bi bi-funnel me-1"></i> <strong id="endpoint-title">Flights</strong> – Filters</span>
+                        <button class="btn btn-primary btn-sm" id="btn-fetch">
+                            <i class="bi bi-cloud-download me-1"></i>Fetch Data
+                        </button>
+                    </div>
+                    <div class="card-body" id="filter-body">
+                        <!-- Dynamic filter inputs injected by JS -->
+                    </div>
+                </div>
+
+                <!-- Pagination info -->
+                <div class="d-flex justify-content-between align-items-center mb-2" id="pagination-bar" style="display:none!important">
+                    <small class="text-muted" id="result-info"></small>
+                    <div>
+                        <button class="btn btn-outline-primary btn-sm me-1" id="btn-prev" disabled>
+                            <i class="bi bi-chevron-left"></i> Prev
+                        </button>
+                        <button class="btn btn-outline-primary btn-sm" id="btn-next" disabled>
+                            Next <i class="bi bi-chevron-right"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Loading spinner -->
+                <div class="text-center my-5 d-none" id="spinner">
+                    <div class="spinner-border text-primary" role="status"></div>
+                    <p class="mt-2 text-muted">Loading data…</p>
+                </div>
+
+                <!-- Error alert -->
+                <div class="alert alert-danger d-none" id="error-alert" role="alert"></div>
+
+                <!-- Results table -->
+                <div class="card shadow-sm" id="results-card" style="display:none">
+                    <div class="card-body p-0">
+                        <div class="table-responsive">
+                            <table class="table table-hover table-striped mb-0" id="results-table">
+                                <thead class="table-primary" id="results-thead"></thead>
+                                <tbody id="results-tbody"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Raw JSON viewer -->
+                <div class="card shadow-sm mt-4" id="json-card" style="display:none">
+                    <div class="card-header bg-dark text-white d-flex justify-content-between align-items-center">
+                        <span><i class="bi bi-braces me-1"></i> Raw JSON Response</span>
+                        <button class="btn btn-outline-light btn-sm" id="btn-toggle-json">Show / Hide</button>
+                    </div>
+                    <div class="card-body p-0 d-none" id="json-body">
+                        <pre class="p-3 mb-0" id="json-pre" style="max-height:500px;overflow:auto;font-size:.82rem"></pre>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="text-center text-muted py-4 mt-5 border-top">
+        <small>AviationStack Dashboard &middot; Powered by
+            <a href="https://aviationstack.com" target="_blank" rel="noopener">aviationstack.com</a>
+        </small>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="/static/app.js"></script>
+</body>
+</html>

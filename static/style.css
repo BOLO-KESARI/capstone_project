@@ -1,0 +1,81 @@
+/* ============================================================
+   AviationStack Dashboard – Styles
+   ============================================================ */
+
+body {
+    background-color: #f4f6fb;
+    font-family: "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+/* Sidebar */
+#endpoint-list .list-group-item {
+    cursor: pointer;
+    transition: background-color 0.15s, padding-left 0.15s;
+    font-size: 0.92rem;
+}
+#endpoint-list .list-group-item:hover {
+    padding-left: 1.4rem;
+}
+#endpoint-list .list-group-item.active {
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    color: #fff;
+}
+
+/* Filter card */
+#filter-card .form-label {
+    font-size: 0.82rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: #495057;
+}
+
+/* Results table */
+#results-table th {
+    font-size: 0.78rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    white-space: nowrap;
+}
+#results-table td {
+    font-size: 0.88rem;
+    vertical-align: middle;
+    white-space: nowrap;
+}
+.table-responsive {
+    max-height: 65vh;
+    overflow: auto;
+}
+
+/* JSON block */
+#json-pre {
+    background: #1e1e2e;
+    color: #a6e3a1;
+    border-radius: 0;
+}
+
+/* Badge helpers */
+.badge-status {
+    text-transform: capitalize;
+}
+.status-active, .status-landed {
+    background-color: #198754 !important;
+}
+.status-scheduled {
+    background-color: #0d6efd !important;
+}
+.status-cancelled, .status-incident {
+    background-color: #dc3545 !important;
+}
+.status-en-route, .status-unknown {
+    background-color: #6c757d !important;
+}
+
+/* Responsive tweak */
+@media (max-width: 767.98px) {
+    #endpoint-list .list-group-item {
+        font-size: 0.84rem;
+        padding: 0.55rem 0.8rem;
+    }
+}

@@ -1,0 +1,3241 @@
+date,region,search_keyword,search_volume_index,trend_growth_rate
+2025-12-15,India,Indigo flights,65,0.088
+2025-12-16,India,Indigo flights,61,0.106
+2025-12-17,India,Indigo flights,61,0.093
+2025-12-18,India,Indigo flights,58,0.118
+2025-12-19,India,Indigo flights,80,0.106
+2025-12-20,India,Indigo flights,77,0.119
+2025-12-21,India,Indigo flights,83,0.096
+2025-12-22,India,Indigo flights,68,0.109
+2025-12-23,India,Indigo flights,60,0.126
+2025-12-24,India,Indigo flights,62,0.138
+2025-12-25,India,Indigo flights,70,0.067
+2025-12-26,India,Indigo flights,89,0.086
+2025-12-27,India,Indigo flights,70,0.129
+2025-12-28,India,Indigo flights,81,0.094
+2025-12-29,India,Indigo flights,67,0.116
+2025-12-30,India,Indigo flights,66,0.094
+2025-12-31,India,Indigo flights,52,0.114
+2026-01-01,India,Indigo flights,61,0.061
+2026-01-02,India,Indigo flights,82,0.092
+2026-01-03,India,Indigo flights,93,0.101
+2026-01-04,India,Indigo flights,84,0.111
+2026-01-05,India,Indigo flights,73,0.084
+2026-01-06,India,Indigo flights,62,0.071
+2026-01-07,India,Indigo flights,71,0.129
+2026-01-08,India,Indigo flights,66,0.112
+2026-01-09,India,Indigo flights,83,0.125
+2026-01-10,India,Indigo flights,81,0.104
+2026-01-11,India,Indigo flights,78,0.11
+2026-01-12,India,Indigo flights,63,0.13
+2026-01-13,India,Indigo flights,63,0.093
+2026-01-14,India,Indigo flights,67,0.106
+2026-01-15,India,Indigo flights,65,0.133
+2026-01-16,India,Indigo flights,77,0.113
+2026-01-17,India,Indigo flights,83,0.07
+2026-01-18,India,Indigo flights,81,0.107
+2026-01-19,India,Indigo flights,59,0.121
+2026-01-20,India,Indigo flights,66,0.109
+2026-01-21,India,Indigo flights,63,0.114
+2026-01-22,India,Indigo flights,60,0.084
+2026-01-23,India,Indigo flights,91,0.102
+2026-01-24,India,Indigo flights,91,0.105
+2026-01-25,India,Indigo flights,88,0.06
+2026-01-26,India,Indigo flights,70,0.096
+2026-01-27,India,Indigo flights,63,0.098
+2026-01-28,India,Indigo flights,76,0.114
+2026-01-29,India,Indigo flights,73,0.102
+2026-01-30,India,Indigo flights,83,0.101
+2026-01-31,India,Indigo flights,84,0.111
+2026-02-01,India,Indigo flights,78,0.112
+2026-02-02,India,Indigo flights,71,0.071
+2026-02-03,India,Indigo flights,67,0.098
+2026-02-04,India,Indigo flights,74,0.109
+2026-02-05,India,Indigo flights,69,0.128
+2026-02-06,India,Indigo flights,98,0.111
+2026-02-07,India,Indigo flights,95,0.104
+2026-02-08,India,Indigo flights,90,0.097
+2026-02-09,India,Indigo flights,73,0.107
+2026-02-10,India,Indigo flights,64,0.117
+2026-02-11,India,Indigo flights,68,0.093
+2026-02-12,India,Indigo flights,64,0.074
+2025-12-15,Delhi,Indigo flights,53,0.1
+2025-12-16,Delhi,Indigo flights,62,0.109
+2025-12-17,Delhi,Indigo flights,64,0.096
+2025-12-18,Delhi,Indigo flights,64,0.079
+2025-12-19,Delhi,Indigo flights,81,0.12
+2025-12-20,Delhi,Indigo flights,77,0.098
+2025-12-21,Delhi,Indigo flights,94,0.127
+2025-12-22,Delhi,Indigo flights,62,0.116
+2025-12-23,Delhi,Indigo flights,63,0.138
+2025-12-24,Delhi,Indigo flights,66,0.152
+2025-12-25,Delhi,Indigo flights,63,0.097
+2025-12-26,Delhi,Indigo flights,81,0.135
+2025-12-27,Delhi,Indigo flights,74,0.089
+2025-12-28,Delhi,Indigo flights,80,0.101
+2025-12-29,Delhi,Indigo flights,65,0.089
+2025-12-30,Delhi,Indigo flights,65,0.096
+2025-12-31,Delhi,Indigo flights,69,0.142
+2026-01-01,Delhi,Indigo flights,63,0.095
+2026-01-02,Delhi,Indigo flights,80,0.08
+2026-01-03,Delhi,Indigo flights,85,0.112
+2026-01-04,Delhi,Indigo flights,63,0.095
+2026-01-05,Delhi,Indigo flights,67,0.05
+2026-01-06,Delhi,Indigo flights,69,0.113
+2026-01-07,Delhi,Indigo flights,58,0.096
+2026-01-08,Delhi,Indigo flights,64,0.109
+2026-01-09,Delhi,Indigo flights,71,0.036
+2026-01-10,Delhi,Indigo flights,79,0.106
+2026-01-11,Delhi,Indigo flights,81,0.098
+2026-01-12,Delhi,Indigo flights,65,0.092
+2026-01-13,Delhi,Indigo flights,68,0.068
+2026-01-14,Delhi,Indigo flights,64,0.133
+2026-01-15,Delhi,Indigo flights,63,0.092
+2026-01-16,Delhi,Indigo flights,93,0.113
+2026-01-17,Delhi,Indigo flights,77,0.098
+2026-01-18,Delhi,Indigo flights,82,0.118
+2026-01-19,Delhi,Indigo flights,69,0.114
+2026-01-20,Delhi,Indigo flights,62,0.075
+2026-01-21,Delhi,Indigo flights,62,0.079
+2026-01-22,Delhi,Indigo flights,67,0.065
+2026-01-23,Delhi,Indigo flights,80,0.098
+2026-01-24,Delhi,Indigo flights,89,0.107
+2026-01-25,Delhi,Indigo flights,88,0.118
+2026-01-26,Delhi,Indigo flights,57,0.114
+2026-01-27,Delhi,Indigo flights,76,0.13
+2026-01-28,Delhi,Indigo flights,64,0.11
+2026-01-29,Delhi,Indigo flights,67,0.102
+2026-01-30,Delhi,Indigo flights,78,0.122
+2026-01-31,Delhi,Indigo flights,100,0.157
+2026-02-01,Delhi,Indigo flights,92,0.085
+2026-02-02,Delhi,Indigo flights,72,0.094
+2026-02-03,Delhi,Indigo flights,66,0.074
+2026-02-04,Delhi,Indigo flights,66,0.102
+2026-02-05,Delhi,Indigo flights,70,0.088
+2026-02-06,Delhi,Indigo flights,86,0.158
+2026-02-07,Delhi,Indigo flights,93,0.105
+2026-02-08,Delhi,Indigo flights,82,0.045
+2026-02-09,Delhi,Indigo flights,67,0.094
+2026-02-10,Delhi,Indigo flights,69,0.11
+2026-02-11,Delhi,Indigo flights,69,0.102
+2026-02-12,Delhi,Indigo flights,75,0.106
+2025-12-15,Maharashtra,Indigo flights,59,0.108
+2025-12-16,Maharashtra,Indigo flights,70,0.094
+2025-12-17,Maharashtra,Indigo flights,65,0.174
+2025-12-18,Maharashtra,Indigo flights,58,0.096
+2025-12-19,Maharashtra,Indigo flights,76,0.131
+2025-12-20,Maharashtra,Indigo flights,73,0.097
+2025-12-21,Maharashtra,Indigo flights,85,0.118
+2025-12-22,Maharashtra,Indigo flights,56,0.115
+2025-12-23,Maharashtra,Indigo flights,65,0.102
+2025-12-24,Maharashtra,Indigo flights,57,0.109
+2025-12-25,Maharashtra,Indigo flights,61,0.092
+2025-12-26,Maharashtra,Indigo flights,74,0.102
+2025-12-27,Maharashtra,Indigo flights,69,0.087
+2025-12-28,Maharashtra,Indigo flights,73,0.106
+2025-12-29,Maharashtra,Indigo flights,59,0.097
+2025-12-30,Maharashtra,Indigo flights,61,0.112
+2025-12-31,Maharashtra,Indigo flights,61,0.117
+2026-01-01,Maharashtra,Indigo flights,64,0.117
+2026-01-02,Maharashtra,Indigo flights,83,0.114
+2026-01-03,Maharashtra,Indigo flights,69,0.126
+2026-01-04,Maharashtra,Indigo flights,82,0.108
+2026-01-05,Maharashtra,Indigo flights,62,0.108
+2026-01-06,Maharashtra,Indigo flights,63,0.103
+2026-01-07,Maharashtra,Indigo flights,68,0.11
+2026-01-08,Maharashtra,Indigo flights,62,0.079
+2026-01-09,Maharashtra,Indigo flights,74,0.09
+2026-01-10,Maharashtra,Indigo flights,74,0.141
+2026-01-11,Maharashtra,Indigo flights,72,0.063
+2026-01-12,Maharashtra,Indigo flights,69,0.079
+2026-01-13,Maharashtra,Indigo flights,78,0.119
+2026-01-14,Maharashtra,Indigo flights,70,0.1
+2026-01-15,Maharashtra,Indigo flights,56,0.1
+2026-01-16,Maharashtra,Indigo flights,86,0.127
+2026-01-17,Maharashtra,Indigo flights,80,0.106
+2026-01-18,Maharashtra,Indigo flights,87,0.1
+2026-01-19,Maharashtra,Indigo flights,62,0.133
+2026-01-20,Maharashtra,Indigo flights,59,0.122
+2026-01-21,Maharashtra,Indigo flights,65,0.109
+2026-01-22,Maharashtra,Indigo flights,56,0.069
+2026-01-23,Maharashtra,Indigo flights,78,0.067
+2026-01-24,Maharashtra,Indigo flights,78,0.139
+2026-01-25,Maharashtra,Indigo flights,90,0.075
+2026-01-26,Maharashtra,Indigo flights,65,0.104
+2026-01-27,Maharashtra,Indigo flights,69,0.145
+2026-01-28,Maharashtra,Indigo flights,67,0.104
+2026-01-29,Maharashtra,Indigo flights,60,0.147
+2026-01-30,Maharashtra,Indigo flights,84,0.091
+2026-01-31,Maharashtra,Indigo flights,90,0.1
+2026-02-01,Maharashtra,Indigo flights,69,0.145
+2026-02-02,Maharashtra,Indigo flights,63,0.112
+2026-02-03,Maharashtra,Indigo flights,67,0.091
+2026-02-04,Maharashtra,Indigo flights,67,0.099
+2026-02-05,Maharashtra,Indigo flights,63,0.099
+2026-02-06,Maharashtra,Indigo flights,82,0.114
+2026-02-07,Maharashtra,Indigo flights,84,0.087
+2026-02-08,Maharashtra,Indigo flights,95,0.1
+2026-02-09,Maharashtra,Indigo flights,65,0.097
+2026-02-10,Maharashtra,Indigo flights,63,0.122
+2026-02-11,Maharashtra,Indigo flights,73,0.109
+2026-02-12,Maharashtra,Indigo flights,70,0.142
+2025-12-15,Karnataka,Indigo flights,68,0.113
+2025-12-16,Karnataka,Indigo flights,65,0.133
+2025-12-17,Karnataka,Indigo flights,71,0.139
+2025-12-18,Karnataka,Indigo flights,62,0.106
+2025-12-19,Karnataka,Indigo flights,74,0.08
+2025-12-20,Karnataka,Indigo flights,83,0.114
+2025-12-21,Karnataka,Indigo flights,85,0.123
+2025-12-22,Karnataka,Indigo flights,61,0.111
+2025-12-23,Karnataka,Indigo flights,61,0.128
+2025-12-24,Karnataka,Indigo flights,58,0.086
+2025-12-25,Karnataka,Indigo flights,67,0.125
+2025-12-26,Karnataka,Indigo flights,70,0.09
+2025-12-27,Karnataka,Indigo flights,78,0.137
+2025-12-28,Karnataka,Indigo flights,75,0.125
+2025-12-29,Karnataka,Indigo flights,72,0.095
+2025-12-30,Karnataka,Indigo flights,66,0.071
+2025-12-31,Karnataka,Indigo flights,66,0.079
+2026-01-01,Karnataka,Indigo flights,69,0.098
+2026-01-02,Karnataka,Indigo flights,92,0.093
+2026-01-03,Karnataka,Indigo flights,78,0.097
+2026-01-04,Karnataka,Indigo flights,91,0.123
+2026-01-05,Karnataka,Indigo flights,65,0.072
+2026-01-06,Karnataka,Indigo flights,62,0.141
+2026-01-07,Karnataka,Indigo flights,75,0.103
+2026-01-08,Karnataka,Indigo flights,67,0.099
+2026-01-09,Karnataka,Indigo flights,80,0.09
+2026-01-10,Karnataka,Indigo flights,86,0.096
+2026-01-11,Karnataka,Indigo flights,76,0.078
+2026-01-12,Karnataka,Indigo flights,72,0.101
+2026-01-13,Karnataka,Indigo flights,70,0.092
+2026-01-14,Karnataka,Indigo flights,65,0.132
+2026-01-15,Karnataka,Indigo flights,75,0.102
+2026-01-16,Karnataka,Indigo flights,77,0.097
+2026-01-17,Karnataka,Indigo flights,80,0.069
+2026-01-18,Karnataka,Indigo flights,92,0.047
+2026-01-19,Karnataka,Indigo flights,69,0.067
+2026-01-20,Karnataka,Indigo flights,65,0.11
+2026-01-21,Karnataka,Indigo flights,65,0.102
+2026-01-22,Karnataka,Indigo flights,69,0.072
+2026-01-23,Karnataka,Indigo flights,80,0.098
+2026-01-24,Karnataka,Indigo flights,75,0.097
+2026-01-25,Karnataka,Indigo flights,94,0.078
+2026-01-26,Karnataka,Indigo flights,76,0.099
+2026-01-27,Karnataka,Indigo flights,73,0.102
+2026-01-28,Karnataka,Indigo flights,68,0.131
+2026-01-29,Karnataka,Indigo flights,63,0.101
+2026-01-30,Karnataka,Indigo flights,90,0.066
+2026-01-31,Karnataka,Indigo flights,80,0.113
+2026-02-01,Karnataka,Indigo flights,91,0.096
+2026-02-02,Karnataka,Indigo flights,61,0.096
+2026-02-03,Karnataka,Indigo flights,68,0.099
+2026-02-04,Karnataka,Indigo flights,69,0.11
+2026-02-05,Karnataka,Indigo flights,83,0.063
+2026-02-06,Karnataka,Indigo flights,84,0.148
+2026-02-07,Karnataka,Indigo flights,81,0.126
+2026-02-08,Karnataka,Indigo flights,89,0.106
+2026-02-09,Karnataka,Indigo flights,68,0.148
+2026-02-10,Karnataka,Indigo flights,78,0.085
+2026-02-11,Karnataka,Indigo flights,66,0.1
+2026-02-12,Karnataka,Indigo flights,75,0.064
+2025-12-15,Tamil Nadu,Indigo flights,63,0.111
+2025-12-16,Tamil Nadu,Indigo flights,60,0.109
+2025-12-17,Tamil Nadu,Indigo flights,59,0.105
+2025-12-18,Tamil Nadu,Indigo flights,62,0.082
+2025-12-19,Tamil Nadu,Indigo flights,76,0.086
+2025-12-20,Tamil Nadu,Indigo flights,87,0.098
+2025-12-21,Tamil Nadu,Indigo flights,79,0.096
+2025-12-22,Tamil Nadu,Indigo flights,68,0.138
+2025-12-23,Tamil Nadu,Indigo flights,60,0.083
+2025-12-24,Tamil Nadu,Indigo flights,63,0.123
+2025-12-25,Tamil Nadu,Indigo flights,71,0.114
+2025-12-26,Tamil Nadu,Indigo flights,71,0.118
+2025-12-27,Tamil Nadu,Indigo flights,72,0.135
+2025-12-28,Tamil Nadu,Indigo flights,81,0.102
+2025-12-29,Tamil Nadu,Indigo flights,64,0.106
+2025-12-30,Tamil Nadu,Indigo flights,64,0.088
+2025-12-31,Tamil Nadu,Indigo flights,61,0.144
+2026-01-01,Tamil Nadu,Indigo flights,62,0.076
+2026-01-02,Tamil Nadu,Indigo flights,74,0.096
+2026-01-03,Tamil Nadu,Indigo flights,78,0.076
+2026-01-04,Tamil Nadu,Indigo flights,77,0.166
+2026-01-05,Tamil Nadu,Indigo flights,65,0.121
+2026-01-06,Tamil Nadu,Indigo flights,62,0.111
+2026-01-07,Tamil Nadu,Indigo flights,72,0.108
+2026-01-08,Tamil Nadu,Indigo flights,60,0.105
+2026-01-09,Tamil Nadu,Indigo flights,78,0.106
+2026-01-10,Tamil Nadu,Indigo flights,94,0.128
+2026-01-11,Tamil Nadu,Indigo flights,79,0.08
+2026-01-12,Tamil Nadu,Indigo flights,67,0.147
+2026-01-13,Tamil Nadu,Indigo flights,51,0.1
+2026-01-14,Tamil Nadu,Indigo flights,63,0.077
+2026-01-15,Tamil Nadu,Indigo flights,59,0.122
+2026-01-16,Tamil Nadu,Indigo flights,82,0.115
+2026-01-17,Tamil Nadu,Indigo flights,81,0.113
+2026-01-18,Tamil Nadu,Indigo flights,65,0.115
+2026-01-19,Tamil Nadu,Indigo flights,69,0.083
+2026-01-20,Tamil Nadu,Indigo flights,66,0.094
+2026-01-21,Tamil Nadu,Indigo flights,80,0.117
+2026-01-22,Tamil Nadu,Indigo flights,65,0.105
+2026-01-23,Tamil Nadu,Indigo flights,81,0.117
+2026-01-24,Tamil Nadu,Indigo flights,84,0.104
+2026-01-25,Tamil Nadu,Indigo flights,77,0.098
+2026-01-26,Tamil Nadu,Indigo flights,70,0.113
+2026-01-27,Tamil Nadu,Indigo flights,65,0.088
+2026-01-28,Tamil Nadu,Indigo flights,68,0.117
+2026-01-29,Tamil Nadu,Indigo flights,65,0.088
+2026-01-30,Tamil Nadu,Indigo flights,86,0.143
+2026-01-31,Tamil Nadu,Indigo flights,88,0.094
+2026-02-01,Tamil Nadu,Indigo flights,84,0.099
+2026-02-02,Tamil Nadu,Indigo flights,61,0.06
+2026-02-03,Tamil Nadu,Indigo flights,63,0.098
+2026-02-04,Tamil Nadu,Indigo flights,80,0.08
+2026-02-05,Tamil Nadu,Indigo flights,69,0.089
+2026-02-06,Tamil Nadu,Indigo flights,79,0.074
+2026-02-07,Tamil Nadu,Indigo flights,88,0.145
+2026-02-08,Tamil Nadu,Indigo flights,74,0.084
+2026-02-09,Tamil Nadu,Indigo flights,61,0.1
+2026-02-10,Tamil Nadu,Indigo flights,61,0.087
+2026-02-11,Tamil Nadu,Indigo flights,70,0.09
+2026-02-12,Tamil Nadu,Indigo flights,68,0.104
+2025-12-15,West Bengal,Indigo flights,64,0.104
+2025-12-16,West Bengal,Indigo flights,56,0.107
+2025-12-17,West Bengal,Indigo flights,60,0.12
+2025-12-18,West Bengal,Indigo flights,62,0.081
+2025-12-19,West Bengal,Indigo flights,87,0.115
+2025-12-20,West Bengal,Indigo flights,87,0.093
+2025-12-21,West Bengal,Indigo flights,84,0.122
+2025-12-22,West Bengal,Indigo flights,63,0.074
+2025-12-23,West Bengal,Indigo flights,52,0.12
+2025-12-24,West Bengal,Indigo flights,59,0.109
+2025-12-25,West Bengal,Indigo flights,61,0.118
+2025-12-26,West Bengal,Indigo flights,82,0.101
+2025-12-27,West Bengal,Indigo flights,83,0.115
+2025-12-28,West Bengal,Indigo flights,83,0.092
+2025-12-29,West Bengal,Indigo flights,63,0.12
+2025-12-30,West Bengal,Indigo flights,73,0.08
+2025-12-31,West Bengal,Indigo flights,71,0.134
+2026-01-01,West Bengal,Indigo flights,57,0.061
+2026-01-02,West Bengal,Indigo flights,82,0.09
+2026-01-03,West Bengal,Indigo flights,90,0.08
+2026-01-04,West Bengal,Indigo flights,81,0.108
+2026-01-05,West Bengal,Indigo flights,62,0.11
+2026-01-06,West Bengal,Indigo flights,68,0.124
+2026-01-07,West Bengal,Indigo flights,69,0.082
+2026-01-08,West Bengal,Indigo flights,77,0.127
+2026-01-09,West Bengal,Indigo flights,70,0.091
+2026-01-10,West Bengal,Indigo flights,69,0.096
+2026-01-11,West Bengal,Indigo flights,97,0.125
+2026-01-12,West Bengal,Indigo flights,64,0.141
+2026-01-13,West Bengal,Indigo flights,63,0.096
+2026-01-14,West Bengal,Indigo flights,62,0.121
+2026-01-15,West Bengal,Indigo flights,63,0.117
+2026-01-16,West Bengal,Indigo flights,91,0.108
+2026-01-17,West Bengal,Indigo flights,90,0.107
+2026-01-18,West Bengal,Indigo flights,90,0.088
+2026-01-19,West Bengal,Indigo flights,60,0.1
+2026-01-20,West Bengal,Indigo flights,66,0.114
+2026-01-21,West Bengal,Indigo flights,71,0.125
+2026-01-22,West Bengal,Indigo flights,63,0.105
+2026-01-23,West Bengal,Indigo flights,76,0.105
+2026-01-24,West Bengal,Indigo flights,79,0.105
+2026-01-25,West Bengal,Indigo flights,86,0.108
+2026-01-26,West Bengal,Indigo flights,64,0.09
+2026-01-27,West Bengal,Indigo flights,75,0.125
+2026-01-28,West Bengal,Indigo flights,77,0.106
+2026-01-29,West Bengal,Indigo flights,55,0.096
+2026-01-30,West Bengal,Indigo flights,80,0.059
+2026-01-31,West Bengal,Indigo flights,87,0.07
+2026-02-01,West Bengal,Indigo flights,80,0.085
+2026-02-02,West Bengal,Indigo flights,63,0.083
+2026-02-03,West Bengal,Indigo flights,66,0.095
+2026-02-04,West Bengal,Indigo flights,69,0.106
+2026-02-05,West Bengal,Indigo flights,71,0.095
+2026-02-06,West Bengal,Indigo flights,86,0.111
+2026-02-07,West Bengal,Indigo flights,81,0.084
+2026-02-08,West Bengal,Indigo flights,82,0.076
+2026-02-09,West Bengal,Indigo flights,67,0.095
+2026-02-10,West Bengal,Indigo flights,77,0.104
+2026-02-11,West Bengal,Indigo flights,71,0.126
+2026-02-12,West Bengal,Indigo flights,68,0.094
+2025-12-15,India,Air India booking,70,0.027
+2025-12-16,India,Air India booking,62,0.023
+2025-12-17,India,Air India booking,71,0.057
+2025-12-18,India,Air India booking,65,0.017
+2025-12-19,India,Air India booking,83,0.059
+2025-12-20,India,Air India booking,77,0.062
+2025-12-21,India,Air India booking,82,0.063
+2025-12-22,India,Air India booking,58,0.071
+2025-12-23,India,Air India booking,63,0.068
+2025-12-24,India,Air India booking,65,0.058
+2025-12-25,India,Air India booking,65,0.081
+2025-12-26,India,Air India booking,70,0.014
+2025-12-27,India,Air India booking,80,0.05
+2025-12-28,India,Air India booking,87,0.053
+2025-12-29,India,Air India booking,56,0.035
+2025-12-30,India,Air India booking,63,0.064
+2025-12-31,India,Air India booking,61,0.025
+2026-01-01,India,Air India booking,60,0.055
+2026-01-02,India,Air India booking,74,0.05
+2026-01-03,India,Air India booking,73,0.014
+2026-01-04,India,Air India booking,82,0.048
+2026-01-05,India,Air India booking,63,0.044
+2026-01-06,India,Air India booking,61,0.052
+2026-01-07,India,Air India booking,60,0.069
+2026-01-08,India,Air India booking,73,0.058
+2026-01-09,India,Air India booking,86,0.016
+2026-01-10,India,Air India booking,81,0.078
+2026-01-11,India,Air India booking,83,0.03
+2026-01-12,India,Air India booking,57,0.044
+2026-01-13,India,Air India booking,57,0.058
+2026-01-14,India,Air India booking,49,0.05
+2026-01-15,India,Air India booking,63,0.042
+2026-01-16,India,Air India booking,76,0.092
+2026-01-17,India,Air India booking,73,0.034
+2026-01-18,India,Air India booking,83,0.067
+2026-01-19,India,Air India booking,69,0.083
+2026-01-20,India,Air India booking,70,0.049
+2026-01-21,India,Air India booking,68,0.034
+2026-01-22,India,Air India booking,61,0.058
+2026-01-23,India,Air India booking,85,0.055
+2026-01-24,India,Air India booking,80,0.068
+2026-01-25,India,Air India booking,77,0.017
+2026-01-26,India,Air India booking,60,0.081
+2026-01-27,India,Air India booking,56,0.015
+2026-01-28,India,Air India booking,71,0.022
+2026-01-29,India,Air India booking,66,0.019
+2026-01-30,India,Air India booking,80,0.06
+2026-01-31,India,Air India booking,76,0.064
+2026-02-01,India,Air India booking,82,0.027
+2026-02-02,India,Air India booking,63,0.06
+2026-02-03,India,Air India booking,64,0.053
+2026-02-04,India,Air India booking,59,0.048
+2026-02-05,India,Air India booking,66,0.042
+2026-02-06,India,Air India booking,86,0.018
+2026-02-07,India,Air India booking,76,0.073
+2026-02-08,India,Air India booking,85,0.06
+2026-02-09,India,Air India booking,67,0.023
+2026-02-10,India,Air India booking,62,0.058
+2026-02-11,India,Air India booking,60,0.039
+2026-02-12,India,Air India booking,64,0.044
+2025-12-15,Delhi,Air India booking,62,0.049
+2025-12-16,Delhi,Air India booking,62,0.038
+2025-12-17,Delhi,Air India booking,66,0.056
+2025-12-18,Delhi,Air India booking,73,0.074
+2025-12-19,Delhi,Air India booking,73,0.041
+2025-12-20,Delhi,Air India booking,77,0.087
+2025-12-21,Delhi,Air India booking,75,0.052
+2025-12-22,Delhi,Air India booking,61,0.064
+2025-12-23,Delhi,Air India booking,58,0.059
+2025-12-24,Delhi,Air India booking,67,0.047
+2025-12-25,Delhi,Air India booking,64,0.038
+2025-12-26,Delhi,Air India booking,87,0.014
+2025-12-27,Delhi,Air India booking,71,0.066
+2025-12-28,Delhi,Air India booking,75,0.027
+2025-12-29,Delhi,Air India booking,58,0.039
+2025-12-30,Delhi,Air India booking,69,0.038
+2025-12-31,Delhi,Air India booking,59,0.07
+2026-01-01,Delhi,Air India booking,59,0.064
+2026-01-02,Delhi,Air India booking,85,0.01
+2026-01-03,Delhi,Air India booking,73,0.035
+2026-01-04,Delhi,Air India booking,69,0.035
+2026-01-05,Delhi,Air India booking,65,0.064
+2026-01-06,Delhi,Air India booking,66,0.056
+2026-01-07,Delhi,Air India booking,58,0.034
+2026-01-08,Delhi,Air India booking,51,0.039
+2026-01-09,Delhi,Air India booking,80,0.043
+2026-01-10,Delhi,Air India booking,83,0.051
+2026-01-11,Delhi,Air India booking,74,0.048
+2026-01-12,Delhi,Air India booking,73,0.04
+2026-01-13,Delhi,Air India booking,64,0.055
+2026-01-14,Delhi,Air India booking,63,0.051
+2026-01-15,Delhi,Air India booking,66,0.011
+2026-01-16,Delhi,Air India booking,80,0.024
+2026-01-17,Delhi,Air India booking,88,0.048
+2026-01-18,Delhi,Air India booking,74,0.028
+2026-01-19,Delhi,Air India booking,65,0.063
+2026-01-20,Delhi,Air India booking,63,0.051
+2026-01-21,Delhi,Air India booking,65,0.049
+2026-01-22,Delhi,Air India booking,61,0.038
+2026-01-23,Delhi,Air India booking,85,0.033
+2026-01-24,Delhi,Air India booking,78,0.066
+2026-01-25,Delhi,Air India booking,72,0.033
+2026-01-26,Delhi,Air India booking,72,0.029
+2026-01-27,Delhi,Air India booking,59,0.018
+2026-01-28,Delhi,Air India booking,60,0.026
+2026-01-29,Delhi,Air India booking,60,0.066
+2026-01-30,Delhi,Air India booking,77,0.021
+2026-01-31,Delhi,Air India booking,85,0.086
+2026-02-01,Delhi,Air India booking,79,0.078
+2026-02-02,Delhi,Air India booking,68,0.026
+2026-02-03,Delhi,Air India booking,60,0.05
+2026-02-04,Delhi,Air India booking,65,0.059
+2026-02-05,Delhi,Air India booking,68,0.052
+2026-02-06,Delhi,Air India booking,82,0.036
+2026-02-07,Delhi,Air India booking,93,0.077
+2026-02-08,Delhi,Air India booking,78,0.025
+2026-02-09,Delhi,Air India booking,64,0.043
+2026-02-10,Delhi,Air India booking,61,0.077
+2026-02-11,Delhi,Air India booking,66,0.053
+2026-02-12,Delhi,Air India booking,70,0.043
+2025-12-15,Maharashtra,Air India booking,63,0.095
+2025-12-16,Maharashtra,Air India booking,63,0.035
+2025-12-17,Maharashtra,Air India booking,56,0.018
+2025-12-18,Maharashtra,Air India booking,68,0.054
+2025-12-19,Maharashtra,Air India booking,85,0.059
+2025-12-20,Maharashtra,Air India booking,79,0.072
+2025-12-21,Maharashtra,Air India booking,81,0.022
+2025-12-22,Maharashtra,Air India booking,63,0.029
+2025-12-23,Maharashtra,Air India booking,64,0.042
+2025-12-24,Maharashtra,Air India booking,62,0.071
+2025-12-25,Maharashtra,Air India booking,62,0.037
+2025-12-26,Maharashtra,Air India booking,83,0.02
+2025-12-27,Maharashtra,Air India booking,77,0.053
+2025-12-28,Maharashtra,Air India booking,98,0.049
+2025-12-29,Maharashtra,Air India booking,65,0.036
+2025-12-30,Maharashtra,Air India booking,66,0.014
+2025-12-31,Maharashtra,Air India booking,52,0.074
+2026-01-01,Maharashtra,Air India booking,60,0.036
+2026-01-02,Maharashtra,Air India booking,87,0.074
+2026-01-03,Maharashtra,Air India booking,74,0.05
+2026-01-04,Maharashtra,Air India booking,79,0.076
+2026-01-05,Maharashtra,Air India booking,56,0.063
+2026-01-06,Maharashtra,Air India booking,66,0.065
+2026-01-07,Maharashtra,Air India booking,66,0.039
+2026-01-08,Maharashtra,Air India booking,61,0.053
+2026-01-09,Maharashtra,Air India booking,82,0.025
+2026-01-10,Maharashtra,Air India booking,78,0.016
+2026-01-11,Maharashtra,Air India booking,80,0.048
+2026-01-12,Maharashtra,Air India booking,70,0.067
+2026-01-13,Maharashtra,Air India booking,62,0.055
+2026-01-14,Maharashtra,Air India booking,69,0.085
+2026-01-15,Maharashtra,Air India booking,56,0.031
+2026-01-16,Maharashtra,Air India booking,76,0.029
+2026-01-17,Maharashtra,Air India booking,84,0.064
+2026-01-18,Maharashtra,Air India booking,85,0.066
+2026-01-19,Maharashtra,Air India booking,73,0.048
+2026-01-20,Maharashtra,Air India booking,74,0.044
+2026-01-21,Maharashtra,Air India booking,64,0.041
+2026-01-22,Maharashtra,Air India booking,71,0.036
+2026-01-23,Maharashtra,Air India booking,77,0.035
+2026-01-24,Maharashtra,Air India booking,87,0.034
+2026-01-25,Maharashtra,Air India booking,86,0.086
+2026-01-26,Maharashtra,Air India booking,60,0.059
+2026-01-27,Maharashtra,Air India booking,70,0.04
+2026-01-28,Maharashtra,Air India booking,63,0.036
+2026-01-29,Maharashtra,Air India booking,59,0.043
+2026-01-30,Maharashtra,Air India booking,74,0.051
+2026-01-31,Maharashtra,Air India booking,91,0.075
+2026-02-01,Maharashtra,Air India booking,76,0.062
+2026-02-02,Maharashtra,Air India booking,62,0.095
+2026-02-03,Maharashtra,Air India booking,62,0.02
+2026-02-04,Maharashtra,Air India booking,69,0.08
+2026-02-05,Maharashtra,Air India booking,58,0.011
+2026-02-06,Maharashtra,Air India booking,79,0.048
+2026-02-07,Maharashtra,Air India booking,79,0.02
+2026-02-08,Maharashtra,Air India booking,78,0.047
+2026-02-09,Maharashtra,Air India booking,75,0.059
+2026-02-10,Maharashtra,Air India booking,67,0.035
+2026-02-11,Maharashtra,Air India booking,57,0.072
+2026-02-12,Maharashtra,Air India booking,64,0.017
+2025-12-15,Karnataka,Air India booking,64,0.055
+2025-12-16,Karnataka,Air India booking,58,0.061
+2025-12-17,Karnataka,Air India booking,55,0.073
+2025-12-18,Karnataka,Air India booking,63,0.02
+2025-12-19,Karnataka,Air India booking,81,0.07
+2025-12-20,Karnataka,Air India booking,74,0.074
+2025-12-21,Karnataka,Air India booking,74,0.066
+2025-12-22,Karnataka,Air India booking,55,0.064
+2025-12-23,Karnataka,Air India booking,68,0.06
+2025-12-24,Karnataka,Air India booking,60,0.062
+2025-12-25,Karnataka,Air India booking,57,0.058
+2025-12-26,Karnataka,Air India booking,85,0.052
+2025-12-27,Karnataka,Air India booking,78,0.047
+2025-12-28,Karnataka,Air India booking,89,0.051
+2025-12-29,Karnataka,Air India booking,58,0.069
+2025-12-30,Karnataka,Air India booking,61,0.079
+2025-12-31,Karnataka,Air India booking,61,0.049
+2026-01-01,Karnataka,Air India booking,65,0.041
+2026-01-02,Karnataka,Air India booking,68,0.043
+2026-01-03,Karnataka,Air India booking,81,0.063
+2026-01-04,Karnataka,Air India booking,85,0.051
+2026-01-05,Karnataka,Air India booking,63,0.059
+2026-01-06,Karnataka,Air India booking,73,0.045
+2026-01-07,Karnataka,Air India booking,58,0.016
+2026-01-08,Karnataka,Air India booking,63,0.016
+2026-01-09,Karnataka,Air India booking,88,0.045
+2026-01-10,Karnataka,Air India booking,81,0.062
+2026-01-11,Karnataka,Air India booking,78,0.054
+2026-01-12,Karnataka,Air India booking,62,0.063
+2026-01-13,Karnataka,Air India booking,63,0.053
+2026-01-14,Karnataka,Air India booking,55,0.071
+2026-01-15,Karnataka,Air India booking,68,0.058
+2026-01-16,Karnataka,Air India booking,80,0.019
+2026-01-17,Karnataka,Air India booking,83,0.029
+2026-01-18,Karnataka,Air India booking,83,0.04
+2026-01-19,Karnataka,Air India booking,69,0.059
+2026-01-20,Karnataka,Air India booking,67,0.063
+2026-01-21,Karnataka,Air India booking,64,0.056
+2026-01-22,Karnataka,Air India booking,64,0.032
+2026-01-23,Karnataka,Air India booking,80,0.052
+2026-01-24,Karnataka,Air India booking,78,0.002
+2026-01-25,Karnataka,Air India booking,79,0.016
+2026-01-26,Karnataka,Air India booking,64,0.064
+2026-01-27,Karnataka,Air India booking,57,0.055
+2026-01-28,Karnataka,Air India booking,66,0.058
+2026-01-29,Karnataka,Air India booking,54,0.072
+2026-01-30,Karnataka,Air India booking,86,0.042
+2026-01-31,Karnataka,Air India booking,87,0.034
+2026-02-01,Karnataka,Air India booking,83,0.052
+2026-02-02,Karnataka,Air India booking,58,0.051
+2026-02-03,Karnataka,Air India booking,58,0.043
+2026-02-04,Karnataka,Air India booking,61,0.082
+2026-02-05,Karnataka,Air India booking,61,0.086
+2026-02-06,Karnataka,Air India booking,80,0.068
+2026-02-07,Karnataka,Air India booking,83,0.035
+2026-02-08,Karnataka,Air India booking,83,0.081
+2026-02-09,Karnataka,Air India booking,73,0.044
+2026-02-10,Karnataka,Air India booking,64,0.059
+2026-02-11,Karnataka,Air India booking,64,0.043
+2026-02-12,Karnataka,Air India booking,64,0.042
+2025-12-15,Tamil Nadu,Air India booking,61,0.053
+2025-12-16,Tamil Nadu,Air India booking,57,0.067
+2025-12-17,Tamil Nadu,Air India booking,59,0.018
+2025-12-18,Tamil Nadu,Air India booking,62,0.035
+2025-12-19,Tamil Nadu,Air India booking,76,0.061
+2025-12-20,Tamil Nadu,Air India booking,82,0.039
+2025-12-21,Tamil Nadu,Air India booking,81,0.042
+2025-12-22,Tamil Nadu,Air India booking,66,0.073
+2025-12-23,Tamil Nadu,Air India booking,54,0.045
+2025-12-24,Tamil Nadu,Air India booking,61,0.067
+2025-12-25,Tamil Nadu,Air India booking,59,-0.006
+2025-12-26,Tamil Nadu,Air India booking,71,0.055
+2025-12-27,Tamil Nadu,Air India booking,73,0.045
+2025-12-28,Tamil Nadu,Air India booking,76,0.011
+2025-12-29,Tamil Nadu,Air India booking,55,0.029
+2025-12-30,Tamil Nadu,Air India booking,56,0.019
+2025-12-31,Tamil Nadu,Air India booking,63,0.039
+2026-01-01,Tamil Nadu,Air India booking,64,0.05
+2026-01-02,Tamil Nadu,Air India booking,94,0.037
+2026-01-03,Tamil Nadu,Air India booking,80,0.065
+2026-01-04,Tamil Nadu,Air India booking,79,0.038
+2026-01-05,Tamil Nadu,Air India booking,57,0.047
+2026-01-06,Tamil Nadu,Air India booking,65,0.052
+2026-01-07,Tamil Nadu,Air India booking,54,0.054
+2026-01-08,Tamil Nadu,Air India booking,66,0.06
+2026-01-09,Tamil Nadu,Air India booking,81,0.057
+2026-01-10,Tamil Nadu,Air India booking,74,0.044
+2026-01-11,Tamil Nadu,Air India booking,76,0.072
+2026-01-12,Tamil Nadu,Air India booking,75,0.097
+2026-01-13,Tamil Nadu,Air India booking,71,0.058
+2026-01-14,Tamil Nadu,Air India booking,67,0.034
+2026-01-15,Tamil Nadu,Air India booking,64,0.06
+2026-01-16,Tamil Nadu,Air India booking,78,0.042
+2026-01-17,Tamil Nadu,Air India booking,76,0.066
+2026-01-18,Tamil Nadu,Air India booking,75,0.074
+2026-01-19,Tamil Nadu,Air India booking,76,0.055
+2026-01-20,Tamil Nadu,Air India booking,69,0.052
+2026-01-21,Tamil Nadu,Air India booking,68,0.056
+2026-01-22,Tamil Nadu,Air India booking,64,0.06
+2026-01-23,Tamil Nadu,Air India booking,80,0.039
+2026-01-24,Tamil Nadu,Air India booking,72,0.041
+2026-01-25,Tamil Nadu,Air India booking,85,0.062
+2026-01-26,Tamil Nadu,Air India booking,61,0.05
+2026-01-27,Tamil Nadu,Air India booking,57,0.045
+2026-01-28,Tamil Nadu,Air India booking,71,0.041
+2026-01-29,Tamil Nadu,Air India booking,61,0.013
+2026-01-30,Tamil Nadu,Air India booking,84,0.028
+2026-01-31,Tamil Nadu,Air India booking,86,0.036
+2026-02-01,Tamil Nadu,Air India booking,86,0.075
+2026-02-02,Tamil Nadu,Air India booking,64,0.055
+2026-02-03,Tamil Nadu,Air India booking,51,0.05
+2026-02-04,Tamil Nadu,Air India booking,71,0.047
+2026-02-05,Tamil Nadu,Air India booking,61,0.074
+2026-02-06,Tamil Nadu,Air India booking,79,0.056
+2026-02-07,Tamil Nadu,Air India booking,85,0.042
+2026-02-08,Tamil Nadu,Air India booking,73,0.055
+2026-02-09,Tamil Nadu,Air India booking,64,0.058
+2026-02-10,Tamil Nadu,Air India booking,63,0.048
+2026-02-11,Tamil Nadu,Air India booking,60,0.053
+2026-02-12,Tamil Nadu,Air India booking,68,0.074
+2025-12-15,West Bengal,Air India booking,58,0.042
+2025-12-16,West Bengal,Air India booking,61,0.001
+2025-12-17,West Bengal,Air India booking,56,0.008
+2025-12-18,West Bengal,Air India booking,62,0.031
+2025-12-19,West Bengal,Air India booking,78,0.036
+2025-12-20,West Bengal,Air India booking,82,0.016
+2025-12-21,West Bengal,Air India booking,88,0.041
+2025-12-22,West Bengal,Air India booking,57,0.056
+2025-12-23,West Bengal,Air India booking,48,0.01
+2025-12-24,West Bengal,Air India booking,67,0.052
+2025-12-25,West Bengal,Air India booking,67,0.041
+2025-12-26,West Bengal,Air India booking,65,0.023
+2025-12-27,West Bengal,Air India booking,71,0.04
+2025-12-28,West Bengal,Air India booking,75,0.074
+2025-12-29,West Bengal,Air India booking,62,0.017
+2025-12-30,West Bengal,Air India booking,61,0.032
+2025-12-31,West Bengal,Air India booking,64,0.049
+2026-01-01,West Bengal,Air India booking,66,0.039
+2026-01-02,West Bengal,Air India booking,77,0.05
+2026-01-03,West Bengal,Air India booking,78,0.044
+2026-01-04,West Bengal,Air India booking,86,0.065
+2026-01-05,West Bengal,Air India booking,65,0.041
+2026-01-06,West Bengal,Air India booking,69,0.038
+2026-01-07,West Bengal,Air India booking,62,0.047
+2026-01-08,West Bengal,Air India booking,65,0.026
+2026-01-09,West Bengal,Air India booking,79,0.028
+2026-01-10,West Bengal,Air India booking,93,0.023
+2026-01-11,West Bengal,Air India booking,85,0.013
+2026-01-12,West Bengal,Air India booking,59,0.047
+2026-01-13,West Bengal,Air India booking,67,0.027
+2026-01-14,West Bengal,Air India booking,69,0.05
+2026-01-15,West Bengal,Air India booking,69,0.03
+2026-01-16,West Bengal,Air India booking,70,0.029
+2026-01-17,West Bengal,Air India booking,73,0.01
+2026-01-18,West Bengal,Air India booking,79,0.072
+2026-01-19,West Bengal,Air India booking,59,0.021
+2026-01-20,West Bengal,Air India booking,64,0.04
+2026-01-21,West Bengal,Air India booking,68,0.062
+2026-01-22,West Bengal,Air India booking,67,0.006
+2026-01-23,West Bengal,Air India booking,69,0.03
+2026-01-24,West Bengal,Air India booking,67,0.06
+2026-01-25,West Bengal,Air India booking,91,0.039
+2026-01-26,West Bengal,Air India booking,70,0.039
+2026-01-27,West Bengal,Air India booking,59,0.057
+2026-01-28,West Bengal,Air India booking,71,0.058
+2026-01-29,West Bengal,Air India booking,59,0.059
+2026-01-30,West Bengal,Air India booking,81,0.023
+2026-01-31,West Bengal,Air India booking,78,0.009
+2026-02-01,West Bengal,Air India booking,81,0.067
+2026-02-02,West Bengal,Air India booking,70,0.047
+2026-02-03,West Bengal,Air India booking,67,0.034
+2026-02-04,West Bengal,Air India booking,61,0.04
+2026-02-05,West Bengal,Air India booking,60,0.032
+2026-02-06,West Bengal,Air India booking,77,0.113
+2026-02-07,West Bengal,Air India booking,83,0.051
+2026-02-08,West Bengal,Air India booking,94,0.045
+2026-02-09,West Bengal,Air India booking,66,0.032
+2026-02-10,West Bengal,Air India booking,71,0.059
+2026-02-11,West Bengal,Air India booking,59,0.033
+2026-02-12,West Bengal,Air India booking,63,0.032
+2025-12-15,India,Cheap flights to Goa,69,0.019
+2025-12-16,India,Cheap flights to Goa,65,0.002
+2025-12-17,India,Cheap flights to Goa,52,0.001
+2025-12-18,India,Cheap flights to Goa,68,-0.005
+2025-12-19,India,Cheap flights to Goa,81,-0.01
+2025-12-20,India,Cheap flights to Goa,73,0.025
+2025-12-21,India,Cheap flights to Goa,82,0.01
+2025-12-22,India,Cheap flights to Goa,62,0.024
+2025-12-23,India,Cheap flights to Goa,62,0.017
+2025-12-24,India,Cheap flights to Goa,58,-0.043
+2025-12-25,India,Cheap flights to Goa,64,-0.009
+2025-12-26,India,Cheap flights to Goa,78,0.009
+2025-12-27,India,Cheap flights to Goa,85,-0.006
+2025-12-28,India,Cheap flights to Goa,95,0.028
+2025-12-29,India,Cheap flights to Goa,62,0.033
+2025-12-30,India,Cheap flights to Goa,62,0.018
+2025-12-31,India,Cheap flights to Goa,54,0.016
+2026-01-01,India,Cheap flights to Goa,54,0.009
+2026-01-02,India,Cheap flights to Goa,80,-0.024
+2026-01-03,India,Cheap flights to Goa,81,0.012
+2026-01-04,India,Cheap flights to Goa,79,-0.014
+2026-01-05,India,Cheap flights to Goa,64,0.006
+2026-01-06,India,Cheap flights to Goa,55,0.021
+2026-01-07,India,Cheap flights to Goa,61,0.008
+2026-01-08,India,Cheap flights to Goa,62,0.013
+2026-01-09,India,Cheap flights to Goa,73,0.01
+2026-01-10,India,Cheap flights to Goa,83,0.02
+2026-01-11,India,Cheap flights to Goa,89,0.012
+2026-01-12,India,Cheap flights to Goa,71,-0.006
+2026-01-13,India,Cheap flights to Goa,67,-0.011
+2026-01-14,India,Cheap flights to Goa,62,-0.007
+2026-01-15,India,Cheap flights to Goa,69,-0.006
+2026-01-16,India,Cheap flights to Goa,87,0.004
+2026-01-17,India,Cheap flights to Goa,86,-0.018
+2026-01-18,India,Cheap flights to Goa,85,0.01
+2026-01-19,India,Cheap flights to Goa,59,-0.007
+2026-01-20,India,Cheap flights to Goa,60,-0.019
+2026-01-21,India,Cheap flights to Goa,62,-0.02
+2026-01-22,India,Cheap flights to Goa,67,-0.021
+2026-01-23,India,Cheap flights to Goa,85,-0.01
+2026-01-24,India,Cheap flights to Goa,75,0.016
+2026-01-25,India,Cheap flights to Goa,76,-0.009
+2026-01-26,India,Cheap flights to Goa,74,0.046
+2026-01-27,India,Cheap flights to Goa,54,-0.003
+2026-01-28,India,Cheap flights to Goa,60,0.003
+2026-01-29,India,Cheap flights to Goa,63,0.007
+2026-01-30,India,Cheap flights to Goa,75,-0.015
+2026-01-31,India,Cheap flights to Goa,79,-0.0
+2026-02-01,India,Cheap flights to Goa,82,-0.013
+2026-02-02,India,Cheap flights to Goa,65,-0.021
+2026-02-03,India,Cheap flights to Goa,59,-0.001
+2026-02-04,India,Cheap flights to Goa,61,-0.001
+2026-02-05,India,Cheap flights to Goa,66,0.021
+2026-02-06,India,Cheap flights to Goa,79,0.018
+2026-02-07,India,Cheap flights to Goa,85,-0.007
+2026-02-08,India,Cheap flights to Goa,74,0.005
+2026-02-09,India,Cheap flights to Goa,62,-0.021
+2026-02-10,India,Cheap flights to Goa,69,0.021
+2026-02-11,India,Cheap flights to Goa,60,-0.01
+2026-02-12,India,Cheap flights to Goa,67,-0.028
+2025-12-15,Delhi,Cheap flights to Goa,74,-0.002
+2025-12-16,Delhi,Cheap flights to Goa,60,0.039
+2025-12-17,Delhi,Cheap flights to Goa,51,0.025
+2025-12-18,Delhi,Cheap flights to Goa,57,-0.013
+2025-12-19,Delhi,Cheap flights to Goa,84,0.024
+2025-12-20,Delhi,Cheap flights to Goa,77,-0.004
+2025-12-21,Delhi,Cheap flights to Goa,77,-0.005
+2025-12-22,Delhi,Cheap flights to Goa,67,0.001
+2025-12-23,Delhi,Cheap flights to Goa,66,0.037
+2025-12-24,Delhi,Cheap flights to Goa,61,-0.013
+2025-12-25,Delhi,Cheap flights to Goa,62,0.018
+2025-12-26,Delhi,Cheap flights to Goa,64,-0.01
+2025-12-27,Delhi,Cheap flights to Goa,81,0.012
+2025-12-28,Delhi,Cheap flights to Goa,74,0.011
+2025-12-29,Delhi,Cheap flights to Goa,63,-0.02
+2025-12-30,Delhi,Cheap flights to Goa,55,-0.019
+2025-12-31,Delhi,Cheap flights to Goa,57,-0.001
+2026-01-01,Delhi,Cheap flights to Goa,62,0.023
+2026-01-02,Delhi,Cheap flights to Goa,73,-0.011
+2026-01-03,Delhi,Cheap flights to Goa,74,-0.003
+2026-01-04,Delhi,Cheap flights to Goa,79,-0.012
+2026-01-05,Delhi,Cheap flights to Goa,59,0.01
+2026-01-06,Delhi,Cheap flights to Goa,62,0.021
+2026-01-07,Delhi,Cheap flights to Goa,67,0.011
+2026-01-08,Delhi,Cheap flights to Goa,66,-0.004
+2026-01-09,Delhi,Cheap flights to Goa,75,0.007
+2026-01-10,Delhi,Cheap flights to Goa,75,0.009
+2026-01-11,Delhi,Cheap flights to Goa,86,0.007
+2026-01-12,Delhi,Cheap flights to Goa,62,-0.043
+2026-01-13,Delhi,Cheap flights to Goa,68,-0.016
+2026-01-14,Delhi,Cheap flights to Goa,59,-0.008
+2026-01-15,Delhi,Cheap flights to Goa,61,0.006
+2026-01-16,Delhi,Cheap flights to Goa,80,0.002
+2026-01-17,Delhi,Cheap flights to Goa,80,-0.024
+2026-01-18,Delhi,Cheap flights to Goa,83,-0.021
+2026-01-19,Delhi,Cheap flights to Goa,62,0.043
+2026-01-20,Delhi,Cheap flights to Goa,70,0.005
+2026-01-21,Delhi,Cheap flights to Goa,54,0.036
+2026-01-22,Delhi,Cheap flights to Goa,54,0.001
+2026-01-23,Delhi,Cheap flights to Goa,76,-0.002
+2026-01-24,Delhi,Cheap flights to Goa,91,-0.006
+2026-01-25,Delhi,Cheap flights to Goa,85,-0.01
+2026-01-26,Delhi,Cheap flights to Goa,50,0.032
+2026-01-27,Delhi,Cheap flights to Goa,60,-0.015
+2026-01-28,Delhi,Cheap flights to Goa,65,0.015
+2026-01-29,Delhi,Cheap flights to Goa,62,0.017
+2026-01-30,Delhi,Cheap flights to Goa,86,-0.025
+2026-01-31,Delhi,Cheap flights to Goa,78,-0.013
+2026-02-01,Delhi,Cheap flights to Goa,80,-0.021
+2026-02-02,Delhi,Cheap flights to Goa,64,-0.0
+2026-02-03,Delhi,Cheap flights to Goa,60,0.031
+2026-02-04,Delhi,Cheap flights to Goa,59,-0.014
+2026-02-05,Delhi,Cheap flights to Goa,71,0.018
+2026-02-06,Delhi,Cheap flights to Goa,78,0.003
+2026-02-07,Delhi,Cheap flights to Goa,81,0.006
+2026-02-08,Delhi,Cheap flights to Goa,87,0.031
+2026-02-09,Delhi,Cheap flights to Goa,70,0.049
+2026-02-10,Delhi,Cheap flights to Goa,68,0.023
+2026-02-11,Delhi,Cheap flights to Goa,64,-0.002
+2026-02-12,Delhi,Cheap flights to Goa,68,0.019
+2025-12-15,Maharashtra,Cheap flights to Goa,65,0.037
+2025-12-16,Maharashtra,Cheap flights to Goa,57,0.011
+2025-12-17,Maharashtra,Cheap flights to Goa,59,0.036
+2025-12-18,Maharashtra,Cheap flights to Goa,57,0.009
+2025-12-19,Maharashtra,Cheap flights to Goa,81,-0.019
+2025-12-20,Maharashtra,Cheap flights to Goa,89,-0.008
+2025-12-21,Maharashtra,Cheap flights to Goa,87,0.008
+2025-12-22,Maharashtra,Cheap flights to Goa,67,-0.002
+2025-12-23,Maharashtra,Cheap flights to Goa,60,0.02
+2025-12-24,Maharashtra,Cheap flights to Goa,63,0.003
+2025-12-25,Maharashtra,Cheap flights to Goa,63,-0.001
+2025-12-26,Maharashtra,Cheap flights to Goa,82,-0.014
+2025-12-27,Maharashtra,Cheap flights to Goa,85,0.02
+2025-12-28,Maharashtra,Cheap flights to Goa,78,-0.015
+2025-12-29,Maharashtra,Cheap flights to Goa,60,-0.005
+2025-12-30,Maharashtra,Cheap flights to Goa,59,0.028
+2025-12-31,Maharashtra,Cheap flights to Goa,69,-0.022
+2026-01-01,Maharashtra,Cheap flights to Goa,60,-0.004
+2026-01-02,Maharashtra,Cheap flights to Goa,81,-0.028
+2026-01-03,Maharashtra,Cheap flights to Goa,86,-0.009
+2026-01-04,Maharashtra,Cheap flights to Goa,81,0.007
+2026-01-05,Maharashtra,Cheap flights to Goa,70,0.0
+2026-01-06,Maharashtra,Cheap flights to Goa,67,0.006
+2026-01-07,Maharashtra,Cheap flights to Goa,57,-0.025
+2026-01-08,Maharashtra,Cheap flights to Goa,67,-0.019
+2026-01-09,Maharashtra,Cheap flights to Goa,79,-0.013
+2026-01-10,Maharashtra,Cheap flights to Goa,77,-0.007
+2026-01-11,Maharashtra,Cheap flights to Goa,69,-0.0
+2026-01-12,Maharashtra,Cheap flights to Goa,71,-0.013
+2026-01-13,Maharashtra,Cheap flights to Goa,74,0.001
+2026-01-14,Maharashtra,Cheap flights to Goa,64,0.057
+2026-01-15,Maharashtra,Cheap flights to Goa,55,0.01
+2026-01-16,Maharashtra,Cheap flights to Goa,89,-0.045
+2026-01-17,Maharashtra,Cheap flights to Goa,73,-0.016
+2026-01-18,Maharashtra,Cheap flights to Goa,80,-0.027
+2026-01-19,Maharashtra,Cheap flights to Goa,60,0.018
+2026-01-20,Maharashtra,Cheap flights to Goa,65,-0.014
+2026-01-21,Maharashtra,Cheap flights to Goa,60,0.009
+2026-01-22,Maharashtra,Cheap flights to Goa,67,-0.032
+2026-01-23,Maharashtra,Cheap flights to Goa,74,0.012
+2026-01-24,Maharashtra,Cheap flights to Goa,81,0.03
+2026-01-25,Maharashtra,Cheap flights to Goa,82,-0.02
+2026-01-26,Maharashtra,Cheap flights to Goa,59,-0.005
+2026-01-27,Maharashtra,Cheap flights to Goa,55,0.042
+2026-01-28,Maharashtra,Cheap flights to Goa,59,-0.027
+2026-01-29,Maharashtra,Cheap flights to Goa,67,0.006
+2026-01-30,Maharashtra,Cheap flights to Goa,87,0.018
+2026-01-31,Maharashtra,Cheap flights to Goa,82,-0.004
+2026-02-01,Maharashtra,Cheap flights to Goa,79,0.026
+2026-02-02,Maharashtra,Cheap flights to Goa,58,0.031
+2026-02-03,Maharashtra,Cheap flights to Goa,66,0.021
+2026-02-04,Maharashtra,Cheap flights to Goa,64,-0.001
+2026-02-05,Maharashtra,Cheap flights to Goa,53,0.005
+2026-02-06,Maharashtra,Cheap flights to Goa,70,0.059
+2026-02-07,Maharashtra,Cheap flights to Goa,91,0.001
+2026-02-08,Maharashtra,Cheap flights to Goa,82,0.041
+2026-02-09,Maharashtra,Cheap flights to Goa,61,0.01
+2026-02-10,Maharashtra,Cheap flights to Goa,56,-0.001
+2026-02-11,Maharashtra,Cheap flights to Goa,64,-0.016
+2026-02-12,Maharashtra,Cheap flights to Goa,55,0.016
+2025-12-15,Karnataka,Cheap flights to Goa,64,0.01
+2025-12-16,Karnataka,Cheap flights to Goa,64,-0.006
+2025-12-17,Karnataka,Cheap flights to Goa,60,-0.026
+2025-12-18,Karnataka,Cheap flights to Goa,62,-0.005
+2025-12-19,Karnataka,Cheap flights to Goa,72,0.002
+2025-12-20,Karnataka,Cheap flights to Goa,70,0.019
+2025-12-21,Karnataka,Cheap flights to Goa,86,0.003
+2025-12-22,Karnataka,Cheap flights to Goa,65,-0.004
+2025-12-23,Karnataka,Cheap flights to Goa,58,-0.008
+2025-12-24,Karnataka,Cheap flights to Goa,55,-0.012
+2025-12-25,Karnataka,Cheap flights to Goa,59,0.007
+2025-12-26,Karnataka,Cheap flights to Goa,81,-0.001
+2025-12-27,Karnataka,Cheap flights to Goa,85,0.007
+2025-12-28,Karnataka,Cheap flights to Goa,78,0.008
+2025-12-29,Karnataka,Cheap flights to Goa,74,0.023
+2025-12-30,Karnataka,Cheap flights to Goa,70,0.019
+2025-12-31,Karnataka,Cheap flights to Goa,69,0.031
+2026-01-01,Karnataka,Cheap flights to Goa,58,0.005
+2026-01-02,Karnataka,Cheap flights to Goa,82,0.033
+2026-01-03,Karnataka,Cheap flights to Goa,82,-0.044
+2026-01-04,Karnataka,Cheap flights to Goa,79,0.005
+2026-01-05,Karnataka,Cheap flights to Goa,49,0.022
+2026-01-06,Karnataka,Cheap flights to Goa,60,0.007
+2026-01-07,Karnataka,Cheap flights to Goa,66,0.019
+2026-01-08,Karnataka,Cheap flights to Goa,67,0.003
+2026-01-09,Karnataka,Cheap flights to Goa,88,0.033
+2026-01-10,Karnataka,Cheap flights to Goa,75,0.023
+2026-01-11,Karnataka,Cheap flights to Goa,78,-0.024
+2026-01-12,Karnataka,Cheap flights to Goa,56,0.018
+2026-01-13,Karnataka,Cheap flights to Goa,56,0.033
+2026-01-14,Karnataka,Cheap flights to Goa,59,-0.01
+2026-01-15,Karnataka,Cheap flights to Goa,61,0.031
+2026-01-16,Karnataka,Cheap flights to Goa,79,-0.01
+2026-01-17,Karnataka,Cheap flights to Goa,85,-0.008
+2026-01-18,Karnataka,Cheap flights to Goa,75,-0.022
+2026-01-19,Karnataka,Cheap flights to Goa,64,-0.037
+2026-01-20,Karnataka,Cheap flights to Goa,63,-0.022
+2026-01-21,Karnataka,Cheap flights to Goa,62,-0.03
+2026-01-22,Karnataka,Cheap flights to Goa,64,0.011
+2026-01-23,Karnataka,Cheap flights to Goa,83,-0.024
+2026-01-24,Karnataka,Cheap flights to Goa,91,-0.001
+2026-01-25,Karnataka,Cheap flights to Goa,65,-0.02
+2026-01-26,Karnataka,Cheap flights to Goa,55,0.005
+2026-01-27,Karnataka,Cheap flights to Goa,62,0.023
+2026-01-28,Karnataka,Cheap flights to Goa,56,0.012
+2026-01-29,Karnataka,Cheap flights to Goa,62,0.033
+2026-01-30,Karnataka,Cheap flights to Goa,74,0.015
+2026-01-31,Karnataka,Cheap flights to Goa,75,0.003
+2026-02-01,Karnataka,Cheap flights to Goa,83,0.003
+2026-02-02,Karnataka,Cheap flights to Goa,47,0.025
+2026-02-03,Karnataka,Cheap flights to Goa,64,0.021
+2026-02-04,Karnataka,Cheap flights to Goa,68,-0.016
+2026-02-05,Karnataka,Cheap flights to Goa,60,-0.011
+2026-02-06,Karnataka,Cheap flights to Goa,78,0.028
+2026-02-07,Karnataka,Cheap flights to Goa,68,0.039
+2026-02-08,Karnataka,Cheap flights to Goa,80,-0.039
+2026-02-09,Karnataka,Cheap flights to Goa,66,-0.014
+2026-02-10,Karnataka,Cheap flights to Goa,63,0.018
+2026-02-11,Karnataka,Cheap flights to Goa,57,0.015
+2026-02-12,Karnataka,Cheap flights to Goa,64,-0.007
+2025-12-15,Tamil Nadu,Cheap flights to Goa,60,0.043
+2025-12-16,Tamil Nadu,Cheap flights to Goa,59,-0.029
+2025-12-17,Tamil Nadu,Cheap flights to Goa,67,-0.007
+2025-12-18,Tamil Nadu,Cheap flights to Goa,58,0.029
+2025-12-19,Tamil Nadu,Cheap flights to Goa,81,0.004
+2025-12-20,Tamil Nadu,Cheap flights to Goa,80,0.003
+2025-12-21,Tamil Nadu,Cheap flights to Goa,89,-0.055
+2025-12-22,Tamil Nadu,Cheap flights to Goa,63,0.012
+2025-12-23,Tamil Nadu,Cheap flights to Goa,60,-0.048
+2025-12-24,Tamil Nadu,Cheap flights to Goa,57,0.04
+2025-12-25,Tamil Nadu,Cheap flights to Goa,65,0.006
+2025-12-26,Tamil Nadu,Cheap flights to Goa,85,0.004
+2025-12-27,Tamil Nadu,Cheap flights to Goa,74,-0.028
+2025-12-28,Tamil Nadu,Cheap flights to Goa,67,0.004
+2025-12-29,Tamil Nadu,Cheap flights to Goa,60,-0.005
+2025-12-30,Tamil Nadu,Cheap flights to Goa,64,-0.013
+2025-12-31,Tamil Nadu,Cheap flights to Goa,63,-0.032
+2026-01-01,Tamil Nadu,Cheap flights to Goa,61,-0.019
+2026-01-02,Tamil Nadu,Cheap flights to Goa,75,-0.026
+2026-01-03,Tamil Nadu,Cheap flights to Goa,70,0.006
+2026-01-04,Tamil Nadu,Cheap flights to Goa,75,0.005
+2026-01-05,Tamil Nadu,Cheap flights to Goa,73,0.018
+2026-01-06,Tamil Nadu,Cheap flights to Goa,57,-0.004
+2026-01-07,Tamil Nadu,Cheap flights to Goa,65,0.023
+2026-01-08,Tamil Nadu,Cheap flights to Goa,63,-0.019
+2026-01-09,Tamil Nadu,Cheap flights to Goa,78,0.005
+2026-01-10,Tamil Nadu,Cheap flights to Goa,75,0.011
+2026-01-11,Tamil Nadu,Cheap flights to Goa,81,0.003
+2026-01-12,Tamil Nadu,Cheap flights to Goa,67,0.01
+2026-01-13,Tamil Nadu,Cheap flights to Goa,57,-0.001
+2026-01-14,Tamil Nadu,Cheap flights to Goa,60,0.007
+2026-01-15,Tamil Nadu,Cheap flights to Goa,57,0.017
+2026-01-16,Tamil Nadu,Cheap flights to Goa,81,0.012
+2026-01-17,Tamil Nadu,Cheap flights to Goa,86,0.027
+2026-01-18,Tamil Nadu,Cheap flights to Goa,86,-0.012
+2026-01-19,Tamil Nadu,Cheap flights to Goa,71,0.027
+2026-01-20,Tamil Nadu,Cheap flights to Goa,68,-0.029
+2026-01-21,Tamil Nadu,Cheap flights to Goa,66,0.012
+2026-01-22,Tamil Nadu,Cheap flights to Goa,56,-0.001
+2026-01-23,Tamil Nadu,Cheap flights to Goa,74,0.018
+2026-01-24,Tamil Nadu,Cheap flights to Goa,63,0.017
+2026-01-25,Tamil Nadu,Cheap flights to Goa,74,0.005
+2026-01-26,Tamil Nadu,Cheap flights to Goa,68,0.031
+2026-01-27,Tamil Nadu,Cheap flights to Goa,54,0.018
+2026-01-28,Tamil Nadu,Cheap flights to Goa,61,-0.006
+2026-01-29,Tamil Nadu,Cheap flights to Goa,59,-0.007
+2026-01-30,Tamil Nadu,Cheap flights to Goa,78,0.005
+2026-01-31,Tamil Nadu,Cheap flights to Goa,77,0.049
+2026-02-01,Tamil Nadu,Cheap flights to Goa,74,-0.001
+2026-02-02,Tamil Nadu,Cheap flights to Goa,67,0.034
+2026-02-03,Tamil Nadu,Cheap flights to Goa,63,-0.037
+2026-02-04,Tamil Nadu,Cheap flights to Goa,63,0.027
+2026-02-05,Tamil Nadu,Cheap flights to Goa,64,0.027
+2026-02-06,Tamil Nadu,Cheap flights to Goa,80,0.022
+2026-02-07,Tamil Nadu,Cheap flights to Goa,74,0.037
+2026-02-08,Tamil Nadu,Cheap flights to Goa,88,0.023
+2026-02-09,Tamil Nadu,Cheap flights to Goa,59,-0.029
+2026-02-10,Tamil Nadu,Cheap flights to Goa,64,0.012
+2026-02-11,Tamil Nadu,Cheap flights to Goa,74,-0.001
+2026-02-12,Tamil Nadu,Cheap flights to Goa,64,-0.001
+2025-12-15,West Bengal,Cheap flights to Goa,70,-0.004
+2025-12-16,West Bengal,Cheap flights to Goa,58,0.01
+2025-12-17,West Bengal,Cheap flights to Goa,61,-0.017
+2025-12-18,West Bengal,Cheap flights to Goa,54,0.006
+2025-12-19,West Bengal,Cheap flights to Goa,83,-0.001
+2025-12-20,West Bengal,Cheap flights to Goa,84,-0.023
+2025-12-21,West Bengal,Cheap flights to Goa,83,0.027
+2025-12-22,West Bengal,Cheap flights to Goa,61,0.044
+2025-12-23,West Bengal,Cheap flights to Goa,63,0.013
+2025-12-24,West Bengal,Cheap flights to Goa,58,-0.026
+2025-12-25,West Bengal,Cheap flights to Goa,64,-0.014
+2025-12-26,West Bengal,Cheap flights to Goa,83,-0.007
+2025-12-27,West Bengal,Cheap flights to Goa,73,-0.044
+2025-12-28,West Bengal,Cheap flights to Goa,89,0.022
+2025-12-29,West Bengal,Cheap flights to Goa,58,-0.006
+2025-12-30,West Bengal,Cheap flights to Goa,68,-0.003
+2025-12-31,West Bengal,Cheap flights to Goa,66,0.008
+2026-01-01,West Bengal,Cheap flights to Goa,58,0.037
+2026-01-02,West Bengal,Cheap flights to Goa,72,-0.015
+2026-01-03,West Bengal,Cheap flights to Goa,78,-0.002
+2026-01-04,West Bengal,Cheap flights to Goa,69,0.005
+2026-01-05,West Bengal,Cheap flights to Goa,58,0.009
+2026-01-06,West Bengal,Cheap flights to Goa,65,0.006
+2026-01-07,West Bengal,Cheap flights to Goa,69,0.014
+2026-01-08,West Bengal,Cheap flights to Goa,65,0.015
+2026-01-09,West Bengal,Cheap flights to Goa,81,0.019
+2026-01-10,West Bengal,Cheap flights to Goa,94,-0.008
+2026-01-11,West Bengal,Cheap flights to Goa,80,0.032
+2026-01-12,West Bengal,Cheap flights to Goa,56,0.025
+2026-01-13,West Bengal,Cheap flights to Goa,65,0.025
+2026-01-14,West Bengal,Cheap flights to Goa,62,0.013
+2026-01-15,West Bengal,Cheap flights to Goa,63,-0.014
+2026-01-16,West Bengal,Cheap flights to Goa,73,0.016
+2026-01-17,West Bengal,Cheap flights to Goa,79,-0.021
+2026-01-18,West Bengal,Cheap flights to Goa,80,0.015
+2026-01-19,West Bengal,Cheap flights to Goa,64,0.039
+2026-01-20,West Bengal,Cheap flights to Goa,61,-0.003
+2026-01-21,West Bengal,Cheap flights to Goa,60,0.008
+2026-01-22,West Bengal,Cheap flights to Goa,61,0.017
+2026-01-23,West Bengal,Cheap flights to Goa,80,0.042
+2026-01-24,West Bengal,Cheap flights to Goa,74,-0.024
+2026-01-25,West Bengal,Cheap flights to Goa,66,0.026
+2026-01-26,West Bengal,Cheap flights to Goa,70,0.003
+2026-01-27,West Bengal,Cheap flights to Goa,62,0.003
+2026-01-28,West Bengal,Cheap flights to Goa,57,-0.003
+2026-01-29,West Bengal,Cheap flights to Goa,60,0.019
+2026-01-30,West Bengal,Cheap flights to Goa,74,0.006
+2026-01-31,West Bengal,Cheap flights to Goa,81,0.037
+2026-02-01,West Bengal,Cheap flights to Goa,86,-0.013
+2026-02-02,West Bengal,Cheap flights to Goa,70,-0.038
+2026-02-03,West Bengal,Cheap flights to Goa,70,0.015
+2026-02-04,West Bengal,Cheap flights to Goa,71,-0.019
+2026-02-05,West Bengal,Cheap flights to Goa,61,-0.0
+2026-02-06,West Bengal,Cheap flights to Goa,77,-0.014
+2026-02-07,West Bengal,Cheap flights to Goa,82,-0.047
+2026-02-08,West Bengal,Cheap flights to Goa,89,-0.0
+2026-02-09,West Bengal,Cheap flights to Goa,64,0.016
+2026-02-10,West Bengal,Cheap flights to Goa,56,0.009
+2026-02-11,West Bengal,Cheap flights to Goa,64,-0.023
+2026-02-12,West Bengal,Cheap flights to Goa,59,-0.015
+2025-12-15,India,Mumbai Delhi flights,59,0.053
+2025-12-16,India,Mumbai Delhi flights,63,0.074
+2025-12-17,India,Mumbai Delhi flights,72,0.053
+2025-12-18,India,Mumbai Delhi flights,66,0.081
+2025-12-19,India,Mumbai Delhi flights,80,0.071
+2025-12-20,India,Mumbai Delhi flights,89,0.113
+2025-12-21,India,Mumbai Delhi flights,81,0.069
+2025-12-22,India,Mumbai Delhi flights,64,0.024
+2025-12-23,India,Mumbai Delhi flights,68,0.041
+2025-12-24,India,Mumbai Delhi flights,53,0.038
+2025-12-25,India,Mumbai Delhi flights,61,0.03
+2025-12-26,India,Mumbai Delhi flights,86,0.056
+2025-12-27,India,Mumbai Delhi flights,86,0.057
+2025-12-28,India,Mumbai Delhi flights,77,0.068
+2025-12-29,India,Mumbai Delhi flights,58,0.048
+2025-12-30,India,Mumbai Delhi flights,64,0.059
+2025-12-31,India,Mumbai Delhi flights,63,0.044
+2026-01-01,India,Mumbai Delhi flights,70,0.034
+2026-01-02,India,Mumbai Delhi flights,82,0.034
+2026-01-03,India,Mumbai Delhi flights,81,0.033
+2026-01-04,India,Mumbai Delhi flights,81,0.059
+2026-01-05,India,Mumbai Delhi flights,64,0.041
+2026-01-06,India,Mumbai Delhi flights,58,0.074
+2026-01-07,India,Mumbai Delhi flights,59,0.068
+2026-01-08,India,Mumbai Delhi flights,58,0.061
+2026-01-09,India,Mumbai Delhi flights,69,0.046
+2026-01-10,India,Mumbai Delhi flights,94,0.057
+2026-01-11,India,Mumbai Delhi flights,87,0.064
+2026-01-12,India,Mumbai Delhi flights,60,0.045
+2026-01-13,India,Mumbai Delhi flights,62,0.052
+2026-01-14,India,Mumbai Delhi flights,62,0.061
+2026-01-15,India,Mumbai Delhi flights,76,0.045
+2026-01-16,India,Mumbai Delhi flights,82,0.037
+2026-01-17,India,Mumbai Delhi flights,81,0.049
+2026-01-18,India,Mumbai Delhi flights,82,0.064
+2026-01-19,India,Mumbai Delhi flights,60,0.043
+2026-01-20,India,Mumbai Delhi flights,58,0.047
+2026-01-21,India,Mumbai Delhi flights,67,0.049
+2026-01-22,India,Mumbai Delhi flights,66,0.028
+2026-01-23,India,Mumbai Delhi flights,82,0.047
+2026-01-24,India,Mumbai Delhi flights,87,0.095
+2026-01-25,India,Mumbai Delhi flights,91,0.068
+2026-01-26,India,Mumbai Delhi flights,67,0.073
+2026-01-27,India,Mumbai Delhi flights,65,0.062
+2026-01-28,India,Mumbai Delhi flights,75,0.048
+2026-01-29,India,Mumbai Delhi flights,75,0.029
+2026-01-30,India,Mumbai Delhi flights,82,0.05
+2026-01-31,India,Mumbai Delhi flights,83,0.049
+2026-02-01,India,Mumbai Delhi flights,80,0.091
+2026-02-02,India,Mumbai Delhi flights,66,0.057
+2026-02-03,India,Mumbai Delhi flights,57,0.051
+2026-02-04,India,Mumbai Delhi flights,69,0.047
+2026-02-05,India,Mumbai Delhi flights,62,0.07
+2026-02-06,India,Mumbai Delhi flights,93,0.027
+2026-02-07,India,Mumbai Delhi flights,88,0.041
+2026-02-08,India,Mumbai Delhi flights,84,0.014
+2026-02-09,India,Mumbai Delhi flights,71,0.028
+2026-02-10,India,Mumbai Delhi flights,57,0.039
+2026-02-11,India,Mumbai Delhi flights,65,0.029
+2026-02-12,India,Mumbai Delhi flights,67,-0.013
+2025-12-15,Delhi,Mumbai Delhi flights,59,0.02
+2025-12-16,Delhi,Mumbai Delhi flights,58,0.066
+2025-12-17,Delhi,Mumbai Delhi flights,56,0.074
+2025-12-18,Delhi,Mumbai Delhi flights,66,0.029
+2025-12-19,Delhi,Mumbai Delhi flights,70,0.083
+2025-12-20,Delhi,Mumbai Delhi flights,89,0.028
+2025-12-21,Delhi,Mumbai Delhi flights,92,0.083
+2025-12-22,Delhi,Mumbai Delhi flights,58,0.053
+2025-12-23,Delhi,Mumbai Delhi flights,70,0.027
+2025-12-24,Delhi,Mumbai Delhi flights,68,0.089
+2025-12-25,Delhi,Mumbai Delhi flights,71,0.037
+2025-12-26,Delhi,Mumbai Delhi flights,93,0.072
+2025-12-27,Delhi,Mumbai Delhi flights,91,0.077
+2025-12-28,Delhi,Mumbai Delhi flights,87,0.078
+2025-12-29,Delhi,Mumbai Delhi flights,60,0.056
+2025-12-30,Delhi,Mumbai Delhi flights,58,0.077
+2025-12-31,Delhi,Mumbai Delhi flights,57,0.057
+2026-01-01,Delhi,Mumbai Delhi flights,65,0.053
+2026-01-02,Delhi,Mumbai Delhi flights,86,0.041
+2026-01-03,Delhi,Mumbai Delhi flights,73,0.056
+2026-01-04,Delhi,Mumbai Delhi flights,80,0.042
+2026-01-05,Delhi,Mumbai Delhi flights,67,0.077
+2026-01-06,Delhi,Mumbai Delhi flights,68,0.037
+2026-01-07,Delhi,Mumbai Delhi flights,65,0.038
+2026-01-08,Delhi,Mumbai Delhi flights,67,0.046
+2026-01-09,Delhi,Mumbai Delhi flights,80,0.025
+2026-01-10,Delhi,Mumbai Delhi flights,81,0.067
+2026-01-11,Delhi,Mumbai Delhi flights,84,0.071
+2026-01-12,Delhi,Mumbai Delhi flights,68,0.086
+2026-01-13,Delhi,Mumbai Delhi flights,69,0.025
+2026-01-14,Delhi,Mumbai Delhi flights,73,0.045
+2026-01-15,Delhi,Mumbai Delhi flights,62,0.024
+2026-01-16,Delhi,Mumbai Delhi flights,95,0.03
+2026-01-17,Delhi,Mumbai Delhi flights,79,0.063
+2026-01-18,Delhi,Mumbai Delhi flights,74,0.029
+2026-01-19,Delhi,Mumbai Delhi flights,68,0.054
+2026-01-20,Delhi,Mumbai Delhi flights,73,0.085
+2026-01-21,Delhi,Mumbai Delhi flights,62,0.084
+2026-01-22,Delhi,Mumbai Delhi flights,63,0.068
+2026-01-23,Delhi,Mumbai Delhi flights,80,0.047
+2026-01-24,Delhi,Mumbai Delhi flights,95,0.05
+2026-01-25,Delhi,Mumbai Delhi flights,76,0.046
+2026-01-26,Delhi,Mumbai Delhi flights,62,0.07
+2026-01-27,Delhi,Mumbai Delhi flights,69,0.018
+2026-01-28,Delhi,Mumbai Delhi flights,55,0.049
+2026-01-29,Delhi,Mumbai Delhi flights,68,0.04
+2026-01-30,Delhi,Mumbai Delhi flights,82,0.074
+2026-01-31,Delhi,Mumbai Delhi flights,91,0.064
+2026-02-01,Delhi,Mumbai Delhi flights,83,0.057
+2026-02-02,Delhi,Mumbai Delhi flights,63,0.068
+2026-02-03,Delhi,Mumbai Delhi flights,63,0.053
+2026-02-04,Delhi,Mumbai Delhi flights,74,0.052
+2026-02-05,Delhi,Mumbai Delhi flights,76,0.062
+2026-02-06,Delhi,Mumbai Delhi flights,82,0.038
+2026-02-07,Delhi,Mumbai Delhi flights,92,0.02
+2026-02-08,Delhi,Mumbai Delhi flights,92,0.078
+2026-02-09,Delhi,Mumbai Delhi flights,67,0.031
+2026-02-10,Delhi,Mumbai Delhi flights,64,0.05
+2026-02-11,Delhi,Mumbai Delhi flights,71,0.08
+2026-02-12,Delhi,Mumbai Delhi flights,82,0.083
+2025-12-15,Maharashtra,Mumbai Delhi flights,58,0.071
+2025-12-16,Maharashtra,Mumbai Delhi flights,57,0.036
+2025-12-17,Maharashtra,Mumbai Delhi flights,60,0.068
+2025-12-18,Maharashtra,Mumbai Delhi flights,69,0.064
+2025-12-19,Maharashtra,Mumbai Delhi flights,85,0.038
+2025-12-20,Maharashtra,Mumbai Delhi flights,80,0.076
+2025-12-21,Maharashtra,Mumbai Delhi flights,85,0.059
+2025-12-22,Maharashtra,Mumbai Delhi flights,63,0.078
+2025-12-23,Maharashtra,Mumbai Delhi flights,67,0.051
+2025-12-24,Maharashtra,Mumbai Delhi flights,64,0.062
+2025-12-25,Maharashtra,Mumbai Delhi flights,59,0.019
+2025-12-26,Maharashtra,Mumbai Delhi flights,76,0.067
+2025-12-27,Maharashtra,Mumbai Delhi flights,70,0.06
+2025-12-28,Maharashtra,Mumbai Delhi flights,80,0.08
+2025-12-29,Maharashtra,Mumbai Delhi flights,64,0.037
+2025-12-30,Maharashtra,Mumbai Delhi flights,62,0.053
+2025-12-31,Maharashtra,Mumbai Delhi flights,61,0.053
+2026-01-01,Maharashtra,Mumbai Delhi flights,60,0.052
+2026-01-02,Maharashtra,Mumbai Delhi flights,85,0.047
+2026-01-03,Maharashtra,Mumbai Delhi flights,95,0.047
+2026-01-04,Maharashtra,Mumbai Delhi flights,75,0.026
+2026-01-05,Maharashtra,Mumbai Delhi flights,69,0.072
+2026-01-06,Maharashtra,Mumbai Delhi flights,65,0.064
+2026-01-07,Maharashtra,Mumbai Delhi flights,62,0.078
+2026-01-08,Maharashtra,Mumbai Delhi flights,73,0.068
+2026-01-09,Maharashtra,Mumbai Delhi flights,90,0.034
+2026-01-10,Maharashtra,Mumbai Delhi flights,73,0.038
+2026-01-11,Maharashtra,Mumbai Delhi flights,69,0.066
+2026-01-12,Maharashtra,Mumbai Delhi flights,58,0.049
+2026-01-13,Maharashtra,Mumbai Delhi flights,70,0.03
+2026-01-14,Maharashtra,Mumbai Delhi flights,67,0.056
+2026-01-15,Maharashtra,Mumbai Delhi flights,64,0.078
+2026-01-16,Maharashtra,Mumbai Delhi flights,83,0.086
+2026-01-17,Maharashtra,Mumbai Delhi flights,100,0.067
+2026-01-18,Maharashtra,Mumbai Delhi flights,87,0.112
+2026-01-19,Maharashtra,Mumbai Delhi flights,66,0.069
+2026-01-20,Maharashtra,Mumbai Delhi flights,67,0.069
+2026-01-21,Maharashtra,Mumbai Delhi flights,74,0.055
+2026-01-22,Maharashtra,Mumbai Delhi flights,67,0.063
+2026-01-23,Maharashtra,Mumbai Delhi flights,89,0.075
+2026-01-24,Maharashtra,Mumbai Delhi flights,92,0.022
+2026-01-25,Maharashtra,Mumbai Delhi flights,95,0.087
+2026-01-26,Maharashtra,Mumbai Delhi flights,69,0.085
+2026-01-27,Maharashtra,Mumbai Delhi flights,65,0.057
+2026-01-28,Maharashtra,Mumbai Delhi flights,64,0.071
+2026-01-29,Maharashtra,Mumbai Delhi flights,71,0.068
+2026-01-30,Maharashtra,Mumbai Delhi flights,87,0.044
+2026-01-31,Maharashtra,Mumbai Delhi flights,100,0.088
+2026-02-01,Maharashtra,Mumbai Delhi flights,80,0.033
+2026-02-02,Maharashtra,Mumbai Delhi flights,64,0.009
+2026-02-03,Maharashtra,Mumbai Delhi flights,59,0.045
+2026-02-04,Maharashtra,Mumbai Delhi flights,63,0.05
+2026-02-05,Maharashtra,Mumbai Delhi flights,68,0.058
+2026-02-06,Maharashtra,Mumbai Delhi flights,81,0.07
+2026-02-07,Maharashtra,Mumbai Delhi flights,84,0.068
+2026-02-08,Maharashtra,Mumbai Delhi flights,82,0.078
+2026-02-09,Maharashtra,Mumbai Delhi flights,69,0.043
+2026-02-10,Maharashtra,Mumbai Delhi flights,78,0.074
+2026-02-11,Maharashtra,Mumbai Delhi flights,73,0.072
+2026-02-12,Maharashtra,Mumbai Delhi flights,64,0.049
+2025-12-15,Karnataka,Mumbai Delhi flights,66,0.085
+2025-12-16,Karnataka,Mumbai Delhi flights,69,0.065
+2025-12-17,Karnataka,Mumbai Delhi flights,61,0.077
+2025-12-18,Karnataka,Mumbai Delhi flights,61,0.057
+2025-12-19,Karnataka,Mumbai Delhi flights,80,0.09
+2025-12-20,Karnataka,Mumbai Delhi flights,80,0.066
+2025-12-21,Karnataka,Mumbai Delhi flights,78,0.051
+2025-12-22,Karnataka,Mumbai Delhi flights,65,0.081
+2025-12-23,Karnataka,Mumbai Delhi flights,64,0.06
+2025-12-24,Karnataka,Mumbai Delhi flights,64,0.05
+2025-12-25,Karnataka,Mumbai Delhi flights,58,0.082
+2025-12-26,Karnataka,Mumbai Delhi flights,77,0.04
+2025-12-27,Karnataka,Mumbai Delhi flights,63,0.09
+2025-12-28,Karnataka,Mumbai Delhi flights,70,0.053
+2025-12-29,Karnataka,Mumbai Delhi flights,62,0.028
+2025-12-30,Karnataka,Mumbai Delhi flights,58,0.06
+2025-12-31,Karnataka,Mumbai Delhi flights,61,0.052
+2026-01-01,Karnataka,Mumbai Delhi flights,58,0.058
+2026-01-02,Karnataka,Mumbai Delhi flights,84,0.074
+2026-01-03,Karnataka,Mumbai Delhi flights,81,0.059
+2026-01-04,Karnataka,Mumbai Delhi flights,94,0.077
+2026-01-05,Karnataka,Mumbai Delhi flights,64,0.069
+2026-01-06,Karnataka,Mumbai Delhi flights,63,0.071
+2026-01-07,Karnataka,Mumbai Delhi flights,69,0.061
+2026-01-08,Karnataka,Mumbai Delhi flights,69,0.078
+2026-01-09,Karnataka,Mumbai Delhi flights,81,0.077
+2026-01-10,Karnataka,Mumbai Delhi flights,78,0.055
+2026-01-11,Karnataka,Mumbai Delhi flights,86,0.058
+2026-01-12,Karnataka,Mumbai Delhi flights,74,0.076
+2026-01-13,Karnataka,Mumbai Delhi flights,61,0.042
+2026-01-14,Karnataka,Mumbai Delhi flights,63,0.066
+2026-01-15,Karnataka,Mumbai Delhi flights,59,0.066
+2026-01-16,Karnataka,Mumbai Delhi flights,78,0.082
+2026-01-17,Karnataka,Mumbai Delhi flights,74,0.075
+2026-01-18,Karnataka,Mumbai Delhi flights,79,0.063
+2026-01-19,Karnataka,Mumbai Delhi flights,69,0.056
+2026-01-20,Karnataka,Mumbai Delhi flights,66,0.048
+2026-01-21,Karnataka,Mumbai Delhi flights,59,0.085
+2026-01-22,Karnataka,Mumbai Delhi flights,71,0.047
+2026-01-23,Karnataka,Mumbai Delhi flights,72,0.066
+2026-01-24,Karnataka,Mumbai Delhi flights,83,0.046
+2026-01-25,Karnataka,Mumbai Delhi flights,79,0.062
+2026-01-26,Karnataka,Mumbai Delhi flights,72,0.092
+2026-01-27,Karnataka,Mumbai Delhi flights,66,0.03
+2026-01-28,Karnataka,Mumbai Delhi flights,64,0.046
+2026-01-29,Karnataka,Mumbai Delhi flights,65,0.042
+2026-01-30,Karnataka,Mumbai Delhi flights,86,0.059
+2026-01-31,Karnataka,Mumbai Delhi flights,86,0.063
+2026-02-01,Karnataka,Mumbai Delhi flights,83,0.063
+2026-02-02,Karnataka,Mumbai Delhi flights,62,0.054
+2026-02-03,Karnataka,Mumbai Delhi flights,59,0.05
+2026-02-04,Karnataka,Mumbai Delhi flights,66,0.017
+2026-02-05,Karnataka,Mumbai Delhi flights,64,0.064
+2026-02-06,Karnataka,Mumbai Delhi flights,92,0.102
+2026-02-07,Karnataka,Mumbai Delhi flights,83,0.046
+2026-02-08,Karnataka,Mumbai Delhi flights,80,0.062
+2026-02-09,Karnataka,Mumbai Delhi flights,62,0.077
+2026-02-10,Karnataka,Mumbai Delhi flights,68,0.064
+2026-02-11,Karnataka,Mumbai Delhi flights,73,0.071
+2026-02-12,Karnataka,Mumbai Delhi flights,69,0.062
+2025-12-15,Tamil Nadu,Mumbai Delhi flights,68,0.048
+2025-12-16,Tamil Nadu,Mumbai Delhi flights,73,0.054
+2025-12-17,Tamil Nadu,Mumbai Delhi flights,64,0.079
+2025-12-18,Tamil Nadu,Mumbai Delhi flights,71,0.045
+2025-12-19,Tamil Nadu,Mumbai Delhi flights,87,0.086
+2025-12-20,Tamil Nadu,Mumbai Delhi flights,83,0.069
+2025-12-21,Tamil Nadu,Mumbai Delhi flights,85,0.104
+2025-12-22,Tamil Nadu,Mumbai Delhi flights,64,0.052
+2025-12-23,Tamil Nadu,Mumbai Delhi flights,64,0.039
+2025-12-24,Tamil Nadu,Mumbai Delhi flights,57,0.072
+2025-12-25,Tamil Nadu,Mumbai Delhi flights,60,0.091
+2025-12-26,Tamil Nadu,Mumbai Delhi flights,86,0.087
+2025-12-27,Tamil Nadu,Mumbai Delhi flights,75,0.047
+2025-12-28,Tamil Nadu,Mumbai Delhi flights,74,0.086
+2025-12-29,Tamil Nadu,Mumbai Delhi flights,69,0.018
+2025-12-30,Tamil Nadu,Mumbai Delhi flights,64,0.055
+2025-12-31,Tamil Nadu,Mumbai Delhi flights,60,0.044
+2026-01-01,Tamil Nadu,Mumbai Delhi flights,68,0.07
+2026-01-02,Tamil Nadu,Mumbai Delhi flights,87,0.088
+2026-01-03,Tamil Nadu,Mumbai Delhi flights,83,0.058
+2026-01-04,Tamil Nadu,Mumbai Delhi flights,84,0.058
+2026-01-05,Tamil Nadu,Mumbai Delhi flights,62,0.059
+2026-01-06,Tamil Nadu,Mumbai Delhi flights,63,0.086
+2026-01-07,Tamil Nadu,Mumbai Delhi flights,69,0.07
+2026-01-08,Tamil Nadu,Mumbai Delhi flights,59,0.066
+2026-01-09,Tamil Nadu,Mumbai Delhi flights,70,0.031
+2026-01-10,Tamil Nadu,Mumbai Delhi flights,87,0.069
+2026-01-11,Tamil Nadu,Mumbai Delhi flights,77,0.032
+2026-01-12,Tamil Nadu,Mumbai Delhi flights,60,0.08
+2026-01-13,Tamil Nadu,Mumbai Delhi flights,68,0.056
+2026-01-14,Tamil Nadu,Mumbai Delhi flights,65,0.018
+2026-01-15,Tamil Nadu,Mumbai Delhi flights,62,0.06
+2026-01-16,Tamil Nadu,Mumbai Delhi flights,87,0.055
+2026-01-17,Tamil Nadu,Mumbai Delhi flights,94,0.045
+2026-01-18,Tamil Nadu,Mumbai Delhi flights,73,0.097
+2026-01-19,Tamil Nadu,Mumbai Delhi flights,68,0.045
+2026-01-20,Tamil Nadu,Mumbai Delhi flights,65,0.039
+2026-01-21,Tamil Nadu,Mumbai Delhi flights,70,0.046
+2026-01-22,Tamil Nadu,Mumbai Delhi flights,64,0.084
+2026-01-23,Tamil Nadu,Mumbai Delhi flights,83,0.059
+2026-01-24,Tamil Nadu,Mumbai Delhi flights,82,0.071
+2026-01-25,Tamil Nadu,Mumbai Delhi flights,80,0.063
+2026-01-26,Tamil Nadu,Mumbai Delhi flights,68,0.043
+2026-01-27,Tamil Nadu,Mumbai Delhi flights,60,0.053
+2026-01-28,Tamil Nadu,Mumbai Delhi flights,72,0.085
+2026-01-29,Tamil Nadu,Mumbai Delhi flights,67,0.057
+2026-01-30,Tamil Nadu,Mumbai Delhi flights,79,0.071
+2026-01-31,Tamil Nadu,Mumbai Delhi flights,87,0.057
+2026-02-01,Tamil Nadu,Mumbai Delhi flights,90,0.052
+2026-02-02,Tamil Nadu,Mumbai Delhi flights,70,0.075
+2026-02-03,Tamil Nadu,Mumbai Delhi flights,69,0.047
+2026-02-04,Tamil Nadu,Mumbai Delhi flights,70,0.072
+2026-02-05,Tamil Nadu,Mumbai Delhi flights,60,0.051
+2026-02-06,Tamil Nadu,Mumbai Delhi flights,91,0.085
+2026-02-07,Tamil Nadu,Mumbai Delhi flights,96,0.051
+2026-02-08,Tamil Nadu,Mumbai Delhi flights,80,0.063
+2026-02-09,Tamil Nadu,Mumbai Delhi flights,61,0.075
+2026-02-10,Tamil Nadu,Mumbai Delhi flights,76,0.04
+2026-02-11,Tamil Nadu,Mumbai Delhi flights,69,0.11
+2026-02-12,Tamil Nadu,Mumbai Delhi flights,72,0.047
+2025-12-15,West Bengal,Mumbai Delhi flights,65,0.066
+2025-12-16,West Bengal,Mumbai Delhi flights,67,0.091
+2025-12-17,West Bengal,Mumbai Delhi flights,63,0.064
+2025-12-18,West Bengal,Mumbai Delhi flights,64,0.026
+2025-12-19,West Bengal,Mumbai Delhi flights,93,0.052
+2025-12-20,West Bengal,Mumbai Delhi flights,93,0.012
+2025-12-21,West Bengal,Mumbai Delhi flights,75,0.062
+2025-12-22,West Bengal,Mumbai Delhi flights,65,0.036
+2025-12-23,West Bengal,Mumbai Delhi flights,61,0.059
+2025-12-24,West Bengal,Mumbai Delhi flights,59,0.076
+2025-12-25,West Bengal,Mumbai Delhi flights,63,0.054
+2025-12-26,West Bengal,Mumbai Delhi flights,66,0.067
+2025-12-27,West Bengal,Mumbai Delhi flights,92,0.056
+2025-12-28,West Bengal,Mumbai Delhi flights,78,0.066
+2025-12-29,West Bengal,Mumbai Delhi flights,69,0.067
+2025-12-30,West Bengal,Mumbai Delhi flights,67,0.092
+2025-12-31,West Bengal,Mumbai Delhi flights,65,0.061
+2026-01-01,West Bengal,Mumbai Delhi flights,60,0.056
+2026-01-02,West Bengal,Mumbai Delhi flights,88,0.067
+2026-01-03,West Bengal,Mumbai Delhi flights,75,0.074
+2026-01-04,West Bengal,Mumbai Delhi flights,80,0.081
+2026-01-05,West Bengal,Mumbai Delhi flights,75,0.06
+2026-01-06,West Bengal,Mumbai Delhi flights,69,0.061
+2026-01-07,West Bengal,Mumbai Delhi flights,64,0.06
+2026-01-08,West Bengal,Mumbai Delhi flights,64,0.06
+2026-01-09,West Bengal,Mumbai Delhi flights,87,0.085
+2026-01-10,West Bengal,Mumbai Delhi flights,87,0.048
+2026-01-11,West Bengal,Mumbai Delhi flights,86,0.022
+2026-01-12,West Bengal,Mumbai Delhi flights,59,0.061
+2026-01-13,West Bengal,Mumbai Delhi flights,76,0.024
+2026-01-14,West Bengal,Mumbai Delhi flights,59,0.055
+2026-01-15,West Bengal,Mumbai Delhi flights,69,0.056
+2026-01-16,West Bengal,Mumbai Delhi flights,85,0.034
+2026-01-17,West Bengal,Mumbai Delhi flights,92,0.047
+2026-01-18,West Bengal,Mumbai Delhi flights,80,0.069
+2026-01-19,West Bengal,Mumbai Delhi flights,58,0.075
+2026-01-20,West Bengal,Mumbai Delhi flights,62,0.05
+2026-01-21,West Bengal,Mumbai Delhi flights,61,0.048
+2026-01-22,West Bengal,Mumbai Delhi flights,70,0.064
+2026-01-23,West Bengal,Mumbai Delhi flights,89,0.065
+2026-01-24,West Bengal,Mumbai Delhi flights,74,0.065
+2026-01-25,West Bengal,Mumbai Delhi flights,92,0.076
+2026-01-26,West Bengal,Mumbai Delhi flights,66,0.071
+2026-01-27,West Bengal,Mumbai Delhi flights,66,0.089
+2026-01-28,West Bengal,Mumbai Delhi flights,71,0.061
+2026-01-29,West Bengal,Mumbai Delhi flights,70,0.066
+2026-01-30,West Bengal,Mumbai Delhi flights,83,0.076
+2026-01-31,West Bengal,Mumbai Delhi flights,92,0.002
+2026-02-01,West Bengal,Mumbai Delhi flights,86,0.053
+2026-02-02,West Bengal,Mumbai Delhi flights,72,0.006
+2026-02-03,West Bengal,Mumbai Delhi flights,63,0.076
+2026-02-04,West Bengal,Mumbai Delhi flights,66,0.09
+2026-02-05,West Bengal,Mumbai Delhi flights,66,0.053
+2026-02-06,West Bengal,Mumbai Delhi flights,81,0.066
+2026-02-07,West Bengal,Mumbai Delhi flights,80,0.042
+2026-02-08,West Bengal,Mumbai Delhi flights,74,0.033
+2026-02-09,West Bengal,Mumbai Delhi flights,61,0.086
+2026-02-10,West Bengal,Mumbai Delhi flights,77,0.064
+2026-02-11,West Bengal,Mumbai Delhi flights,63,0.049
+2026-02-12,West Bengal,Mumbai Delhi flights,76,0.044
+2025-12-15,India,Vistara airlines,49,0.091
+2025-12-16,India,Vistara airlines,56,0.11
+2025-12-17,India,Vistara airlines,44,0.123
+2025-12-18,India,Vistara airlines,52,0.135
+2025-12-19,India,Vistara airlines,77,0.126
+2025-12-20,India,Vistara airlines,67,0.121
+2025-12-21,India,Vistara airlines,72,0.101
+2025-12-22,India,Vistara airlines,41,0.107
+2025-12-23,India,Vistara airlines,49,0.118
+2025-12-24,India,Vistara airlines,50,0.081
+2025-12-25,India,Vistara airlines,50,0.082
+2025-12-26,India,Vistara airlines,63,0.094
+2025-12-27,India,Vistara airlines,76,0.089
+2025-12-28,India,Vistara airlines,73,0.099
+2025-12-29,India,Vistara airlines,52,0.14
+2025-12-30,India,Vistara airlines,48,0.129
+2025-12-31,India,Vistara airlines,52,0.07
+2026-01-01,India,Vistara airlines,52,0.103
+2026-01-02,India,Vistara airlines,72,0.114
+2026-01-03,India,Vistara airlines,75,0.128
+2026-01-04,India,Vistara airlines,68,0.115
+2026-01-05,India,Vistara airlines,46,0.108
+2026-01-06,India,Vistara airlines,53,0.093
+2026-01-07,India,Vistara airlines,60,0.081
+2026-01-08,India,Vistara airlines,47,0.118
+2026-01-09,India,Vistara airlines,71,0.106
+2026-01-10,India,Vistara airlines,69,0.111
+2026-01-11,India,Vistara airlines,65,0.127
+2026-01-12,India,Vistara airlines,46,0.15
+2026-01-13,India,Vistara airlines,46,0.116
+2026-01-14,India,Vistara airlines,50,0.115
+2026-01-15,India,Vistara airlines,46,0.085
+2026-01-16,India,Vistara airlines,79,0.081
+2026-01-17,India,Vistara airlines,74,0.111
+2026-01-18,India,Vistara airlines,61,0.141
+2026-01-19,India,Vistara airlines,56,0.111
+2026-01-20,India,Vistara airlines,57,0.13
+2026-01-21,India,Vistara airlines,55,0.109
+2026-01-22,India,Vistara airlines,51,0.117
+2026-01-23,India,Vistara airlines,72,0.124
+2026-01-24,India,Vistara airlines,76,0.086
+2026-01-25,India,Vistara airlines,73,0.138
+2026-01-26,India,Vistara airlines,57,0.134
+2026-01-27,India,Vistara airlines,50,0.123
+2026-01-28,India,Vistara airlines,52,0.112
+2026-01-29,India,Vistara airlines,46,0.058
+2026-01-30,India,Vistara airlines,69,0.061
+2026-01-31,India,Vistara airlines,67,0.105
+2026-02-01,India,Vistara airlines,70,0.094
+2026-02-02,India,Vistara airlines,50,0.105
+2026-02-03,India,Vistara airlines,56,0.094
+2026-02-04,India,Vistara airlines,59,0.102
+2026-02-05,India,Vistara airlines,58,0.11
+2026-02-06,India,Vistara airlines,63,0.122
+2026-02-07,India,Vistara airlines,66,0.118
+2026-02-08,India,Vistara airlines,72,0.112
+2026-02-09,India,Vistara airlines,51,0.099
+2026-02-10,India,Vistara airlines,48,0.081
+2026-02-11,India,Vistara airlines,52,0.104
+2026-02-12,India,Vistara airlines,58,0.081
+2025-12-15,Delhi,Vistara airlines,56,0.127
+2025-12-16,Delhi,Vistara airlines,51,0.096
+2025-12-17,Delhi,Vistara airlines,47,0.111
+2025-12-18,Delhi,Vistara airlines,46,0.079
+2025-12-19,Delhi,Vistara airlines,60,0.123
+2025-12-20,Delhi,Vistara airlines,74,0.143
+2025-12-21,Delhi,Vistara airlines,66,0.123
+2025-12-22,Delhi,Vistara airlines,63,0.09
+2025-12-23,Delhi,Vistara airlines,54,0.11
+2025-12-24,Delhi,Vistara airlines,51,0.15
+2025-12-25,Delhi,Vistara airlines,58,0.074
+2025-12-26,Delhi,Vistara airlines,64,0.098
+2025-12-27,Delhi,Vistara airlines,66,0.106
+2025-12-28,Delhi,Vistara airlines,53,0.138
+2025-12-29,Delhi,Vistara airlines,55,0.069
+2025-12-30,Delhi,Vistara airlines,45,0.088
+2025-12-31,Delhi,Vistara airlines,52,0.094
+2026-01-01,Delhi,Vistara airlines,51,0.129
+2026-01-02,Delhi,Vistara airlines,64,0.098
+2026-01-03,Delhi,Vistara airlines,73,0.076
+2026-01-04,Delhi,Vistara airlines,69,0.091
+2026-01-05,Delhi,Vistara airlines,52,0.101
+2026-01-06,Delhi,Vistara airlines,52,0.077
+2026-01-07,Delhi,Vistara airlines,50,0.13
+2026-01-08,Delhi,Vistara airlines,59,0.071
+2026-01-09,Delhi,Vistara airlines,69,0.111
+2026-01-10,Delhi,Vistara airlines,61,0.122
+2026-01-11,Delhi,Vistara airlines,76,0.092
+2026-01-12,Delhi,Vistara airlines,50,0.105
+2026-01-13,Delhi,Vistara airlines,56,0.079
+2026-01-14,Delhi,Vistara airlines,53,0.092
+2026-01-15,Delhi,Vistara airlines,56,0.07
+2026-01-16,Delhi,Vistara airlines,66,0.052
+2026-01-17,Delhi,Vistara airlines,57,0.12
+2026-01-18,Delhi,Vistara airlines,73,0.132
+2026-01-19,Delhi,Vistara airlines,53,0.091
+2026-01-20,Delhi,Vistara airlines,46,0.096
+2026-01-21,Delhi,Vistara airlines,55,0.122
+2026-01-22,Delhi,Vistara airlines,47,0.103
+2026-01-23,Delhi,Vistara airlines,71,0.094
+2026-01-24,Delhi,Vistara airlines,76,0.078
+2026-01-25,Delhi,Vistara airlines,75,0.124
+2026-01-26,Delhi,Vistara airlines,53,0.121
+2026-01-27,Delhi,Vistara airlines,50,0.086
+2026-01-28,Delhi,Vistara airlines,48,0.092
+2026-01-29,Delhi,Vistara airlines,57,0.147
+2026-01-30,Delhi,Vistara airlines,75,0.072
+2026-01-31,Delhi,Vistara airlines,74,0.076
+2026-02-01,Delhi,Vistara airlines,64,0.099
+2026-02-02,Delhi,Vistara airlines,48,0.09
+2026-02-03,Delhi,Vistara airlines,53,0.107
+2026-02-04,Delhi,Vistara airlines,48,0.106
+2026-02-05,Delhi,Vistara airlines,52,0.102
+2026-02-06,Delhi,Vistara airlines,72,0.151
+2026-02-07,Delhi,Vistara airlines,69,0.107
+2026-02-08,Delhi,Vistara airlines,84,0.093
+2026-02-09,Delhi,Vistara airlines,57,0.093
+2026-02-10,Delhi,Vistara airlines,54,0.111
+2026-02-11,Delhi,Vistara airlines,53,0.105
+2026-02-12,Delhi,Vistara airlines,55,0.088
+2025-12-15,Maharashtra,Vistara airlines,49,0.102
+2025-12-16,Maharashtra,Vistara airlines,54,0.092
+2025-12-17,Maharashtra,Vistara airlines,49,0.092
+2025-12-18,Maharashtra,Vistara airlines,54,0.103
+2025-12-19,Maharashtra,Vistara airlines,68,0.109
+2025-12-20,Maharashtra,Vistara airlines,76,0.101
+2025-12-21,Maharashtra,Vistara airlines,72,0.075
+2025-12-22,Maharashtra,Vistara airlines,43,0.112
+2025-12-23,Maharashtra,Vistara airlines,45,0.116
+2025-12-24,Maharashtra,Vistara airlines,62,0.107
+2025-12-25,Maharashtra,Vistara airlines,48,0.124
+2025-12-26,Maharashtra,Vistara airlines,65,0.102
+2025-12-27,Maharashtra,Vistara airlines,71,0.126
+2025-12-28,Maharashtra,Vistara airlines,69,0.093
+2025-12-29,Maharashtra,Vistara airlines,53,0.115
+2025-12-30,Maharashtra,Vistara airlines,45,0.094
+2025-12-31,Maharashtra,Vistara airlines,52,0.126
+2026-01-01,Maharashtra,Vistara airlines,60,0.085
+2026-01-02,Maharashtra,Vistara airlines,64,0.108
+2026-01-03,Maharashtra,Vistara airlines,59,0.082
+2026-01-04,Maharashtra,Vistara airlines,66,0.094
+2026-01-05,Maharashtra,Vistara airlines,45,0.117
+2026-01-06,Maharashtra,Vistara airlines,51,0.11
+2026-01-07,Maharashtra,Vistara airlines,54,0.128
+2026-01-08,Maharashtra,Vistara airlines,53,0.105
+2026-01-09,Maharashtra,Vistara airlines,62,0.097
+2026-01-10,Maharashtra,Vistara airlines,81,0.096
+2026-01-11,Maharashtra,Vistara airlines,75,0.088
+2026-01-12,Maharashtra,Vistara airlines,56,0.122
+2026-01-13,Maharashtra,Vistara airlines,45,0.129
+2026-01-14,Maharashtra,Vistara airlines,43,0.096
+2026-01-15,Maharashtra,Vistara airlines,61,0.078
+2026-01-16,Maharashtra,Vistara airlines,75,0.089
+2026-01-17,Maharashtra,Vistara airlines,66,0.095
+2026-01-18,Maharashtra,Vistara airlines,63,0.12
+2026-01-19,Maharashtra,Vistara airlines,57,0.096
+2026-01-20,Maharashtra,Vistara airlines,40,0.085
+2026-01-21,Maharashtra,Vistara airlines,55,0.097
+2026-01-22,Maharashtra,Vistara airlines,51,0.083
+2026-01-23,Maharashtra,Vistara airlines,81,0.074
+2026-01-24,Maharashtra,Vistara airlines,63,0.096
+2026-01-25,Maharashtra,Vistara airlines,63,0.104
+2026-01-26,Maharashtra,Vistara airlines,54,0.105
+2026-01-27,Maharashtra,Vistara airlines,57,0.092
+2026-01-28,Maharashtra,Vistara airlines,56,0.131
+2026-01-29,Maharashtra,Vistara airlines,56,0.099
+2026-01-30,Maharashtra,Vistara airlines,68,0.114
+2026-01-31,Maharashtra,Vistara airlines,77,0.082
+2026-02-01,Maharashtra,Vistara airlines,70,0.121
+2026-02-02,Maharashtra,Vistara airlines,49,0.077
+2026-02-03,Maharashtra,Vistara airlines,59,0.118
+2026-02-04,Maharashtra,Vistara airlines,53,0.105
+2026-02-05,Maharashtra,Vistara airlines,51,0.112
+2026-02-06,Maharashtra,Vistara airlines,82,0.113
+2026-02-07,Maharashtra,Vistara airlines,78,0.097
+2026-02-08,Maharashtra,Vistara airlines,73,0.12
+2026-02-09,Maharashtra,Vistara airlines,44,0.114
+2026-02-10,Maharashtra,Vistara airlines,46,0.08
+2026-02-11,Maharashtra,Vistara airlines,51,0.112
+2026-02-12,Maharashtra,Vistara airlines,52,0.091
+2025-12-15,Karnataka,Vistara airlines,42,0.107
+2025-12-16,Karnataka,Vistara airlines,44,0.08
+2025-12-17,Karnataka,Vistara airlines,46,0.095
+2025-12-18,Karnataka,Vistara airlines,56,0.069
+2025-12-19,Karnataka,Vistara airlines,59,0.111
+2025-12-20,Karnataka,Vistara airlines,60,0.099
+2025-12-21,Karnataka,Vistara airlines,68,0.116
+2025-12-22,Karnataka,Vistara airlines,53,0.087
+2025-12-23,Karnataka,Vistara airlines,57,0.096
+2025-12-24,Karnataka,Vistara airlines,49,0.087
+2025-12-25,Karnataka,Vistara airlines,53,0.079
+2025-12-26,Karnataka,Vistara airlines,58,0.092
+2025-12-27,Karnataka,Vistara airlines,73,0.118
+2025-12-28,Karnataka,Vistara airlines,77,0.091
+2025-12-29,Karnataka,Vistara airlines,37,0.101
+2025-12-30,Karnataka,Vistara airlines,54,0.135
+2025-12-31,Karnataka,Vistara airlines,47,0.124
+2026-01-01,Karnataka,Vistara airlines,48,0.072
+2026-01-02,Karnataka,Vistara airlines,74,0.08
+2026-01-03,Karnataka,Vistara airlines,65,0.109
+2026-01-04,Karnataka,Vistara airlines,71,0.095
+2026-01-05,Karnataka,Vistara airlines,43,0.092
+2026-01-06,Karnataka,Vistara airlines,51,0.063
+2026-01-07,Karnataka,Vistara airlines,52,0.115
+2026-01-08,Karnataka,Vistara airlines,46,0.152
+2026-01-09,Karnataka,Vistara airlines,72,0.113
+2026-01-10,Karnataka,Vistara airlines,68,0.084
+2026-01-11,Karnataka,Vistara airlines,66,0.098
+2026-01-12,Karnataka,Vistara airlines,51,0.137
+2026-01-13,Karnataka,Vistara airlines,60,0.112
+2026-01-14,Karnataka,Vistara airlines,50,0.137
+2026-01-15,Karnataka,Vistara airlines,56,0.075
+2026-01-16,Karnataka,Vistara airlines,64,0.111
+2026-01-17,Karnataka,Vistara airlines,78,0.091
+2026-01-18,Karnataka,Vistara airlines,70,0.104
+2026-01-19,Karnataka,Vistara airlines,57,0.069
+2026-01-20,Karnataka,Vistara airlines,57,0.12
+2026-01-21,Karnataka,Vistara airlines,60,0.119
+2026-01-22,Karnataka,Vistara airlines,49,0.104
+2026-01-23,Karnataka,Vistara airlines,62,0.16
+2026-01-24,Karnataka,Vistara airlines,76,0.121
+2026-01-25,Karnataka,Vistara airlines,64,0.102
+2026-01-26,Karnataka,Vistara airlines,44,0.091
+2026-01-27,Karnataka,Vistara airlines,53,0.128
+2026-01-28,Karnataka,Vistara airlines,58,0.121
+2026-01-29,Karnataka,Vistara airlines,60,0.085
+2026-01-30,Karnataka,Vistara airlines,52,0.11
+2026-01-31,Karnataka,Vistara airlines,57,0.094
+2026-02-01,Karnataka,Vistara airlines,68,0.069
+2026-02-02,Karnataka,Vistara airlines,57,0.115
+2026-02-03,Karnataka,Vistara airlines,49,0.121
+2026-02-04,Karnataka,Vistara airlines,55,0.08
+2026-02-05,Karnataka,Vistara airlines,55,0.114
+2026-02-06,Karnataka,Vistara airlines,71,0.151
+2026-02-07,Karnataka,Vistara airlines,66,0.112
+2026-02-08,Karnataka,Vistara airlines,68,0.132
+2026-02-09,Karnataka,Vistara airlines,45,0.081
+2026-02-10,Karnataka,Vistara airlines,60,0.144
+2026-02-11,Karnataka,Vistara airlines,57,0.101
+2026-02-12,Karnataka,Vistara airlines,58,0.125
+2025-12-15,Tamil Nadu,Vistara airlines,50,0.125
+2025-12-16,Tamil Nadu,Vistara airlines,51,0.104
+2025-12-17,Tamil Nadu,Vistara airlines,49,0.053
+2025-12-18,Tamil Nadu,Vistara airlines,45,0.101
+2025-12-19,Tamil Nadu,Vistara airlines,70,0.097
+2025-12-20,Tamil Nadu,Vistara airlines,67,0.099
+2025-12-21,Tamil Nadu,Vistara airlines,74,0.069
+2025-12-22,Tamil Nadu,Vistara airlines,50,0.079
+2025-12-23,Tamil Nadu,Vistara airlines,56,0.091
+2025-12-24,Tamil Nadu,Vistara airlines,46,0.087
+2025-12-25,Tamil Nadu,Vistara airlines,38,0.11
+2025-12-26,Tamil Nadu,Vistara airlines,77,0.072
+2025-12-27,Tamil Nadu,Vistara airlines,65,0.134
+2025-12-28,Tamil Nadu,Vistara airlines,65,0.121
+2025-12-29,Tamil Nadu,Vistara airlines,43,0.079
+2025-12-30,Tamil Nadu,Vistara airlines,51,0.099
+2025-12-31,Tamil Nadu,Vistara airlines,55,0.139
+2026-01-01,Tamil Nadu,Vistara airlines,58,0.106
+2026-01-02,Tamil Nadu,Vistara airlines,73,0.092
+2026-01-03,Tamil Nadu,Vistara airlines,76,0.11
+2026-01-04,Tamil Nadu,Vistara airlines,66,0.098
+2026-01-05,Tamil Nadu,Vistara airlines,50,0.127
+2026-01-06,Tamil Nadu,Vistara airlines,57,0.108
+2026-01-07,Tamil Nadu,Vistara airlines,62,0.095
+2026-01-08,Tamil Nadu,Vistara airlines,52,0.119
+2026-01-09,Tamil Nadu,Vistara airlines,77,0.123
+2026-01-10,Tamil Nadu,Vistara airlines,67,0.09
+2026-01-11,Tamil Nadu,Vistara airlines,69,0.059
+2026-01-12,Tamil Nadu,Vistara airlines,48,0.099
+2026-01-13,Tamil Nadu,Vistara airlines,52,0.106
+2026-01-14,Tamil Nadu,Vistara airlines,48,0.082
+2026-01-15,Tamil Nadu,Vistara airlines,49,0.086
+2026-01-16,Tamil Nadu,Vistara airlines,82,0.111
+2026-01-17,Tamil Nadu,Vistara airlines,78,0.122
+2026-01-18,Tamil Nadu,Vistara airlines,67,0.129
+2026-01-19,Tamil Nadu,Vistara airlines,63,0.097
+2026-01-20,Tamil Nadu,Vistara airlines,56,0.059
+2026-01-21,Tamil Nadu,Vistara airlines,53,0.112
+2026-01-22,Tamil Nadu,Vistara airlines,51,0.114
+2026-01-23,Tamil Nadu,Vistara airlines,67,0.079
+2026-01-24,Tamil Nadu,Vistara airlines,63,0.098
+2026-01-25,Tamil Nadu,Vistara airlines,58,0.065
+2026-01-26,Tamil Nadu,Vistara airlines,56,0.052
+2026-01-27,Tamil Nadu,Vistara airlines,45,0.097
+2026-01-28,Tamil Nadu,Vistara airlines,60,0.089
+2026-01-29,Tamil Nadu,Vistara airlines,59,0.075
+2026-01-30,Tamil Nadu,Vistara airlines,62,0.124
+2026-01-31,Tamil Nadu,Vistara airlines,64,0.093
+2026-02-01,Tamil Nadu,Vistara airlines,65,0.129
+2026-02-02,Tamil Nadu,Vistara airlines,57,0.109
+2026-02-03,Tamil Nadu,Vistara airlines,60,0.113
+2026-02-04,Tamil Nadu,Vistara airlines,53,0.131
+2026-02-05,Tamil Nadu,Vistara airlines,54,0.102
+2026-02-06,Tamil Nadu,Vistara airlines,61,0.11
+2026-02-07,Tamil Nadu,Vistara airlines,73,0.1
+2026-02-08,Tamil Nadu,Vistara airlines,71,0.105
+2026-02-09,Tamil Nadu,Vistara airlines,47,0.102
+2026-02-10,Tamil Nadu,Vistara airlines,52,0.094
+2026-02-11,Tamil Nadu,Vistara airlines,49,0.126
+2026-02-12,Tamil Nadu,Vistara airlines,60,0.12
+2025-12-15,West Bengal,Vistara airlines,60,0.117
+2025-12-16,West Bengal,Vistara airlines,52,0.103
+2025-12-17,West Bengal,Vistara airlines,52,0.12
+2025-12-18,West Bengal,Vistara airlines,56,0.106
+2025-12-19,West Bengal,Vistara airlines,66,0.095
+2025-12-20,West Bengal,Vistara airlines,61,0.108
+2025-12-21,West Bengal,Vistara airlines,66,0.083
+2025-12-22,West Bengal,Vistara airlines,48,0.11
+2025-12-23,West Bengal,Vistara airlines,52,0.065
+2025-12-24,West Bengal,Vistara airlines,49,0.109
+2025-12-25,West Bengal,Vistara airlines,56,0.069
+2025-12-26,West Bengal,Vistara airlines,67,0.096
+2025-12-27,West Bengal,Vistara airlines,59,0.1
+2025-12-28,West Bengal,Vistara airlines,76,0.106
+2025-12-29,West Bengal,Vistara airlines,52,0.105
+2025-12-30,West Bengal,Vistara airlines,48,0.106
+2025-12-31,West Bengal,Vistara airlines,48,0.11
+2026-01-01,West Bengal,Vistara airlines,52,0.074
+2026-01-02,West Bengal,Vistara airlines,58,0.112
+2026-01-03,West Bengal,Vistara airlines,65,0.096
+2026-01-04,West Bengal,Vistara airlines,69,0.101
+2026-01-05,West Bengal,Vistara airlines,54,0.101
+2026-01-06,West Bengal,Vistara airlines,68,0.096
+2026-01-07,West Bengal,Vistara airlines,52,0.113
+2026-01-08,West Bengal,Vistara airlines,52,0.106
+2026-01-09,West Bengal,Vistara airlines,67,0.125
+2026-01-10,West Bengal,Vistara airlines,75,0.104
+2026-01-11,West Bengal,Vistara airlines,59,0.075
+2026-01-12,West Bengal,Vistara airlines,46,0.099
+2026-01-13,West Bengal,Vistara airlines,45,0.118
+2026-01-14,West Bengal,Vistara airlines,55,0.099
+2026-01-15,West Bengal,Vistara airlines,53,0.103
+2026-01-16,West Bengal,Vistara airlines,76,0.084
+2026-01-17,West Bengal,Vistara airlines,62,0.094
+2026-01-18,West Bengal,Vistara airlines,64,0.135
+2026-01-19,West Bengal,Vistara airlines,46,0.129
+2026-01-20,West Bengal,Vistara airlines,50,0.089
+2026-01-21,West Bengal,Vistara airlines,57,0.118
+2026-01-22,West Bengal,Vistara airlines,55,0.089
+2026-01-23,West Bengal,Vistara airlines,68,0.133
+2026-01-24,West Bengal,Vistara airlines,68,0.1
+2026-01-25,West Bengal,Vistara airlines,59,0.117
+2026-01-26,West Bengal,Vistara airlines,52,0.11
+2026-01-27,West Bengal,Vistara airlines,48,0.082
+2026-01-28,West Bengal,Vistara airlines,65,0.098
+2026-01-29,West Bengal,Vistara airlines,54,0.102
+2026-01-30,West Bengal,Vistara airlines,66,0.1
+2026-01-31,West Bengal,Vistara airlines,62,0.115
+2026-02-01,West Bengal,Vistara airlines,70,0.081
+2026-02-02,West Bengal,Vistara airlines,49,0.144
+2026-02-03,West Bengal,Vistara airlines,60,0.123
+2026-02-04,West Bengal,Vistara airlines,52,0.114
+2026-02-05,West Bengal,Vistara airlines,52,0.068
+2026-02-06,West Bengal,Vistara airlines,68,0.134
+2026-02-07,West Bengal,Vistara airlines,70,0.066
+2026-02-08,West Bengal,Vistara airlines,75,0.096
+2026-02-09,West Bengal,Vistara airlines,47,0.105
+2026-02-10,West Bengal,Vistara airlines,54,0.102
+2026-02-11,West Bengal,Vistara airlines,58,0.079
+2026-02-12,West Bengal,Vistara airlines,54,0.072
+2025-12-15,India,FlyAkasa,43,0.033
+2025-12-16,India,FlyAkasa,39,0.004
+2025-12-17,India,FlyAkasa,37,0.063
+2025-12-18,India,FlyAkasa,51,0.001
+2025-12-19,India,FlyAkasa,65,0.034
+2025-12-20,India,FlyAkasa,63,0.036
+2025-12-21,India,FlyAkasa,53,0.015
+2025-12-22,India,FlyAkasa,40,0.022
+2025-12-23,India,FlyAkasa,52,0.031
+2025-12-24,India,FlyAkasa,38,0.031
+2025-12-25,India,FlyAkasa,39,0.043
+2025-12-26,India,FlyAkasa,59,0.062
+2025-12-27,India,FlyAkasa,52,0.06
+2025-12-28,India,FlyAkasa,66,0.058
+2025-12-29,India,FlyAkasa,41,0.026
+2025-12-30,India,FlyAkasa,51,0.057
+2025-12-31,India,FlyAkasa,45,0.061
+2026-01-01,India,FlyAkasa,44,0.028
+2026-01-02,India,FlyAkasa,49,0.023
+2026-01-03,India,FlyAkasa,51,0.044
+2026-01-04,India,FlyAkasa,55,0.022
+2026-01-05,India,FlyAkasa,42,0.016
+2026-01-06,India,FlyAkasa,40,-0.003
+2026-01-07,India,FlyAkasa,47,-0.002
+2026-01-08,India,FlyAkasa,43,0.044
+2026-01-09,India,FlyAkasa,64,0.007
+2026-01-10,India,FlyAkasa,61,-0.035
+2026-01-11,India,FlyAkasa,67,0.054
+2026-01-12,India,FlyAkasa,39,0.028
+2026-01-13,India,FlyAkasa,43,0.015
+2026-01-14,India,FlyAkasa,37,0.038
+2026-01-15,India,FlyAkasa,47,0.027
+2026-01-16,India,FlyAkasa,61,0.023
+2026-01-17,India,FlyAkasa,48,0.026
+2026-01-18,India,FlyAkasa,45,0.054
+2026-01-19,India,FlyAkasa,39,0.036
+2026-01-20,India,FlyAkasa,48,0.018
+2026-01-21,India,FlyAkasa,40,0.043
+2026-01-22,India,FlyAkasa,43,0.021
+2026-01-23,India,FlyAkasa,65,0.042
+2026-01-24,India,FlyAkasa,52,0.022
+2026-01-25,India,FlyAkasa,62,0.037
+2026-01-26,India,FlyAkasa,54,-0.003
+2026-01-27,India,FlyAkasa,33,0.025
+2026-01-28,India,FlyAkasa,47,0.01
+2026-01-29,India,FlyAkasa,48,0.045
+2026-01-30,India,FlyAkasa,58,0.037
+2026-01-31,India,FlyAkasa,64,0.004
+2026-02-01,India,FlyAkasa,66,0.006
+2026-02-02,India,FlyAkasa,43,-0.0
+2026-02-03,India,FlyAkasa,45,0.037
+2026-02-04,India,FlyAkasa,48,0.011
+2026-02-05,India,FlyAkasa,38,0.012
+2026-02-06,India,FlyAkasa,55,0.028
+2026-02-07,India,FlyAkasa,60,-0.002
+2026-02-08,India,FlyAkasa,52,0.004
+2026-02-09,India,FlyAkasa,38,0.001
+2026-02-10,India,FlyAkasa,44,0.035
+2026-02-11,India,FlyAkasa,45,0.034
+2026-02-12,India,FlyAkasa,44,0.003
+2025-12-15,Delhi,FlyAkasa,47,0.023
+2025-12-16,Delhi,FlyAkasa,38,0.072
+2025-12-17,Delhi,FlyAkasa,44,0.03
+2025-12-18,Delhi,FlyAkasa,38,0.016
+2025-12-19,Delhi,FlyAkasa,53,0.048
+2025-12-20,Delhi,FlyAkasa,58,0.053
+2025-12-21,Delhi,FlyAkasa,60,0.036
+2025-12-22,Delhi,FlyAkasa,36,-0.003
+2025-12-23,Delhi,FlyAkasa,38,0.039
+2025-12-24,Delhi,FlyAkasa,42,0.059
+2025-12-25,Delhi,FlyAkasa,35,0.023
+2025-12-26,Delhi,FlyAkasa,64,0.014
+2025-12-27,Delhi,FlyAkasa,47,0.015
+2025-12-28,Delhi,FlyAkasa,55,0.039
+2025-12-29,Delhi,FlyAkasa,32,0.031
+2025-12-30,Delhi,FlyAkasa,48,0.03
+2025-12-31,Delhi,FlyAkasa,47,0.016
+2026-01-01,Delhi,FlyAkasa,49,0.029
+2026-01-02,Delhi,FlyAkasa,57,0.0
+2026-01-03,Delhi,FlyAkasa,58,0.006
+2026-01-04,Delhi,FlyAkasa,53,0.015
+2026-01-05,Delhi,FlyAkasa,42,0.014
+2026-01-06,Delhi,FlyAkasa,48,0.013
+2026-01-07,Delhi,FlyAkasa,46,0.067
+2026-01-08,Delhi,FlyAkasa,45,0.036
+2026-01-09,Delhi,FlyAkasa,61,0.041
+2026-01-10,Delhi,FlyAkasa,60,-0.009
+2026-01-11,Delhi,FlyAkasa,54,0.075
+2026-01-12,Delhi,FlyAkasa,37,0.026
+2026-01-13,Delhi,FlyAkasa,40,0.021
+2026-01-14,Delhi,FlyAkasa,44,-0.002
+2026-01-15,Delhi,FlyAkasa,48,0.023
+2026-01-16,Delhi,FlyAkasa,64,0.024
+2026-01-17,Delhi,FlyAkasa,50,0.029
+2026-01-18,Delhi,FlyAkasa,77,0.005
+2026-01-19,Delhi,FlyAkasa,36,-0.004
+2026-01-20,Delhi,FlyAkasa,44,0.061
+2026-01-21,Delhi,FlyAkasa,41,0.041
+2026-01-22,Delhi,FlyAkasa,40,0.045
+2026-01-23,Delhi,FlyAkasa,61,0.033
+2026-01-24,Delhi,FlyAkasa,64,-0.023
+2026-01-25,Delhi,FlyAkasa,56,0.048
+2026-01-26,Delhi,FlyAkasa,41,0.055
+2026-01-27,Delhi,FlyAkasa,31,0.042
+2026-01-28,Delhi,FlyAkasa,39,0.042
+2026-01-29,Delhi,FlyAkasa,41,0.043
+2026-01-30,Delhi,FlyAkasa,65,0.034
+2026-01-31,Delhi,FlyAkasa,53,0.025
+2026-02-01,Delhi,FlyAkasa,65,0.028
+2026-02-02,Delhi,FlyAkasa,36,0.068
+2026-02-03,Delhi,FlyAkasa,47,-0.013
+2026-02-04,Delhi,FlyAkasa,41,0.034
+2026-02-05,Delhi,FlyAkasa,32,0.056
+2026-02-06,Delhi,FlyAkasa,46,0.008
+2026-02-07,Delhi,FlyAkasa,62,0.049
+2026-02-08,Delhi,FlyAkasa,57,0.038
+2026-02-09,Delhi,FlyAkasa,40,0.01
+2026-02-10,Delhi,FlyAkasa,46,0.031
+2026-02-11,Delhi,FlyAkasa,42,0.036
+2026-02-12,Delhi,FlyAkasa,48,0.016
+2025-12-15,Maharashtra,FlyAkasa,43,0.048
+2025-12-16,Maharashtra,FlyAkasa,47,0.012
+2025-12-17,Maharashtra,FlyAkasa,42,0.051
+2025-12-18,Maharashtra,FlyAkasa,45,0.046
+2025-12-19,Maharashtra,FlyAkasa,54,0.005
+2025-12-20,Maharashtra,FlyAkasa,64,0.0
+2025-12-21,Maharashtra,FlyAkasa,66,0.041
+2025-12-22,Maharashtra,FlyAkasa,44,0.052
+2025-12-23,Maharashtra,FlyAkasa,39,0.029
+2025-12-24,Maharashtra,FlyAkasa,39,0.033
+2025-12-25,Maharashtra,FlyAkasa,47,0.013
+2025-12-26,Maharashtra,FlyAkasa,45,0.005
+2025-12-27,Maharashtra,FlyAkasa,56,0.018
+2025-12-28,Maharashtra,FlyAkasa,66,0.019
+2025-12-29,Maharashtra,FlyAkasa,37,0.025
+2025-12-30,Maharashtra,FlyAkasa,49,0.033
+2025-12-31,Maharashtra,FlyAkasa,39,0.031
+2026-01-01,Maharashtra,FlyAkasa,37,0.046
+2026-01-02,Maharashtra,FlyAkasa,67,0.039
+2026-01-03,Maharashtra,FlyAkasa,59,0.009
+2026-01-04,Maharashtra,FlyAkasa,57,0.048
+2026-01-05,Maharashtra,FlyAkasa,38,0.018
+2026-01-06,Maharashtra,FlyAkasa,46,0.022
+2026-01-07,Maharashtra,FlyAkasa,44,0.049
+2026-01-08,Maharashtra,FlyAkasa,31,0.023
+2026-01-09,Maharashtra,FlyAkasa,46,0.027
+2026-01-10,Maharashtra,FlyAkasa,49,0.047
+2026-01-11,Maharashtra,FlyAkasa,52,0.053
+2026-01-12,Maharashtra,FlyAkasa,41,0.059
+2026-01-13,Maharashtra,FlyAkasa,44,0.03
+2026-01-14,Maharashtra,FlyAkasa,40,0.028
+2026-01-15,Maharashtra,FlyAkasa,44,0.011
+2026-01-16,Maharashtra,FlyAkasa,61,0.045
+2026-01-17,Maharashtra,FlyAkasa,65,0.01
+2026-01-18,Maharashtra,FlyAkasa,63,0.039
+2026-01-19,Maharashtra,FlyAkasa,51,0.028
+2026-01-20,Maharashtra,FlyAkasa,46,0.067
+2026-01-21,Maharashtra,FlyAkasa,37,0.028
+2026-01-22,Maharashtra,FlyAkasa,42,0.021
+2026-01-23,Maharashtra,FlyAkasa,71,0.052
+2026-01-24,Maharashtra,FlyAkasa,63,0.013
+2026-01-25,Maharashtra,FlyAkasa,58,0.03
+2026-01-26,Maharashtra,FlyAkasa,39,0.016
+2026-01-27,Maharashtra,FlyAkasa,43,0.036
+2026-01-28,Maharashtra,FlyAkasa,40,0.055
+2026-01-29,Maharashtra,FlyAkasa,46,0.047
+2026-01-30,Maharashtra,FlyAkasa,60,0.061
+2026-01-31,Maharashtra,FlyAkasa,57,0.0
+2026-02-01,Maharashtra,FlyAkasa,60,0.006
+2026-02-02,Maharashtra,FlyAkasa,39,0.009
+2026-02-03,Maharashtra,FlyAkasa,38,0.014
+2026-02-04,Maharashtra,FlyAkasa,40,0.003
+2026-02-05,Maharashtra,FlyAkasa,42,0.001
+2026-02-06,Maharashtra,FlyAkasa,58,0.052
+2026-02-07,Maharashtra,FlyAkasa,57,0.042
+2026-02-08,Maharashtra,FlyAkasa,48,0.028
+2026-02-09,Maharashtra,FlyAkasa,41,0.035
+2026-02-10,Maharashtra,FlyAkasa,46,0.031
+2026-02-11,Maharashtra,FlyAkasa,43,0.031
+2026-02-12,Maharashtra,FlyAkasa,47,0.033
+2025-12-15,Karnataka,FlyAkasa,41,0.046
+2025-12-16,Karnataka,FlyAkasa,40,0.029
+2025-12-17,Karnataka,FlyAkasa,46,-0.006
+2025-12-18,Karnataka,FlyAkasa,43,0.033
+2025-12-19,Karnataka,FlyAkasa,53,0.05
+2025-12-20,Karnataka,FlyAkasa,60,0.041
+2025-12-21,Karnataka,FlyAkasa,53,0.045
+2025-12-22,Karnataka,FlyAkasa,40,0.026
+2025-12-23,Karnataka,FlyAkasa,39,-0.005
+2025-12-24,Karnataka,FlyAkasa,42,0.002
+2025-12-25,Karnataka,FlyAkasa,44,0.029
+2025-12-26,Karnataka,FlyAkasa,46,0.061
+2025-12-27,Karnataka,FlyAkasa,62,0.036
+2025-12-28,Karnataka,FlyAkasa,66,0.033
+2025-12-29,Karnataka,FlyAkasa,31,0.003
+2025-12-30,Karnataka,FlyAkasa,40,0.059
+2025-12-31,Karnataka,FlyAkasa,41,0.049
+2026-01-01,Karnataka,FlyAkasa,47,0.064
+2026-01-02,Karnataka,FlyAkasa,53,0.058
+2026-01-03,Karnataka,FlyAkasa,48,0.045
+2026-01-04,Karnataka,FlyAkasa,68,0.038
+2026-01-05,Karnataka,FlyAkasa,37,0.01
+2026-01-06,Karnataka,FlyAkasa,32,0.017
+2026-01-07,Karnataka,FlyAkasa,38,0.053
+2026-01-08,Karnataka,FlyAkasa,36,0.029
+2026-01-09,Karnataka,FlyAkasa,61,0.011
+2026-01-10,Karnataka,FlyAkasa,57,0.041
+2026-01-11,Karnataka,FlyAkasa,51,0.028
+2026-01-12,Karnataka,FlyAkasa,46,0.032
+2026-01-13,Karnataka,FlyAkasa,36,0.066
+2026-01-14,Karnataka,FlyAkasa,45,0.001
+2026-01-15,Karnataka,FlyAkasa,43,0.051
+2026-01-16,Karnataka,FlyAkasa,56,0.037
+2026-01-17,Karnataka,FlyAkasa,73,-0.018
+2026-01-18,Karnataka,FlyAkasa,59,-0.024
+2026-01-19,Karnataka,FlyAkasa,46,0.04
+2026-01-20,Karnataka,FlyAkasa,35,0.076
+2026-01-21,Karnataka,FlyAkasa,40,0.042
+2026-01-22,Karnataka,FlyAkasa,41,0.018
+2026-01-23,Karnataka,FlyAkasa,63,0.043
+2026-01-24,Karnataka,FlyAkasa,58,0.026
+2026-01-25,Karnataka,FlyAkasa,65,0.003
+2026-01-26,Karnataka,FlyAkasa,45,0.015
+2026-01-27,Karnataka,FlyAkasa,43,0.029
+2026-01-28,Karnataka,FlyAkasa,48,-0.011
+2026-01-29,Karnataka,FlyAkasa,45,0.02
+2026-01-30,Karnataka,FlyAkasa,53,0.028
+2026-01-31,Karnataka,FlyAkasa,57,0.042
+2026-02-01,Karnataka,FlyAkasa,63,0.039
+2026-02-02,Karnataka,FlyAkasa,44,0.017
+2026-02-03,Karnataka,FlyAkasa,44,-0.026
+2026-02-04,Karnataka,FlyAkasa,44,0.028
+2026-02-05,Karnataka,FlyAkasa,40,0.052
+2026-02-06,Karnataka,FlyAkasa,52,-0.003
+2026-02-07,Karnataka,FlyAkasa,48,0.026
+2026-02-08,Karnataka,FlyAkasa,59,0.024
+2026-02-09,Karnataka,FlyAkasa,44,0.03
+2026-02-10,Karnataka,FlyAkasa,41,0.072
+2026-02-11,Karnataka,FlyAkasa,40,0.061
+2026-02-12,Karnataka,FlyAkasa,46,0.091
+2025-12-15,Tamil Nadu,FlyAkasa,36,0.027
+2025-12-16,Tamil Nadu,FlyAkasa,45,0.018
+2025-12-17,Tamil Nadu,FlyAkasa,48,0.052
+2025-12-18,Tamil Nadu,FlyAkasa,43,0.031
+2025-12-19,Tamil Nadu,FlyAkasa,58,0.042
+2025-12-20,Tamil Nadu,FlyAkasa,68,-0.011
+2025-12-21,Tamil Nadu,FlyAkasa,64,0.008
+2025-12-22,Tamil Nadu,FlyAkasa,34,0.03
+2025-12-23,Tamil Nadu,FlyAkasa,43,0.014
+2025-12-24,Tamil Nadu,FlyAkasa,40,0.031
+2025-12-25,Tamil Nadu,FlyAkasa,45,0.029
+2025-12-26,Tamil Nadu,FlyAkasa,68,0.038
+2025-12-27,Tamil Nadu,FlyAkasa,60,0.025
+2025-12-28,Tamil Nadu,FlyAkasa,56,0.03
+2025-12-29,Tamil Nadu,FlyAkasa,34,0.027
+2025-12-30,Tamil Nadu,FlyAkasa,52,0.023
+2025-12-31,Tamil Nadu,FlyAkasa,43,0.013
+2026-01-01,Tamil Nadu,FlyAkasa,39,0.009
+2026-01-02,Tamil Nadu,FlyAkasa,57,0.028
+2026-01-03,Tamil Nadu,FlyAkasa,50,0.046
+2026-01-04,Tamil Nadu,FlyAkasa,65,0.026
+2026-01-05,Tamil Nadu,FlyAkasa,43,0.023
+2026-01-06,Tamil Nadu,FlyAkasa,47,0.012
+2026-01-07,Tamil Nadu,FlyAkasa,44,0.053
+2026-01-08,Tamil Nadu,FlyAkasa,40,0.053
+2026-01-09,Tamil Nadu,FlyAkasa,55,0.04
+2026-01-10,Tamil Nadu,FlyAkasa,76,0.036
+2026-01-11,Tamil Nadu,FlyAkasa,66,0.025
+2026-01-12,Tamil Nadu,FlyAkasa,41,0.049
+2026-01-13,Tamil Nadu,FlyAkasa,31,0.042
+2026-01-14,Tamil Nadu,FlyAkasa,34,0.03
+2026-01-15,Tamil Nadu,FlyAkasa,41,0.036
+2026-01-16,Tamil Nadu,FlyAkasa,52,0.066
+2026-01-17,Tamil Nadu,FlyAkasa,59,0.022
+2026-01-18,Tamil Nadu,FlyAkasa,54,0.026
+2026-01-19,Tamil Nadu,FlyAkasa,45,0.016
+2026-01-20,Tamil Nadu,FlyAkasa,43,0.057
+2026-01-21,Tamil Nadu,FlyAkasa,40,0.011
+2026-01-22,Tamil Nadu,FlyAkasa,39,0.059
+2026-01-23,Tamil Nadu,FlyAkasa,64,0.022
+2026-01-24,Tamil Nadu,FlyAkasa,64,0.0
+2026-01-25,Tamil Nadu,FlyAkasa,61,0.005
+2026-01-26,Tamil Nadu,FlyAkasa,44,0.026
+2026-01-27,Tamil Nadu,FlyAkasa,43,0.028
+2026-01-28,Tamil Nadu,FlyAkasa,41,0.027
+2026-01-29,Tamil Nadu,FlyAkasa,30,0.006
+2026-01-30,Tamil Nadu,FlyAkasa,60,0.019
+2026-01-31,Tamil Nadu,FlyAkasa,55,0.043
+2026-02-01,Tamil Nadu,FlyAkasa,61,-0.017
+2026-02-02,Tamil Nadu,FlyAkasa,40,0.022
+2026-02-03,Tamil Nadu,FlyAkasa,44,0.033
+2026-02-04,Tamil Nadu,FlyAkasa,42,0.012
+2026-02-05,Tamil Nadu,FlyAkasa,44,0.035
+2026-02-06,Tamil Nadu,FlyAkasa,54,0.01
+2026-02-07,Tamil Nadu,FlyAkasa,57,0.005
+2026-02-08,Tamil Nadu,FlyAkasa,66,0.042
+2026-02-09,Tamil Nadu,FlyAkasa,40,0.046
+2026-02-10,Tamil Nadu,FlyAkasa,44,0.022
+2026-02-11,Tamil Nadu,FlyAkasa,40,0.043
+2026-02-12,Tamil Nadu,FlyAkasa,40,0.049
+2025-12-15,West Bengal,FlyAkasa,39,0.026
+2025-12-16,West Bengal,FlyAkasa,45,0.032
+2025-12-17,West Bengal,FlyAkasa,40,0.052
+2025-12-18,West Bengal,FlyAkasa,36,0.02
+2025-12-19,West Bengal,FlyAkasa,62,0.045
+2025-12-20,West Bengal,FlyAkasa,67,0.046
+2025-12-21,West Bengal,FlyAkasa,58,0.004
+2025-12-22,West Bengal,FlyAkasa,41,0.023
+2025-12-23,West Bengal,FlyAkasa,40,0.026
+2025-12-24,West Bengal,FlyAkasa,45,0.038
+2025-12-25,West Bengal,FlyAkasa,45,0.018
+2025-12-26,West Bengal,FlyAkasa,50,0.034
+2025-12-27,West Bengal,FlyAkasa,62,0.059
+2025-12-28,West Bengal,FlyAkasa,73,0.036
+2025-12-29,West Bengal,FlyAkasa,41,0.06
+2025-12-30,West Bengal,FlyAkasa,38,0.056
+2025-12-31,West Bengal,FlyAkasa,37,0.042
+2026-01-01,West Bengal,FlyAkasa,45,0.031
+2026-01-02,West Bengal,FlyAkasa,68,0.049
+2026-01-03,West Bengal,FlyAkasa,66,0.01
+2026-01-04,West Bengal,FlyAkasa,49,0.053
+2026-01-05,West Bengal,FlyAkasa,31,0.042
+2026-01-06,West Bengal,FlyAkasa,47,-0.014
+2026-01-07,West Bengal,FlyAkasa,45,-0.011
+2026-01-08,West Bengal,FlyAkasa,40,0.009
+2026-01-09,West Bengal,FlyAkasa,52,0.03
+2026-01-10,West Bengal,FlyAkasa,64,0.034
+2026-01-11,West Bengal,FlyAkasa,56,0.023
+2026-01-12,West Bengal,FlyAkasa,34,0.041
+2026-01-13,West Bengal,FlyAkasa,35,0.042
+2026-01-14,West Bengal,FlyAkasa,47,-0.004
+2026-01-15,West Bengal,FlyAkasa,34,0.046
+2026-01-16,West Bengal,FlyAkasa,45,0.047
+2026-01-17,West Bengal,FlyAkasa,61,0.008
+2026-01-18,West Bengal,FlyAkasa,60,0.029
+2026-01-19,West Bengal,FlyAkasa,50,0.041
+2026-01-20,West Bengal,FlyAkasa,45,-0.006
+2026-01-21,West Bengal,FlyAkasa,39,0.018
+2026-01-22,West Bengal,FlyAkasa,38,0.048
+2026-01-23,West Bengal,FlyAkasa,59,0.018
+2026-01-24,West Bengal,FlyAkasa,57,0.025
+2026-01-25,West Bengal,FlyAkasa,58,0.019
+2026-01-26,West Bengal,FlyAkasa,41,0.022
+2026-01-27,West Bengal,FlyAkasa,46,0.016
+2026-01-28,West Bengal,FlyAkasa,43,0.047
+2026-01-29,West Bengal,FlyAkasa,50,0.066
+2026-01-30,West Bengal,FlyAkasa,58,0.036
+2026-01-31,West Bengal,FlyAkasa,67,0.014
+2026-02-01,West Bengal,FlyAkasa,68,0.041
+2026-02-02,West Bengal,FlyAkasa,44,0.01
+2026-02-03,West Bengal,FlyAkasa,43,0.058
+2026-02-04,West Bengal,FlyAkasa,33,0.024
+2026-02-05,West Bengal,FlyAkasa,29,0.022
+2026-02-06,West Bengal,FlyAkasa,47,0.033
+2026-02-07,West Bengal,FlyAkasa,56,0.002
+2026-02-08,West Bengal,FlyAkasa,55,0.044
+2026-02-09,West Bengal,FlyAkasa,39,0.003
+2026-02-10,West Bengal,FlyAkasa,39,0.014
+2026-02-11,West Bengal,FlyAkasa,45,0.031
+2026-02-12,West Bengal,FlyAkasa,43,0.019
+2025-12-15,India,International flights from India,59,0.008
+2025-12-16,India,International flights from India,51,0.051
+2025-12-17,India,International flights from India,62,0.001
+2025-12-18,India,International flights from India,62,0.009
+2025-12-19,India,International flights from India,72,0.003
+2025-12-20,India,International flights from India,87,0.006
+2025-12-21,India,International flights from India,57,0.031
+2025-12-22,India,International flights from India,62,0.025
+2025-12-23,India,International flights from India,50,0.044
+2025-12-24,India,International flights from India,52,0.012
+2025-12-25,India,International flights from India,61,0.053
+2025-12-26,India,International flights from India,65,0.042
+2025-12-27,India,International flights from India,71,0.017
+2025-12-28,India,International flights from India,58,0.018
+2025-12-29,India,International flights from India,59,0.034
+2025-12-30,India,International flights from India,45,0.029
+2025-12-31,India,International flights from India,58,0.036
+2026-01-01,India,International flights from India,47,0.03
+2026-01-02,India,International flights from India,64,0.018
+2026-01-03,India,International flights from India,66,0.038
+2026-01-04,India,International flights from India,69,0.067
+2026-01-05,India,International flights from India,54,0.036
+2026-01-06,India,International flights from India,64,0.024
+2026-01-07,India,International flights from India,49,0.043
+2026-01-08,India,International flights from India,57,0.024
+2026-01-09,India,International flights from India,75,0.036
+2026-01-10,India,International flights from India,70,0.037
+2026-01-11,India,International flights from India,65,0.031
+2026-01-12,India,International flights from India,60,0.011
+2026-01-13,India,International flights from India,53,0.019
+2026-01-14,India,International flights from India,46,0.025
+2026-01-15,India,International flights from India,57,0.033
+2026-01-16,India,International flights from India,66,0.037
+2026-01-17,India,International flights from India,76,0.021
+2026-01-18,India,International flights from India,82,0.019
+2026-01-19,India,International flights from India,56,0.031
+2026-01-20,India,International flights from India,70,0.023
+2026-01-21,India,International flights from India,61,0.027
+2026-01-22,India,International flights from India,61,0.033
+2026-01-23,India,International flights from India,64,0.066
+2026-01-24,India,International flights from India,65,0.001
+2026-01-25,India,International flights from India,72,0.012
+2026-01-26,India,International flights from India,57,0.016
+2026-01-27,India,International flights from India,61,0.042
+2026-01-28,India,International flights from India,57,0.08
+2026-01-29,India,International flights from India,59,0.053
+2026-01-30,India,International flights from India,81,0.055
+2026-01-31,India,International flights from India,66,0.015
+2026-02-01,India,International flights from India,83,0.004
+2026-02-02,India,International flights from India,52,0.048
+2026-02-03,India,International flights from India,57,0.021
+2026-02-04,India,International flights from India,57,0.041
+2026-02-05,India,International flights from India,55,0.004
+2026-02-06,India,International flights from India,84,0.055
+2026-02-07,India,International flights from India,62,0.013
+2026-02-08,India,International flights from India,71,0.032
+2026-02-09,India,International flights from India,49,0.087
+2026-02-10,India,International flights from India,54,0.021
+2026-02-11,India,International flights from India,49,0.053
+2026-02-12,India,International flights from India,59,0.062
+2025-12-15,Delhi,International flights from India,53,0.026
+2025-12-16,Delhi,International flights from India,53,0.013
+2025-12-17,Delhi,International flights from India,60,0.012
+2025-12-18,Delhi,International flights from India,58,0.024
+2025-12-19,Delhi,International flights from India,66,0.024
+2025-12-20,Delhi,International flights from India,70,0.005
+2025-12-21,Delhi,International flights from India,81,0.029
+2025-12-22,Delhi,International flights from India,51,0.042
+2025-12-23,Delhi,International flights from India,55,0.022
+2025-12-24,Delhi,International flights from India,59,0.073
+2025-12-25,Delhi,International flights from India,66,0.077
+2025-12-26,Delhi,International flights from India,80,0.056
+2025-12-27,Delhi,International flights from India,63,0.051
+2025-12-28,Delhi,International flights from India,69,0.018
+2025-12-29,Delhi,International flights from India,54,0.009
+2025-12-30,Delhi,International flights from India,53,0.045
+2025-12-31,Delhi,International flights from India,57,0.015
+2026-01-01,Delhi,International flights from India,53,0.065
+2026-01-02,Delhi,International flights from India,80,0.046
+2026-01-03,Delhi,International flights from India,66,0.036
+2026-01-04,Delhi,International flights from India,78,0.042
+2026-01-05,Delhi,International flights from India,62,0.024
+2026-01-06,Delhi,International flights from India,52,0.019
+2026-01-07,Delhi,International flights from India,46,0.045
+2026-01-08,Delhi,International flights from India,54,0.032
+2026-01-09,Delhi,International flights from India,66,-0.003
+2026-01-10,Delhi,International flights from India,68,0.067
+2026-01-11,Delhi,International flights from India,78,0.043
+2026-01-12,Delhi,International flights from India,54,0.038
+2026-01-13,Delhi,International flights from India,49,0.012
+2026-01-14,Delhi,International flights from India,52,0.055
+2026-01-15,Delhi,International flights from India,56,0.037
+2026-01-16,Delhi,International flights from India,74,0.041
+2026-01-17,Delhi,International flights from India,58,0.047
+2026-01-18,Delhi,International flights from India,68,0.024
+2026-01-19,Delhi,International flights from India,52,0.034
+2026-01-20,Delhi,International flights from India,61,0.024
+2026-01-21,Delhi,International flights from India,58,0.043
+2026-01-22,Delhi,International flights from India,63,0.032
+2026-01-23,Delhi,International flights from India,64,0.022
+2026-01-24,Delhi,International flights from India,62,0.048
+2026-01-25,Delhi,International flights from India,66,0.068
+2026-01-26,Delhi,International flights from India,59,0.016
+2026-01-27,Delhi,International flights from India,57,0.031
+2026-01-28,Delhi,International flights from India,55,0.02
+2026-01-29,Delhi,International flights from India,65,0.066
+2026-01-30,Delhi,International flights from India,69,0.053
+2026-01-31,Delhi,International flights from India,70,0.043
+2026-02-01,Delhi,International flights from India,67,0.059
+2026-02-02,Delhi,International flights from India,57,0.049
+2026-02-03,Delhi,International flights from India,59,0.014
+2026-02-04,Delhi,International flights from India,53,0.026
+2026-02-05,Delhi,International flights from India,49,0.026
+2026-02-06,Delhi,International flights from India,78,0.049
+2026-02-07,Delhi,International flights from India,83,0.02
+2026-02-08,Delhi,International flights from India,74,0.042
+2026-02-09,Delhi,International flights from India,52,0.027
+2026-02-10,Delhi,International flights from India,53,0.009
+2026-02-11,Delhi,International flights from India,52,0.035
+2026-02-12,Delhi,International flights from India,49,0.017
+2025-12-15,Maharashtra,International flights from India,58,0.041
+2025-12-16,Maharashtra,International flights from India,47,0.042
+2025-12-17,Maharashtra,International flights from India,57,-0.006
+2025-12-18,Maharashtra,International flights from India,61,0.014
+2025-12-19,Maharashtra,International flights from India,74,0.031
+2025-12-20,Maharashtra,International flights from India,77,0.043
+2025-12-21,Maharashtra,International flights from India,78,0.02
+2025-12-22,Maharashtra,International flights from India,59,0.031
+2025-12-23,Maharashtra,International flights from India,59,0.009
+2025-12-24,Maharashtra,International flights from India,52,0.03
+2025-12-25,Maharashtra,International flights from India,65,0.081
+2025-12-26,Maharashtra,International flights from India,81,0.026
+2025-12-27,Maharashtra,International flights from India,78,0.035
+2025-12-28,Maharashtra,International flights from India,81,0.045
+2025-12-29,Maharashtra,International flights from India,54,0.048
+2025-12-30,Maharashtra,International flights from India,56,0.045
+2025-12-31,Maharashtra,International flights from India,65,0.046
+2026-01-01,Maharashtra,International flights from India,54,0.006
+2026-01-02,Maharashtra,International flights from India,61,0.002
+2026-01-03,Maharashtra,International flights from India,68,0.047
+2026-01-04,Maharashtra,International flights from India,75,0.042
+2026-01-05,Maharashtra,International flights from India,61,0.001
+2026-01-06,Maharashtra,International flights from India,51,0.036
+2026-01-07,Maharashtra,International flights from India,52,0.043
+2026-01-08,Maharashtra,International flights from India,55,0.022
+2026-01-09,Maharashtra,International flights from India,70,0.023
+2026-01-10,Maharashtra,International flights from India,75,0.026
+2026-01-11,Maharashtra,International flights from India,80,0.056
+2026-01-12,Maharashtra,International flights from India,61,0.042
+2026-01-13,Maharashtra,International flights from India,56,0.008
+2026-01-14,Maharashtra,International flights from India,68,-0.019
+2026-01-15,Maharashtra,International flights from India,56,0.034
+2026-01-16,Maharashtra,International flights from India,79,0.043
+2026-01-17,Maharashtra,International flights from India,76,0.034
+2026-01-18,Maharashtra,International flights from India,72,0.029
+2026-01-19,Maharashtra,International flights from India,51,0.021
+2026-01-20,Maharashtra,International flights from India,55,0.025
+2026-01-21,Maharashtra,International flights from India,62,0.041
+2026-01-22,Maharashtra,International flights from India,52,0.05
+2026-01-23,Maharashtra,International flights from India,70,0.025
+2026-01-24,Maharashtra,International flights from India,73,0.037
+2026-01-25,Maharashtra,International flights from India,71,0.013
+2026-01-26,Maharashtra,International flights from India,47,0.02
+2026-01-27,Maharashtra,International flights from India,58,0.018
+2026-01-28,Maharashtra,International flights from India,63,0.022
+2026-01-29,Maharashtra,International flights from India,58,0.054
+2026-01-30,Maharashtra,International flights from India,81,0.019
+2026-01-31,Maharashtra,International flights from India,72,0.036
+2026-02-01,Maharashtra,International flights from India,72,0.012
+2026-02-02,Maharashtra,International flights from India,61,0.028
+2026-02-03,Maharashtra,International flights from India,62,0.026
+2026-02-04,Maharashtra,International flights from India,58,0.018
+2026-02-05,Maharashtra,International flights from India,57,0.04
+2026-02-06,Maharashtra,International flights from India,65,0.016
+2026-02-07,Maharashtra,International flights from India,71,0.06
+2026-02-08,Maharashtra,International flights from India,63,0.023
+2026-02-09,Maharashtra,International flights from India,56,0.047
+2026-02-10,Maharashtra,International flights from India,62,0.042
+2026-02-11,Maharashtra,International flights from India,50,0.027
+2026-02-12,Maharashtra,International flights from India,59,0.036
+2025-12-15,Karnataka,International flights from India,50,0.042
+2025-12-16,Karnataka,International flights from India,52,-0.021
+2025-12-17,Karnataka,International flights from India,66,-0.009
+2025-12-18,Karnataka,International flights from India,61,0.032
+2025-12-19,Karnataka,International flights from India,60,0.038
+2025-12-20,Karnataka,International flights from India,60,0.013
+2025-12-21,Karnataka,International flights from India,76,0.01
+2025-12-22,Karnataka,International flights from India,60,0.006
+2025-12-23,Karnataka,International flights from India,62,0.071
+2025-12-24,Karnataka,International flights from India,54,0.047
+2025-12-25,Karnataka,International flights from India,57,0.041
+2025-12-26,Karnataka,International flights from India,57,0.002
+2025-12-27,Karnataka,International flights from India,72,0.073
+2025-12-28,Karnataka,International flights from India,67,0.044
+2025-12-29,Karnataka,International flights from India,56,0.024
+2025-12-30,Karnataka,International flights from India,60,-0.004
+2025-12-31,Karnataka,International flights from India,51,0.007
+2026-01-01,Karnataka,International flights from India,51,0.01
+2026-01-02,Karnataka,International flights from India,72,0.064
+2026-01-03,Karnataka,International flights from India,78,0.021
+2026-01-04,Karnataka,International flights from India,78,0.02
+2026-01-05,Karnataka,International flights from India,53,0.037
+2026-01-06,Karnataka,International flights from India,49,0.053
+2026-01-07,Karnataka,International flights from India,53,0.018
+2026-01-08,Karnataka,International flights from India,57,0.04
+2026-01-09,Karnataka,International flights from India,64,0.038
+2026-01-10,Karnataka,International flights from India,69,0.022
+2026-01-11,Karnataka,International flights from India,72,0.034
+2026-01-12,Karnataka,International flights from India,46,0.048
+2026-01-13,Karnataka,International flights from India,64,0.029
+2026-01-14,Karnataka,International flights from India,70,0.046
+2026-01-15,Karnataka,International flights from India,58,-0.014
+2026-01-16,Karnataka,International flights from India,69,0.03
+2026-01-17,Karnataka,International flights from India,68,0.043
+2026-01-18,Karnataka,International flights from India,64,0.058
+2026-01-19,Karnataka,International flights from India,62,0.059
+2026-01-20,Karnataka,International flights from India,53,0.023
+2026-01-21,Karnataka,International flights from India,53,0.061
+2026-01-22,Karnataka,International flights from India,57,0.038
+2026-01-23,Karnataka,International flights from India,80,0.049
+2026-01-24,Karnataka,International flights from India,74,0.034
+2026-01-25,Karnataka,International flights from India,66,0.071
+2026-01-26,Karnataka,International flights from India,46,0.059
+2026-01-27,Karnataka,International flights from India,56,0.04
+2026-01-28,Karnataka,International flights from India,55,0.002
+2026-01-29,Karnataka,International flights from India,44,0.052
+2026-01-30,Karnataka,International flights from India,76,0.009
+2026-01-31,Karnataka,International flights from India,66,0.006
+2026-02-01,Karnataka,International flights from India,68,0.037
+2026-02-02,Karnataka,International flights from India,50,0.047
+2026-02-03,Karnataka,International flights from India,49,0.035
+2026-02-04,Karnataka,International flights from India,60,0.054
+2026-02-05,Karnataka,International flights from India,62,0.008
+2026-02-06,Karnataka,International flights from India,75,0.027
+2026-02-07,Karnataka,International flights from India,90,0.016
+2026-02-08,Karnataka,International flights from India,83,0.062
+2026-02-09,Karnataka,International flights from India,54,0.017
+2026-02-10,Karnataka,International flights from India,52,0.07
+2026-02-11,Karnataka,International flights from India,51,0.041
+2026-02-12,Karnataka,International flights from India,61,0.03
+2025-12-15,Tamil Nadu,International flights from India,53,0.02
+2025-12-16,Tamil Nadu,International flights from India,66,0.07
+2025-12-17,Tamil Nadu,International flights from India,52,0.056
+2025-12-18,Tamil Nadu,International flights from India,64,0.008
+2025-12-19,Tamil Nadu,International flights from India,64,-0.009
+2025-12-20,Tamil Nadu,International flights from India,77,0.024
+2025-12-21,Tamil Nadu,International flights from India,66,0.035
+2025-12-22,Tamil Nadu,International flights from India,57,0.015
+2025-12-23,Tamil Nadu,International flights from India,51,0.057
+2025-12-24,Tamil Nadu,International flights from India,64,0.048
+2025-12-25,Tamil Nadu,International flights from India,51,0.03
+2025-12-26,Tamil Nadu,International flights from India,51,0.025
+2025-12-27,Tamil Nadu,International flights from India,81,0.003
+2025-12-28,Tamil Nadu,International flights from India,70,0.031
+2025-12-29,Tamil Nadu,International flights from India,56,0.023
+2025-12-30,Tamil Nadu,International flights from India,57,0.049
+2025-12-31,Tamil Nadu,International flights from India,56,0.048
+2026-01-01,Tamil Nadu,International flights from India,52,-0.001
+2026-01-02,Tamil Nadu,International flights from India,64,0.007
+2026-01-03,Tamil Nadu,International flights from India,70,0.02
+2026-01-04,Tamil Nadu,International flights from India,81,0.062
+2026-01-05,Tamil Nadu,International flights from India,55,0.035
+2026-01-06,Tamil Nadu,International flights from India,52,0.072
+2026-01-07,Tamil Nadu,International flights from India,59,0.018
+2026-01-08,Tamil Nadu,International flights from India,48,0.034
+2026-01-09,Tamil Nadu,International flights from India,57,0.058
+2026-01-10,Tamil Nadu,International flights from India,74,0.046
+2026-01-11,Tamil Nadu,International flights from India,73,0.046
+2026-01-12,Tamil Nadu,International flights from India,52,0.02
+2026-01-13,Tamil Nadu,International flights from India,58,0.011
+2026-01-14,Tamil Nadu,International flights from India,50,0.04
+2026-01-15,Tamil Nadu,International flights from India,51,0.037
+2026-01-16,Tamil Nadu,International flights from India,66,0.015
+2026-01-17,Tamil Nadu,International flights from India,72,0.015
+2026-01-18,Tamil Nadu,International flights from India,81,0.047
+2026-01-19,Tamil Nadu,International flights from India,60,0.022
+2026-01-20,Tamil Nadu,International flights from India,51,0.012
+2026-01-21,Tamil Nadu,International flights from India,44,0.024
+2026-01-22,Tamil Nadu,International flights from India,59,0.065
+2026-01-23,Tamil Nadu,International flights from India,80,0.003
+2026-01-24,Tamil Nadu,International flights from India,74,0.037
+2026-01-25,Tamil Nadu,International flights from India,75,0.053
+2026-01-26,Tamil Nadu,International flights from India,53,0.017
+2026-01-27,Tamil Nadu,International flights from India,54,0.038
+2026-01-28,Tamil Nadu,International flights from India,59,0.079
+2026-01-29,Tamil Nadu,International flights from India,58,0.033
+2026-01-30,Tamil Nadu,International flights from India,67,0.024
+2026-01-31,Tamil Nadu,International flights from India,63,0.069
+2026-02-01,Tamil Nadu,International flights from India,84,0.024
+2026-02-02,Tamil Nadu,International flights from India,56,0.043
+2026-02-03,Tamil Nadu,International flights from India,58,0.005
+2026-02-04,Tamil Nadu,International flights from India,55,0.069
+2026-02-05,Tamil Nadu,International flights from India,57,0.023
+2026-02-06,Tamil Nadu,International flights from India,65,0.065
+2026-02-07,Tamil Nadu,International flights from India,72,0.027
+2026-02-08,Tamil Nadu,International flights from India,67,0.01
+2026-02-09,Tamil Nadu,International flights from India,53,0.046
+2026-02-10,Tamil Nadu,International flights from India,42,0.013
+2026-02-11,Tamil Nadu,International flights from India,62,-0.008
+2026-02-12,Tamil Nadu,International flights from India,60,0.069
+2025-12-15,West Bengal,International flights from India,51,0.014
+2025-12-16,West Bengal,International flights from India,57,0.062
+2025-12-17,West Bengal,International flights from India,58,0.039
+2025-12-18,West Bengal,International flights from India,54,0.057
+2025-12-19,West Bengal,International flights from India,83,0.047
+2025-12-20,West Bengal,International flights from India,71,0.051
+2025-12-21,West Bengal,International flights from India,74,0.001
+2025-12-22,West Bengal,International flights from India,44,0.022
+2025-12-23,West Bengal,International flights from India,51,0.039
+2025-12-24,West Bengal,International flights from India,58,0.039
+2025-12-25,West Bengal,International flights from India,49,0.026
+2025-12-26,West Bengal,International flights from India,70,0.032
+2025-12-27,West Bengal,International flights from India,70,0.047
+2025-12-28,West Bengal,International flights from India,65,0.017
+2025-12-29,West Bengal,International flights from India,59,0.06
+2025-12-30,West Bengal,International flights from India,52,-0.007
+2025-12-31,West Bengal,International flights from India,50,0.025
+2026-01-01,West Bengal,International flights from India,53,0.029
+2026-01-02,West Bengal,International flights from India,72,0.049
+2026-01-03,West Bengal,International flights from India,69,0.051
+2026-01-04,West Bengal,International flights from India,79,0.039
+2026-01-05,West Bengal,International flights from India,56,0.03
+2026-01-06,West Bengal,International flights from India,58,0.022
+2026-01-07,West Bengal,International flights from India,55,0.06
+2026-01-08,West Bengal,International flights from India,42,0.007
+2026-01-09,West Bengal,International flights from India,62,0.06
+2026-01-10,West Bengal,International flights from India,72,0.033
+2026-01-11,West Bengal,International flights from India,69,0.039
+2026-01-12,West Bengal,International flights from India,67,0.066
+2026-01-13,West Bengal,International flights from India,57,0.034
+2026-01-14,West Bengal,International flights from India,53,0.016
+2026-01-15,West Bengal,International flights from India,58,-0.005
+2026-01-16,West Bengal,International flights from India,72,0.059
+2026-01-17,West Bengal,International flights from India,65,0.031
+2026-01-18,West Bengal,International flights from India,66,0.056
+2026-01-19,West Bengal,International flights from India,47,0.052
+2026-01-20,West Bengal,International flights from India,62,0.018
+2026-01-21,West Bengal,International flights from India,54,0.055
+2026-01-22,West Bengal,International flights from India,49,0.016
+2026-01-23,West Bengal,International flights from India,71,0.026
+2026-01-24,West Bengal,International flights from India,76,0.011
+2026-01-25,West Bengal,International flights from India,79,0.066
+2026-01-26,West Bengal,International flights from India,60,0.061
+2026-01-27,West Bengal,International flights from India,62,0.048
+2026-01-28,West Bengal,International flights from India,48,0.066
+2026-01-29,West Bengal,International flights from India,59,-0.009
+2026-01-30,West Bengal,International flights from India,73,0.026
+2026-01-31,West Bengal,International flights from India,87,0.047
+2026-02-01,West Bengal,International flights from India,64,0.012
+2026-02-02,West Bengal,International flights from India,51,0.005
+2026-02-03,West Bengal,International flights from India,52,0.055
+2026-02-04,West Bengal,International flights from India,57,-0.012
+2026-02-05,West Bengal,International flights from India,56,0.028
+2026-02-06,West Bengal,International flights from India,75,0.053
+2026-02-07,West Bengal,International flights from India,71,0.046
+2026-02-08,West Bengal,International flights from India,73,0.022
+2026-02-09,West Bengal,International flights from India,58,0.052
+2026-02-10,West Bengal,International flights from India,53,0.022
+2026-02-11,West Bengal,International flights from India,52,0.045
+2026-02-12,West Bengal,International flights from India,56,0.045
+2025-12-15,India,Flight status,31,0.049
+2025-12-16,India,Flight status,44,0.051
+2025-12-17,India,Flight status,45,0.063
+2025-12-18,India,Flight status,44,0.037
+2025-12-19,India,Flight status,68,0.06
+2025-12-20,India,Flight status,63,0.035
+2025-12-21,India,Flight status,66,0.027
+2025-12-22,India,Flight status,44,0.045
+2025-12-23,India,Flight status,37,0.035
+2025-12-24,India,Flight status,41,0.026
+2025-12-25,India,Flight status,47,0.013
+2025-12-26,India,Flight status,57,0.042
+2025-12-27,India,Flight status,59,0.091
+2025-12-28,India,Flight status,51,0.024
+2025-12-29,India,Flight status,47,0.032
+2025-12-30,India,Flight status,47,0.041
+2025-12-31,India,Flight status,39,0.035
+2026-01-01,India,Flight status,41,0.039
+2026-01-02,India,Flight status,65,0.03
+2026-01-03,India,Flight status,58,0.054
+2026-01-04,India,Flight status,65,0.022
+2026-01-05,India,Flight status,39,0.034
+2026-01-06,India,Flight status,41,0.002
+2026-01-07,India,Flight status,37,0.055
+2026-01-08,India,Flight status,46,0.034
+2026-01-09,India,Flight status,71,0.01
+2026-01-10,India,Flight status,75,0.031
+2026-01-11,India,Flight status,60,0.005
+2026-01-12,India,Flight status,42,0.008
+2026-01-13,India,Flight status,50,0.008
+2026-01-14,India,Flight status,37,0.049
+2026-01-15,India,Flight status,52,0.01
+2026-01-16,India,Flight status,65,0.073
+2026-01-17,India,Flight status,71,0.028
+2026-01-18,India,Flight status,71,0.036
+2026-01-19,India,Flight status,45,0.026
+2026-01-20,India,Flight status,50,0.059
+2026-01-21,India,Flight status,45,0.042
+2026-01-22,India,Flight status,46,0.025
+2026-01-23,India,Flight status,60,0.036
+2026-01-24,India,Flight status,80,0.063
+2026-01-25,India,Flight status,64,0.031
+2026-01-26,India,Flight status,50,0.005
+2026-01-27,India,Flight status,41,0.054
+2026-01-28,India,Flight status,46,0.023
+2026-01-29,India,Flight status,49,0.044
+2026-01-30,India,Flight status,68,-0.016
+2026-01-31,India,Flight status,68,0.043
+2026-02-01,India,Flight status,63,0.015
+2026-02-02,India,Flight status,44,0.052
+2026-02-03,India,Flight status,44,0.044
+2026-02-04,India,Flight status,42,0.021
+2026-02-05,India,Flight status,45,0.041
+2026-02-06,India,Flight status,71,0.004
+2026-02-07,India,Flight status,54,0.047
+2026-02-08,India,Flight status,47,0.022
+2026-02-09,India,Flight status,51,0.04
+2026-02-10,India,Flight status,51,0.045
+2026-02-11,India,Flight status,47,0.014
+2026-02-12,India,Flight status,46,-0.003
+2025-12-15,Delhi,Flight status,43,0.02
+2025-12-16,Delhi,Flight status,38,0.015
+2025-12-17,Delhi,Flight status,44,0.028
+2025-12-18,Delhi,Flight status,39,0.061
+2025-12-19,Delhi,Flight status,70,0.032
+2025-12-20,Delhi,Flight status,59,0.036
+2025-12-21,Delhi,Flight status,60,0.056
+2025-12-22,Delhi,Flight status,40,0.077
+2025-12-23,Delhi,Flight status,53,0.017
+2025-12-24,Delhi,Flight status,50,0.064
+2025-12-25,Delhi,Flight status,46,0.002
+2025-12-26,Delhi,Flight status,64,0.05
+2025-12-27,Delhi,Flight status,63,0.024
+2025-12-28,Delhi,Flight status,73,0.029
+2025-12-29,Delhi,Flight status,47,0.038
+2025-12-30,Delhi,Flight status,52,0.042
+2025-12-31,Delhi,Flight status,42,0.049
+2026-01-01,Delhi,Flight status,47,0.043
+2026-01-02,Delhi,Flight status,49,0.041
+2026-01-03,Delhi,Flight status,65,0.023
+2026-01-04,Delhi,Flight status,60,0.03
+2026-01-05,Delhi,Flight status,40,0.05
+2026-01-06,Delhi,Flight status,45,0.035
+2026-01-07,Delhi,Flight status,49,-0.004
+2026-01-08,Delhi,Flight status,49,0.039
+2026-01-09,Delhi,Flight status,61,0.039
+2026-01-10,Delhi,Flight status,69,0.014
+2026-01-11,Delhi,Flight status,54,0.037
+2026-01-12,Delhi,Flight status,50,0.003
+2026-01-13,Delhi,Flight status,54,0.039
+2026-01-14,Delhi,Flight status,50,0.048
+2026-01-15,Delhi,Flight status,46,0.025
+2026-01-16,Delhi,Flight status,62,0.014
+2026-01-17,Delhi,Flight status,73,0.016
+2026-01-18,Delhi,Flight status,71,0.05
+2026-01-19,Delhi,Flight status,44,0.053
+2026-01-20,Delhi,Flight status,54,0.047
+2026-01-21,Delhi,Flight status,51,0.053
+2026-01-22,Delhi,Flight status,46,0.03
+2026-01-23,Delhi,Flight status,50,0.023
+2026-01-24,Delhi,Flight status,75,0.045
+2026-01-25,Delhi,Flight status,75,0.05
+2026-01-26,Delhi,Flight status,52,0.051
+2026-01-27,Delhi,Flight status,40,0.047
+2026-01-28,Delhi,Flight status,51,0.051
+2026-01-29,Delhi,Flight status,37,0.046
+2026-01-30,Delhi,Flight status,62,0.028
+2026-01-31,Delhi,Flight status,70,0.039
+2026-02-01,Delhi,Flight status,73,0.012
+2026-02-02,Delhi,Flight status,49,0.032
+2026-02-03,Delhi,Flight status,53,0.036
+2026-02-04,Delhi,Flight status,47,0.026
+2026-02-05,Delhi,Flight status,41,0.057
+2026-02-06,Delhi,Flight status,70,0.032
+2026-02-07,Delhi,Flight status,61,0.053
+2026-02-08,Delhi,Flight status,73,0.037
+2026-02-09,Delhi,Flight status,43,0.029
+2026-02-10,Delhi,Flight status,34,0.035
+2026-02-11,Delhi,Flight status,54,0.024
+2026-02-12,Delhi,Flight status,40,0.018
+2025-12-15,Maharashtra,Flight status,42,0.007
+2025-12-16,Maharashtra,Flight status,48,0.033
+2025-12-17,Maharashtra,Flight status,52,0.053
+2025-12-18,Maharashtra,Flight status,42,-0.004
+2025-12-19,Maharashtra,Flight status,72,0.016
+2025-12-20,Maharashtra,Flight status,60,0.052
+2025-12-21,Maharashtra,Flight status,66,0.061
+2025-12-22,Maharashtra,Flight status,41,0.024
+2025-12-23,Maharashtra,Flight status,52,0.042
+2025-12-24,Maharashtra,Flight status,42,0.033
+2025-12-25,Maharashtra,Flight status,38,0.029
+2025-12-26,Maharashtra,Flight status,59,0.036
+2025-12-27,Maharashtra,Flight status,74,0.041
+2025-12-28,Maharashtra,Flight status,71,0.036
+2025-12-29,Maharashtra,Flight status,49,0.058
+2025-12-30,Maharashtra,Flight status,42,0.033
+2025-12-31,Maharashtra,Flight status,44,0.014
+2026-01-01,Maharashtra,Flight status,40,0.059
+2026-01-02,Maharashtra,Flight status,60,0.046
+2026-01-03,Maharashtra,Flight status,72,0.045
+2026-01-04,Maharashtra,Flight status,66,0.033
+2026-01-05,Maharashtra,Flight status,46,0.028
+2026-01-06,Maharashtra,Flight status,36,0.038
+2026-01-07,Maharashtra,Flight status,45,0.043
+2026-01-08,Maharashtra,Flight status,41,0.064
+2026-01-09,Maharashtra,Flight status,61,0.043
+2026-01-10,Maharashtra,Flight status,64,0.028
+2026-01-11,Maharashtra,Flight status,70,0.063
+2026-01-12,Maharashtra,Flight status,44,0.01
+2026-01-13,Maharashtra,Flight status,50,0.017
+2026-01-14,Maharashtra,Flight status,47,0.049
+2026-01-15,Maharashtra,Flight status,40,0.001
+2026-01-16,Maharashtra,Flight status,68,0.036
+2026-01-17,Maharashtra,Flight status,53,0.027
+2026-01-18,Maharashtra,Flight status,63,0.039
+2026-01-19,Maharashtra,Flight status,52,0.04
+2026-01-20,Maharashtra,Flight status,44,0.02
+2026-01-21,Maharashtra,Flight status,50,0.004
+2026-01-22,Maharashtra,Flight status,52,0.035
+2026-01-23,Maharashtra,Flight status,62,-0.001
+2026-01-24,Maharashtra,Flight status,58,0.051
+2026-01-25,Maharashtra,Flight status,48,0.027
+2026-01-26,Maharashtra,Flight status,39,0.032
+2026-01-27,Maharashtra,Flight status,46,0.069
+2026-01-28,Maharashtra,Flight status,37,0.013
+2026-01-29,Maharashtra,Flight status,51,0.001
+2026-01-30,Maharashtra,Flight status,58,0.025
+2026-01-31,Maharashtra,Flight status,59,0.054
+2026-02-01,Maharashtra,Flight status,52,0.02
+2026-02-02,Maharashtra,Flight status,47,0.006
+2026-02-03,Maharashtra,Flight status,50,0.005
+2026-02-04,Maharashtra,Flight status,38,0.017
+2026-02-05,Maharashtra,Flight status,44,0.02
+2026-02-06,Maharashtra,Flight status,63,0.025
+2026-02-07,Maharashtra,Flight status,67,0.034
+2026-02-08,Maharashtra,Flight status,47,0.005
+2026-02-09,Maharashtra,Flight status,56,0.06
+2026-02-10,Maharashtra,Flight status,54,0.019
+2026-02-11,Maharashtra,Flight status,38,0.034
+2026-02-12,Maharashtra,Flight status,45,0.042
+2025-12-15,Karnataka,Flight status,54,0.039
+2025-12-16,Karnataka,Flight status,44,0.017
+2025-12-17,Karnataka,Flight status,43,0.042
+2025-12-18,Karnataka,Flight status,34,0.075
+2025-12-19,Karnataka,Flight status,64,0.053
+2025-12-20,Karnataka,Flight status,61,0.056
+2025-12-21,Karnataka,Flight status,69,0.039
+2025-12-22,Karnataka,Flight status,49,0.001
+2025-12-23,Karnataka,Flight status,49,0.019
+2025-12-24,Karnataka,Flight status,52,0.03
+2025-12-25,Karnataka,Flight status,43,0.06
+2025-12-26,Karnataka,Flight status,53,0.032
+2025-12-27,Karnataka,Flight status,52,0.061
+2025-12-28,Karnataka,Flight status,69,0.055
+2025-12-29,Karnataka,Flight status,51,0.022
+2025-12-30,Karnataka,Flight status,52,0.057
+2025-12-31,Karnataka,Flight status,42,0.002
+2026-01-01,Karnataka,Flight status,42,0.019
+2026-01-02,Karnataka,Flight status,57,0.033
+2026-01-03,Karnataka,Flight status,62,0.055
+2026-01-04,Karnataka,Flight status,62,0.007
+2026-01-05,Karnataka,Flight status,48,0.032
+2026-01-06,Karnataka,Flight status,39,0.044
+2026-01-07,Karnataka,Flight status,45,0.039
+2026-01-08,Karnataka,Flight status,42,0.027
+2026-01-09,Karnataka,Flight status,55,0.001
+2026-01-10,Karnataka,Flight status,76,-0.02
+2026-01-11,Karnataka,Flight status,73,0.041
+2026-01-12,Karnataka,Flight status,44,0.05
+2026-01-13,Karnataka,Flight status,41,0.034
+2026-01-14,Karnataka,Flight status,51,0.066
+2026-01-15,Karnataka,Flight status,44,-0.017
+2026-01-16,Karnataka,Flight status,57,-0.003
+2026-01-17,Karnataka,Flight status,54,0.031
+2026-01-18,Karnataka,Flight status,64,0.056
+2026-01-19,Karnataka,Flight status,55,0.03
+2026-01-20,Karnataka,Flight status,49,0.013
+2026-01-21,Karnataka,Flight status,45,0.025
+2026-01-22,Karnataka,Flight status,49,0.028
+2026-01-23,Karnataka,Flight status,54,0.081
+2026-01-24,Karnataka,Flight status,67,0.02
+2026-01-25,Karnataka,Flight status,63,0.016
+2026-01-26,Karnataka,Flight status,56,0.026
+2026-01-27,Karnataka,Flight status,51,0.029
+2026-01-28,Karnataka,Flight status,46,0.025
+2026-01-29,Karnataka,Flight status,46,0.035
+2026-01-30,Karnataka,Flight status,54,0.015
+2026-01-31,Karnataka,Flight status,69,0.049
+2026-02-01,Karnataka,Flight status,62,0.045
+2026-02-02,Karnataka,Flight status,47,0.054
+2026-02-03,Karnataka,Flight status,52,0.041
+2026-02-04,Karnataka,Flight status,46,0.016
+2026-02-05,Karnataka,Flight status,50,-0.015
+2026-02-06,Karnataka,Flight status,58,0.0
+2026-02-07,Karnataka,Flight status,63,0.012
+2026-02-08,Karnataka,Flight status,72,0.008
+2026-02-09,Karnataka,Flight status,46,0.034
+2026-02-10,Karnataka,Flight status,40,0.032
+2026-02-11,Karnataka,Flight status,44,-0.003
+2026-02-12,Karnataka,Flight status,50,0.004
+2025-12-15,Tamil Nadu,Flight status,34,0.03
+2025-12-16,Tamil Nadu,Flight status,51,-0.008
+2025-12-17,Tamil Nadu,Flight status,45,0.043
+2025-12-18,Tamil Nadu,Flight status,41,0.016
+2025-12-19,Tamil Nadu,Flight status,65,0.043
+2025-12-20,Tamil Nadu,Flight status,51,0.033
+2025-12-21,Tamil Nadu,Flight status,59,0.034
+2025-12-22,Tamil Nadu,Flight status,47,0.053
+2025-12-23,Tamil Nadu,Flight status,44,0.02
+2025-12-24,Tamil Nadu,Flight status,39,0.026
+2025-12-25,Tamil Nadu,Flight status,50,0.018
+2025-12-26,Tamil Nadu,Flight status,53,0.027
+2025-12-27,Tamil Nadu,Flight status,68,0.023
+2025-12-28,Tamil Nadu,Flight status,61,0.019
+2025-12-29,Tamil Nadu,Flight status,48,0.025
+2025-12-30,Tamil Nadu,Flight status,50,0.027
+2025-12-31,Tamil Nadu,Flight status,41,0.026
+2026-01-01,Tamil Nadu,Flight status,48,0.016
+2026-01-02,Tamil Nadu,Flight status,65,-0.011
+2026-01-03,Tamil Nadu,Flight status,75,0.054
+2026-01-04,Tamil Nadu,Flight status,51,0.044
+2026-01-05,Tamil Nadu,Flight status,49,0.049
+2026-01-06,Tamil Nadu,Flight status,45,0.022
+2026-01-07,Tamil Nadu,Flight status,47,0.018
+2026-01-08,Tamil Nadu,Flight status,46,0.019
+2026-01-09,Tamil Nadu,Flight status,56,0.05
+2026-01-10,Tamil Nadu,Flight status,56,0.031
+2026-01-11,Tamil Nadu,Flight status,66,0.025
+2026-01-12,Tamil Nadu,Flight status,50,0.004
+2026-01-13,Tamil Nadu,Flight status,37,0.05
+2026-01-14,Tamil Nadu,Flight status,45,0.022
+2026-01-15,Tamil Nadu,Flight status,49,0.012
+2026-01-16,Tamil Nadu,Flight status,61,0.046
+2026-01-17,Tamil Nadu,Flight status,68,0.025
+2026-01-18,Tamil Nadu,Flight status,61,0.088
+2026-01-19,Tamil Nadu,Flight status,48,0.028
+2026-01-20,Tamil Nadu,Flight status,47,0.06
+2026-01-21,Tamil Nadu,Flight status,40,0.046
+2026-01-22,Tamil Nadu,Flight status,45,0.044
+2026-01-23,Tamil Nadu,Flight status,56,0.024
+2026-01-24,Tamil Nadu,Flight status,67,0.026
+2026-01-25,Tamil Nadu,Flight status,67,-0.001
+2026-01-26,Tamil Nadu,Flight status,46,0.044
+2026-01-27,Tamil Nadu,Flight status,33,0.018
+2026-01-28,Tamil Nadu,Flight status,55,0.042
+2026-01-29,Tamil Nadu,Flight status,48,0.023
+2026-01-30,Tamil Nadu,Flight status,66,0.019
+2026-01-31,Tamil Nadu,Flight status,57,0.025
+2026-02-01,Tamil Nadu,Flight status,58,0.039
+2026-02-02,Tamil Nadu,Flight status,57,0.001
+2026-02-03,Tamil Nadu,Flight status,51,-0.029
+2026-02-04,Tamil Nadu,Flight status,39,0.052
+2026-02-05,Tamil Nadu,Flight status,42,0.018
+2026-02-06,Tamil Nadu,Flight status,62,0.018
+2026-02-07,Tamil Nadu,Flight status,63,-0.003
+2026-02-08,Tamil Nadu,Flight status,60,0.004
+2026-02-09,Tamil Nadu,Flight status,43,0.048
+2026-02-10,Tamil Nadu,Flight status,42,0.016
+2026-02-11,Tamil Nadu,Flight status,48,0.007
+2026-02-12,Tamil Nadu,Flight status,43,0.006
+2025-12-15,West Bengal,Flight status,47,0.019
+2025-12-16,West Bengal,Flight status,33,0.064
+2025-12-17,West Bengal,Flight status,43,0.035
+2025-12-18,West Bengal,Flight status,51,0.066
+2025-12-19,West Bengal,Flight status,50,0.049
+2025-12-20,West Bengal,Flight status,55,0.042
+2025-12-21,West Bengal,Flight status,64,0.012
+2025-12-22,West Bengal,Flight status,46,0.028
+2025-12-23,West Bengal,Flight status,44,0.025
+2025-12-24,West Bengal,Flight status,48,0.041
+2025-12-25,West Bengal,Flight status,48,0.054
+2025-12-26,West Bengal,Flight status,60,0.023
+2025-12-27,West Bengal,Flight status,61,0.053
+2025-12-28,West Bengal,Flight status,48,0.027
+2025-12-29,West Bengal,Flight status,45,0.041
+2025-12-30,West Bengal,Flight status,52,0.067
+2025-12-31,West Bengal,Flight status,36,0.032
+2026-01-01,West Bengal,Flight status,40,0.035
+2026-01-02,West Bengal,Flight status,55,0.013
+2026-01-03,West Bengal,Flight status,53,0.059
+2026-01-04,West Bengal,Flight status,60,0.058
+2026-01-05,West Bengal,Flight status,43,0.046
+2026-01-06,West Bengal,Flight status,39,0.016
+2026-01-07,West Bengal,Flight status,48,0.053
+2026-01-08,West Bengal,Flight status,37,0.009
+2026-01-09,West Bengal,Flight status,66,0.046
+2026-01-10,West Bengal,Flight status,58,0.001
+2026-01-11,West Bengal,Flight status,52,0.05
+2026-01-12,West Bengal,Flight status,44,-0.016
+2026-01-13,West Bengal,Flight status,43,0.027
+2026-01-14,West Bengal,Flight status,46,0.025
+2026-01-15,West Bengal,Flight status,47,0.027
+2026-01-16,West Bengal,Flight status,67,0.045
+2026-01-17,West Bengal,Flight status,62,0.051
+2026-01-18,West Bengal,Flight status,55,0.005
+2026-01-19,West Bengal,Flight status,48,0.026
+2026-01-20,West Bengal,Flight status,46,0.063
+2026-01-21,West Bengal,Flight status,50,0.009
+2026-01-22,West Bengal,Flight status,47,0.025
+2026-01-23,West Bengal,Flight status,62,0.024
+2026-01-24,West Bengal,Flight status,71,0.067
+2026-01-25,West Bengal,Flight status,54,0.057
+2026-01-26,West Bengal,Flight status,45,0.033
+2026-01-27,West Bengal,Flight status,51,0.03
+2026-01-28,West Bengal,Flight status,50,-0.002
+2026-01-29,West Bengal,Flight status,44,0.011
+2026-01-30,West Bengal,Flight status,55,0.033
+2026-01-31,West Bengal,Flight status,61,0.048
+2026-02-01,West Bengal,Flight status,58,0.034
+2026-02-02,West Bengal,Flight status,44,0.046
+2026-02-03,West Bengal,Flight status,48,0.046
+2026-02-04,West Bengal,Flight status,32,0.057
+2026-02-05,West Bengal,Flight status,40,0.01
+2026-02-06,West Bengal,Flight status,66,0.038
+2026-02-07,West Bengal,Flight status,62,0.016
+2026-02-08,West Bengal,Flight status,65,0.031
+2026-02-09,West Bengal,Flight status,46,-0.001
+2026-02-10,West Bengal,Flight status,48,0.035
+2026-02-11,West Bengal,Flight status,47,0.012
+2026-02-12,West Bengal,Flight status,46,0.048
+2025-12-15,India,Web check-in,37,0.028
+2025-12-16,India,Web check-in,43,0.004
+2025-12-17,India,Web check-in,57,0.026
+2025-12-18,India,Web check-in,43,-0.001
+2025-12-19,India,Web check-in,45,0.03
+2025-12-20,India,Web check-in,47,0.001
+2025-12-21,India,Web check-in,60,0.021
+2025-12-22,India,Web check-in,49,0.039
+2025-12-23,India,Web check-in,31,-0.041
+2025-12-24,India,Web check-in,43,0.045
+2025-12-25,India,Web check-in,39,0.06
+2025-12-26,India,Web check-in,72,0.072
+2025-12-27,India,Web check-in,58,0.015
+2025-12-28,India,Web check-in,55,-0.001
+2025-12-29,India,Web check-in,39,-0.0
+2025-12-30,India,Web check-in,41,-0.002
+2025-12-31,India,Web check-in,37,0.014
+2026-01-01,India,Web check-in,44,0.033
+2026-01-02,India,Web check-in,55,0.015
+2026-01-03,India,Web check-in,61,0.035
+2026-01-04,India,Web check-in,59,0.034
+2026-01-05,India,Web check-in,35,0.049
+2026-01-06,India,Web check-in,43,0.012
+2026-01-07,India,Web check-in,45,0.009
+2026-01-08,India,Web check-in,41,0.011
+2026-01-09,India,Web check-in,71,0.049
+2026-01-10,India,Web check-in,54,0.026
+2026-01-11,India,Web check-in,39,0.029
+2026-01-12,India,Web check-in,43,0.013
+2026-01-13,India,Web check-in,28,0.051
+2026-01-14,India,Web check-in,43,0.023
+2026-01-15,India,Web check-in,38,0.031
+2026-01-16,India,Web check-in,57,0.04
+2026-01-17,India,Web check-in,55,0.021
+2026-01-18,India,Web check-in,52,0.04
+2026-01-19,India,Web check-in,43,0.028
+2026-01-20,India,Web check-in,38,0.011
+2026-01-21,India,Web check-in,35,0.04
+2026-01-22,India,Web check-in,37,0.036
+2026-01-23,India,Web check-in,61,-0.002
+2026-01-24,India,Web check-in,62,-0.0
+2026-01-25,India,Web check-in,58,0.022
+2026-01-26,India,Web check-in,46,-0.004
+2026-01-27,India,Web check-in,38,0.014
+2026-01-28,India,Web check-in,41,-0.001
+2026-01-29,India,Web check-in,48,0.02
+2026-01-30,India,Web check-in,65,0.037
+2026-01-31,India,Web check-in,63,-0.005
+2026-02-01,India,Web check-in,58,0.022
+2026-02-02,India,Web check-in,39,0.012
+2026-02-03,India,Web check-in,44,0.025
+2026-02-04,India,Web check-in,42,0.041
+2026-02-05,India,Web check-in,39,0.017
+2026-02-06,India,Web check-in,70,0.023
+2026-02-07,India,Web check-in,55,0.014
+2026-02-08,India,Web check-in,53,0.029
+2026-02-09,India,Web check-in,43,0.025
+2026-02-10,India,Web check-in,36,0.043
+2026-02-11,India,Web check-in,45,-0.006
+2026-02-12,India,Web check-in,33,0.048
+2025-12-15,Delhi,Web check-in,38,0.034
+2025-12-16,Delhi,Web check-in,50,0.001
+2025-12-17,Delhi,Web check-in,43,0.002
+2025-12-18,Delhi,Web check-in,41,0.014
+2025-12-19,Delhi,Web check-in,65,0.006
+2025-12-20,Delhi,Web check-in,55,0.055
+2025-12-21,Delhi,Web check-in,60,0.045
+2025-12-22,Delhi,Web check-in,36,0.063
+2025-12-23,Delhi,Web check-in,41,0.018
+2025-12-24,Delhi,Web check-in,37,0.038
+2025-12-25,Delhi,Web check-in,46,0.02
+2025-12-26,Delhi,Web check-in,60,0.022
+2025-12-27,Delhi,Web check-in,69,0.004
+2025-12-28,Delhi,Web check-in,72,0.027
+2025-12-29,Delhi,Web check-in,33,0.051
+2025-12-30,Delhi,Web check-in,48,0.039
+2025-12-31,Delhi,Web check-in,39,-0.023
+2026-01-01,Delhi,Web check-in,48,0.025
+2026-01-02,Delhi,Web check-in,55,0.072
+2026-01-03,Delhi,Web check-in,64,0.041
+2026-01-04,Delhi,Web check-in,68,0.045
+2026-01-05,Delhi,Web check-in,43,0.036
+2026-01-06,Delhi,Web check-in,48,-0.003
+2026-01-07,Delhi,Web check-in,36,0.037
+2026-01-08,Delhi,Web check-in,44,0.029
+2026-01-09,Delhi,Web check-in,61,0.013
+2026-01-10,Delhi,Web check-in,55,0.001
+2026-01-11,Delhi,Web check-in,63,0.043
+2026-01-12,Delhi,Web check-in,49,0.001
+2026-01-13,Delhi,Web check-in,53,0.016
+2026-01-14,Delhi,Web check-in,45,-0.007
+2026-01-15,Delhi,Web check-in,33,0.055
+2026-01-16,Delhi,Web check-in,70,0.006
+2026-01-17,Delhi,Web check-in,66,0.007
+2026-01-18,Delhi,Web check-in,57,0.047
+2026-01-19,Delhi,Web check-in,40,-0.009
+2026-01-20,Delhi,Web check-in,39,0.001
+2026-01-21,Delhi,Web check-in,40,0.028
+2026-01-22,Delhi,Web check-in,46,0.016
+2026-01-23,Delhi,Web check-in,61,0.031
+2026-01-24,Delhi,Web check-in,52,0.025
+2026-01-25,Delhi,Web check-in,53,-0.005
+2026-01-26,Delhi,Web check-in,37,0.027
+2026-01-27,Delhi,Web check-in,31,-0.011
+2026-01-28,Delhi,Web check-in,50,0.027
+2026-01-29,Delhi,Web check-in,43,0.06
+2026-01-30,Delhi,Web check-in,58,0.038
+2026-01-31,Delhi,Web check-in,59,0.028
+2026-02-01,Delhi,Web check-in,51,0.016
+2026-02-02,Delhi,Web check-in,38,0.05
+2026-02-03,Delhi,Web check-in,48,0.04
+2026-02-04,Delhi,Web check-in,39,0.046
+2026-02-05,Delhi,Web check-in,39,0.029
+2026-02-06,Delhi,Web check-in,51,0.042
+2026-02-07,Delhi,Web check-in,56,0.007
+2026-02-08,Delhi,Web check-in,65,0.044
+2026-02-09,Delhi,Web check-in,43,0.024
+2026-02-10,Delhi,Web check-in,42,0.019
+2026-02-11,Delhi,Web check-in,48,0.037
+2026-02-12,Delhi,Web check-in,42,0.047
+2025-12-15,Maharashtra,Web check-in,36,0.034
+2025-12-16,Maharashtra,Web check-in,44,0.028
+2025-12-17,Maharashtra,Web check-in,39,0.032
+2025-12-18,Maharashtra,Web check-in,43,-0.007
+2025-12-19,Maharashtra,Web check-in,51,0.025
+2025-12-20,Maharashtra,Web check-in,63,0.009
+2025-12-21,Maharashtra,Web check-in,66,0.042
+2025-12-22,Maharashtra,Web check-in,52,0.04
+2025-12-23,Maharashtra,Web check-in,37,0.023
+2025-12-24,Maharashtra,Web check-in,33,0.047
+2025-12-25,Maharashtra,Web check-in,38,0.005
+2025-12-26,Maharashtra,Web check-in,65,0.036
+2025-12-27,Maharashtra,Web check-in,69,-0.01
+2025-12-28,Maharashtra,Web check-in,70,0.049
+2025-12-29,Maharashtra,Web check-in,45,0.04
+2025-12-30,Maharashtra,Web check-in,38,0.029
+2025-12-31,Maharashtra,Web check-in,40,0.011
+2026-01-01,Maharashtra,Web check-in,38,0.002
+2026-01-02,Maharashtra,Web check-in,66,0.066
+2026-01-03,Maharashtra,Web check-in,62,0.006
+2026-01-04,Maharashtra,Web check-in,75,0.045
+2026-01-05,Maharashtra,Web check-in,42,-0.005
+2026-01-06,Maharashtra,Web check-in,42,0.001
+2026-01-07,Maharashtra,Web check-in,51,0.039
+2026-01-08,Maharashtra,Web check-in,48,0.011
+2026-01-09,Maharashtra,Web check-in,53,0.03
+2026-01-10,Maharashtra,Web check-in,59,0.018
+2026-01-11,Maharashtra,Web check-in,57,0.035
+2026-01-12,Maharashtra,Web check-in,44,0.009
+2026-01-13,Maharashtra,Web check-in,35,0.013
+2026-01-14,Maharashtra,Web check-in,43,0.042
+2026-01-15,Maharashtra,Web check-in,43,0.04
+2026-01-16,Maharashtra,Web check-in,53,0.048
+2026-01-17,Maharashtra,Web check-in,53,0.04
+2026-01-18,Maharashtra,Web check-in,52,0.005
+2026-01-19,Maharashtra,Web check-in,43,0.032
+2026-01-20,Maharashtra,Web check-in,50,0.044
+2026-01-21,Maharashtra,Web check-in,42,0.014
+2026-01-22,Maharashtra,Web check-in,40,0.019
+2026-01-23,Maharashtra,Web check-in,48,0.026
+2026-01-24,Maharashtra,Web check-in,61,0.044
+2026-01-25,Maharashtra,Web check-in,50,0.042
+2026-01-26,Maharashtra,Web check-in,38,0.019
+2026-01-27,Maharashtra,Web check-in,34,0.007
+2026-01-28,Maharashtra,Web check-in,46,0.007
+2026-01-29,Maharashtra,Web check-in,40,-0.006
+2026-01-30,Maharashtra,Web check-in,62,0.023
+2026-01-31,Maharashtra,Web check-in,66,0.017
+2026-02-01,Maharashtra,Web check-in,47,0.078
+2026-02-02,Maharashtra,Web check-in,41,0.008
+2026-02-03,Maharashtra,Web check-in,39,0.025
+2026-02-04,Maharashtra,Web check-in,43,-0.002
+2026-02-05,Maharashtra,Web check-in,42,0.021
+2026-02-06,Maharashtra,Web check-in,68,0.053
+2026-02-07,Maharashtra,Web check-in,68,0.02
+2026-02-08,Maharashtra,Web check-in,63,0.021
+2026-02-09,Maharashtra,Web check-in,39,0.021
+2026-02-10,Maharashtra,Web check-in,39,0.006
+2026-02-11,Maharashtra,Web check-in,41,0.027
+2026-02-12,Maharashtra,Web check-in,45,0.019
+2025-12-15,Karnataka,Web check-in,43,0.026
+2025-12-16,Karnataka,Web check-in,38,0.03
+2025-12-17,Karnataka,Web check-in,40,0.042
+2025-12-18,Karnataka,Web check-in,48,0.033
+2025-12-19,Karnataka,Web check-in,51,0.056
+2025-12-20,Karnataka,Web check-in,65,0.024
+2025-12-21,Karnataka,Web check-in,58,0.031
+2025-12-22,Karnataka,Web check-in,36,0.016
+2025-12-23,Karnataka,Web check-in,36,0.016
+2025-12-24,Karnataka,Web check-in,50,0.052
+2025-12-25,Karnataka,Web check-in,37,0.015
+2025-12-26,Karnataka,Web check-in,58,0.037
+2025-12-27,Karnataka,Web check-in,60,0.049
+2025-12-28,Karnataka,Web check-in,59,0.031
+2025-12-29,Karnataka,Web check-in,47,0.027
+2025-12-30,Karnataka,Web check-in,40,0.058
+2025-12-31,Karnataka,Web check-in,49,-0.044
+2026-01-01,Karnataka,Web check-in,41,-0.037
+2026-01-02,Karnataka,Web check-in,54,0.043
+2026-01-03,Karnataka,Web check-in,53,0.046
+2026-01-04,Karnataka,Web check-in,56,0.023
+2026-01-05,Karnataka,Web check-in,44,0.002
+2026-01-06,Karnataka,Web check-in,44,-0.01
+2026-01-07,Karnataka,Web check-in,41,0.015
+2026-01-08,Karnataka,Web check-in,34,0.03
+2026-01-09,Karnataka,Web check-in,58,0.015
+2026-01-10,Karnataka,Web check-in,58,-0.016
+2026-01-11,Karnataka,Web check-in,65,0.005
+2026-01-12,Karnataka,Web check-in,42,0.008
+2026-01-13,Karnataka,Web check-in,43,0.051
+2026-01-14,Karnataka,Web check-in,39,0.049
+2026-01-15,Karnataka,Web check-in,51,0.042
+2026-01-16,Karnataka,Web check-in,56,0.056
+2026-01-17,Karnataka,Web check-in,60,0.02
+2026-01-18,Karnataka,Web check-in,53,0.036
+2026-01-19,Karnataka,Web check-in,43,0.024
+2026-01-20,Karnataka,Web check-in,40,0.067
+2026-01-21,Karnataka,Web check-in,41,0.009
+2026-01-22,Karnataka,Web check-in,43,0.057
+2026-01-23,Karnataka,Web check-in,49,0.032
+2026-01-24,Karnataka,Web check-in,53,0.006
+2026-01-25,Karnataka,Web check-in,70,0.048
+2026-01-26,Karnataka,Web check-in,44,0.037
+2026-01-27,Karnataka,Web check-in,49,0.03
+2026-01-28,Karnataka,Web check-in,41,0.073
+2026-01-29,Karnataka,Web check-in,45,0.01
+2026-01-30,Karnataka,Web check-in,64,0.021
+2026-01-31,Karnataka,Web check-in,59,0.047
+2026-02-01,Karnataka,Web check-in,65,0.015
+2026-02-02,Karnataka,Web check-in,39,0.011
+2026-02-03,Karnataka,Web check-in,40,0.042
+2026-02-04,Karnataka,Web check-in,43,0.036
+2026-02-05,Karnataka,Web check-in,36,0.019
+2026-02-06,Karnataka,Web check-in,67,0.039
+2026-02-07,Karnataka,Web check-in,62,0.041
+2026-02-08,Karnataka,Web check-in,61,0.044
+2026-02-09,Karnataka,Web check-in,43,0.015
+2026-02-10,Karnataka,Web check-in,40,0.026
+2026-02-11,Karnataka,Web check-in,29,0.017
+2026-02-12,Karnataka,Web check-in,48,0.015
+2025-12-15,Tamil Nadu,Web check-in,50,0.006
+2025-12-16,Tamil Nadu,Web check-in,44,0.001
+2025-12-17,Tamil Nadu,Web check-in,44,0.033
+2025-12-18,Tamil Nadu,Web check-in,42,0.033
+2025-12-19,Tamil Nadu,Web check-in,59,0.025
+2025-12-20,Tamil Nadu,Web check-in,68,0.021
+2025-12-21,Tamil Nadu,Web check-in,64,0.035
+2025-12-22,Tamil Nadu,Web check-in,43,0.035
+2025-12-23,Tamil Nadu,Web check-in,46,0.049
+2025-12-24,Tamil Nadu,Web check-in,31,0.02
+2025-12-25,Tamil Nadu,Web check-in,32,0.063
+2025-12-26,Tamil Nadu,Web check-in,51,0.038
+2025-12-27,Tamil Nadu,Web check-in,43,0.039
+2025-12-28,Tamil Nadu,Web check-in,64,0.041
+2025-12-29,Tamil Nadu,Web check-in,38,0.042
+2025-12-30,Tamil Nadu,Web check-in,34,0.029
+2025-12-31,Tamil Nadu,Web check-in,39,0.024
+2026-01-01,Tamil Nadu,Web check-in,49,0.049
+2026-01-02,Tamil Nadu,Web check-in,61,0.025
+2026-01-03,Tamil Nadu,Web check-in,56,0.012
+2026-01-04,Tamil Nadu,Web check-in,55,0.062
+2026-01-05,Tamil Nadu,Web check-in,49,0.023
+2026-01-06,Tamil Nadu,Web check-in,39,0.013
+2026-01-07,Tamil Nadu,Web check-in,37,0.003
+2026-01-08,Tamil Nadu,Web check-in,39,0.03
+2026-01-09,Tamil Nadu,Web check-in,55,0.042
+2026-01-10,Tamil Nadu,Web check-in,58,0.067
+2026-01-11,Tamil Nadu,Web check-in,63,0.043
+2026-01-12,Tamil Nadu,Web check-in,54,0.022
+2026-01-13,Tamil Nadu,Web check-in,38,0.023
+2026-01-14,Tamil Nadu,Web check-in,40,0.004
+2026-01-15,Tamil Nadu,Web check-in,46,0.0
+2026-01-16,Tamil Nadu,Web check-in,68,0.038
+2026-01-17,Tamil Nadu,Web check-in,57,0.023
+2026-01-18,Tamil Nadu,Web check-in,58,0.016
+2026-01-19,Tamil Nadu,Web check-in,47,0.012
+2026-01-20,Tamil Nadu,Web check-in,44,0.028
+2026-01-21,Tamil Nadu,Web check-in,29,0.036
+2026-01-22,Tamil Nadu,Web check-in,46,0.039
+2026-01-23,Tamil Nadu,Web check-in,56,0.02
+2026-01-24,Tamil Nadu,Web check-in,69,0.027
+2026-01-25,Tamil Nadu,Web check-in,63,0.018
+2026-01-26,Tamil Nadu,Web check-in,44,0.027
+2026-01-27,Tamil Nadu,Web check-in,34,0.031
+2026-01-28,Tamil Nadu,Web check-in,43,-0.021
+2026-01-29,Tamil Nadu,Web check-in,49,-0.009
+2026-01-30,Tamil Nadu,Web check-in,53,0.031
+2026-01-31,Tamil Nadu,Web check-in,62,0.03
+2026-02-01,Tamil Nadu,Web check-in,74,0.012
+2026-02-02,Tamil Nadu,Web check-in,45,0.03
+2026-02-03,Tamil Nadu,Web check-in,41,0.019
+2026-02-04,Tamil Nadu,Web check-in,50,0.028
+2026-02-05,Tamil Nadu,Web check-in,42,0.026
+2026-02-06,Tamil Nadu,Web check-in,54,0.02
+2026-02-07,Tamil Nadu,Web check-in,65,0.045
+2026-02-08,Tamil Nadu,Web check-in,64,0.02
+2026-02-09,Tamil Nadu,Web check-in,41,0.039
+2026-02-10,Tamil Nadu,Web check-in,44,0.007
+2026-02-11,Tamil Nadu,Web check-in,50,0.017
+2026-02-12,Tamil Nadu,Web check-in,41,-0.009
+2025-12-15,West Bengal,Web check-in,38,-0.024
+2025-12-16,West Bengal,Web check-in,46,0.003
+2025-12-17,West Bengal,Web check-in,49,0.033
+2025-12-18,West Bengal,Web check-in,46,0.004
+2025-12-19,West Bengal,Web check-in,53,0.012
+2025-12-20,West Bengal,Web check-in,62,0.001
+2025-12-21,West Bengal,Web check-in,63,0.009
+2025-12-22,West Bengal,Web check-in,49,0.032
+2025-12-23,West Bengal,Web check-in,34,0.017
+2025-12-24,West Bengal,Web check-in,33,0.015
+2025-12-25,West Bengal,Web check-in,42,0.056
+2025-12-26,West Bengal,Web check-in,52,0.026
+2025-12-27,West Bengal,Web check-in,64,0.006
+2025-12-28,West Bengal,Web check-in,50,-0.028
+2025-12-29,West Bengal,Web check-in,44,-0.007
+2025-12-30,West Bengal,Web check-in,38,0.025
+2025-12-31,West Bengal,Web check-in,50,0.026
+2026-01-01,West Bengal,Web check-in,44,0.076
+2026-01-02,West Bengal,Web check-in,60,0.032
+2026-01-03,West Bengal,Web check-in,53,0.027
+2026-01-04,West Bengal,Web check-in,54,-0.003
+2026-01-05,West Bengal,Web check-in,43,0.049
+2026-01-06,West Bengal,Web check-in,48,0.046
+2026-01-07,West Bengal,Web check-in,44,0.05
+2026-01-08,West Bengal,Web check-in,36,0.03
+2026-01-09,West Bengal,Web check-in,60,0.047
+2026-01-10,West Bengal,Web check-in,52,0.029
+2026-01-11,West Bengal,Web check-in,61,0.027
+2026-01-12,West Bengal,Web check-in,39,0.002
+2026-01-13,West Bengal,Web check-in,54,0.023
+2026-01-14,West Bengal,Web check-in,42,0.014
+2026-01-15,West Bengal,Web check-in,43,0.011
+2026-01-16,West Bengal,Web check-in,63,0.005
+2026-01-17,West Bengal,Web check-in,58,0.008
+2026-01-18,West Bengal,Web check-in,54,0.029
+2026-01-19,West Bengal,Web check-in,36,0.049
+2026-01-20,West Bengal,Web check-in,37,0.013
+2026-01-21,West Bengal,Web check-in,43,0.033
+2026-01-22,West Bengal,Web check-in,31,0.037
+2026-01-23,West Bengal,Web check-in,61,0.05
+2026-01-24,West Bengal,Web check-in,55,0.009
+2026-01-25,West Bengal,Web check-in,46,-0.009
+2026-01-26,West Bengal,Web check-in,41,0.003
+2026-01-27,West Bengal,Web check-in,35,-0.017
+2026-01-28,West Bengal,Web check-in,45,0.036
+2026-01-29,West Bengal,Web check-in,39,0.005
+2026-01-30,West Bengal,Web check-in,62,0.011
+2026-01-31,West Bengal,Web check-in,54,0.013
+2026-02-01,West Bengal,Web check-in,49,0.047
+2026-02-02,West Bengal,Web check-in,41,0.018
+2026-02-03,West Bengal,Web check-in,40,0.037
+2026-02-04,West Bengal,Web check-in,40,0.017
+2026-02-05,West Bengal,Web check-in,43,0.053
+2026-02-06,West Bengal,Web check-in,60,0.027
+2026-02-07,West Bengal,Web check-in,47,0.029
+2026-02-08,West Bengal,Web check-in,62,0.005
+2026-02-09,West Bengal,Web check-in,45,0.047
+2026-02-10,West Bengal,Web check-in,38,0.025
+2026-02-11,West Bengal,Web check-in,42,-0.002
+2026-02-12,West Bengal,Web check-in,35,0.023

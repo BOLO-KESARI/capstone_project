@@ -1,0 +1,1001 @@
+airline,post_date,platform,sentiment_score,complaint_category,engagement_score
+IndiGo,2026-01-28 04:12:16,Twitter,-0.21,None (Positive),66
+IndiGo,2026-01-19 06:12:16,Tripadvisor,0.06,None (Positive),28
+Air India,2026-02-03 04:12:16,Twitter,-0.54,Flight Delay,99
+Vistara,2026-01-27 16:12:16,Twitter,0.55,None (Positive),99
+Akasa Air,2026-02-05 15:12:16,Twitter,0.48,None (Positive),8
+Vistara,2026-02-08 08:12:16,Tripadvisor,-0.89,Baggage Issue,429
+IndiGo,2026-01-29 12:12:16,Google Reviews,0.02,None (Positive),73
+Vistara,2026-01-26 17:12:16,Google Reviews,-0.99,Flight Delay,165
+IndiGo,2026-01-15 23:12:16,Google Reviews,-0.08,None (Positive),85
+Vistara,2026-01-26 04:12:16,Twitter,0.86,None (Positive),82
+Akasa Air,2026-02-01 18:12:16,Twitter,-0.8,Baggage Issue,570
+Akasa Air,2026-02-04 00:12:16,Twitter,0.57,None (Positive),84
+Air India,2026-02-08 03:12:16,Tripadvisor,-0.31,Staff Behavior,83
+Vistara,2026-01-31 07:12:16,Twitter,0.87,None (Positive),39
+Akasa Air,2026-01-14 17:12:16,Tripadvisor,0.41,None (Positive),79
+IndiGo,2026-02-05 16:12:16,Google Reviews,-0.26,App/Web Glitch,66
+Air India,2026-02-12 04:12:16,Tripadvisor,-0.38,In-flight Food,55
+Air India,2026-01-20 09:12:16,Twitter,-0.64,Flight Delay,120
+Vistara,2026-01-24 07:12:16,Twitter,0.17,None (Positive),43
+IndiGo,2026-01-21 13:12:16,Twitter,0.45,None (Positive),13
+Vistara,2026-01-31 18:12:16,Google Reviews,-0.48,Flight Delay,32
+Vistara,2026-01-22 04:12:16,Twitter,0.32,None (Positive),4
+Air India,2026-02-01 23:12:16,Tripadvisor,-0.64,In-flight Food,48
+Vistara,2026-01-19 12:12:16,Twitter,0.89,None (Positive),83
+IndiGo,2026-01-19 18:12:16,Twitter,-0.53,Flight Delay,83
+Akasa Air,2026-01-19 18:12:16,Google Reviews,-0.01,None (Positive),80
+Vistara,2026-01-22 17:12:16,Twitter,-0.28,Staff Behavior,78
+SpiceJet,2026-01-22 04:12:16,Twitter,-0.33,Staff Behavior,92
+Air India,2026-02-10 00:12:16,Twitter,0.31,None (Positive),89
+IndiGo,2026-02-09 03:12:16,Google Reviews,-0.29,None (Positive),54
+Vistara,2026-02-10 13:12:16,Twitter,-0.41,Baggage Issue,4
+Akasa Air,2026-02-04 14:12:16,Twitter,0.11,None (Positive),57
+Akasa Air,2026-02-03 07:12:16,Tripadvisor,0.5,None (Positive),1
+SpiceJet,2026-02-11 01:12:16,Twitter,-0.45,None (Positive),63
+Air India,2026-01-27 01:12:16,Twitter,-0.8,Baggage Issue,312
+SpiceJet,2026-01-24 20:12:16,Tripadvisor,-0.93,Flight Delay,360
+Akasa Air,2026-01-28 00:12:16,Twitter,-0.29,None (Positive),17
+Akasa Air,2026-02-08 15:12:16,Twitter,-0.65,Flight Delay,1386
+IndiGo,2026-01-31 17:12:16,Twitter,-0.48,Flight Delay,29
+IndiGo,2026-01-15 13:12:16,Twitter,-0.68,Flight Delay,1118
+IndiGo,2026-02-04 19:12:16,Twitter,-0.17,None (Positive),64
+IndiGo,2026-01-23 19:12:16,Tripadvisor,-0.52,Baggage Issue,28
+IndiGo,2026-01-15 12:12:16,Tripadvisor,-0.41,Refund Issue,12
+Air India,2026-01-27 08:12:16,Twitter,-0.32,None (Positive),58
+Akasa Air,2026-02-11 14:12:16,Tripadvisor,-0.53,App/Web Glitch,97
+IndiGo,2026-01-15 14:12:16,Twitter,0.59,None (Positive),58
+Air India,2026-01-16 08:12:16,Twitter,-0.21,None (Positive),95
+Air India,2026-01-23 12:12:16,Twitter,-0.53,Flight Delay,20
+IndiGo,2026-01-25 03:12:16,Google Reviews,-0.84,Refund Issue,320
+SpiceJet,2026-02-05 20:12:16,Twitter,-0.24,None (Positive),43
+Air India,2026-01-30 04:12:16,Twitter,0.28,None (Positive),53
+Vistara,2026-01-20 06:12:16,Twitter,0.41,None (Positive),48
+Akasa Air,2026-01-27 21:12:16,Google Reviews,-0.46,Refund Issue,51
+Vistara,2026-01-17 17:12:16,Twitter,0.46,None (Positive),19
+IndiGo,2026-01-21 07:12:16,Tripadvisor,0.41,None (Positive),84
+Air India,2026-01-26 20:12:16,Google Reviews,0.38,None (Positive),61
+IndiGo,2026-01-15 07:12:16,Tripadvisor,-0.2,None (Positive),11
+Vistara,2026-01-19 10:12:16,Tripadvisor,0.66,None (Positive),98
+Akasa Air,2026-01-16 14:12:16,Twitter,0.64,None (Positive),34
+Air India,2026-01-16 14:12:16,Twitter,-0.04,None (Positive),48
+Akasa Air,2026-01-14 08:12:16,Google Reviews,-0.69,Staff Behavior,830
+IndiGo,2026-01-21 05:12:16,Twitter,-0.22,In-flight Food,23
+Air India,2026-02-04 23:12:16,Google Reviews,-0.76,None (Positive),884
+SpiceJet,2026-01-14 02:12:16,Tripadvisor,-0.48,Baggage Issue,6
+SpiceJet,2026-02-06 09:12:16,Twitter,-0.54,Flight Delay,87
+Vistara,2026-02-12 16:12:16,Tripadvisor,-0.31,Flight Delay,17
+SpiceJet,2026-01-22 00:12:16,Google Reviews,-0.47,App/Web Glitch,67
+IndiGo,2026-02-04 12:12:16,Twitter,-0.52,Flight Delay,28
+IndiGo,2026-02-02 16:12:16,Twitter,-0.11,None (Positive),84
+SpiceJet,2026-02-02 06:12:16,Tripadvisor,-0.83,Flight Delay,30
+Air India,2026-02-04 12:12:16,Twitter,-0.55,Flight Delay,81
+Akasa Air,2026-01-19 20:12:16,Twitter,0.11,None (Positive),60
+Akasa Air,2026-01-22 07:12:16,Twitter,0.53,None (Positive),80
+IndiGo,2026-01-21 00:12:16,Tripadvisor,0.69,None (Positive),8
+Akasa Air,2026-02-09 05:12:16,Twitter,0.6,None (Positive),59
+Akasa Air,2026-02-01 03:12:16,Twitter,-0.3,None (Positive),0
+Vistara,2026-01-29 08:12:16,Twitter,-0.21,Seat Comfort,95
+Air India,2026-01-18 21:12:16,Twitter,-0.44,Refund Issue,16
+Air India,2026-02-12 10:12:16,Twitter,-0.02,None (Positive),63
+Vistara,2026-02-10 07:12:16,Twitter,0.45,None (Positive),31
+SpiceJet,2026-01-14 05:12:16,Twitter,-0.56,Baggage Issue,6
+Vistara,2026-01-18 06:12:16,Twitter,-0.24,In-flight Food,18
+SpiceJet,2026-01-17 15:12:16,Twitter,-0.34,None (Positive),2
+Vistara,2026-02-02 10:12:16,Google Reviews,0.78,None (Positive),40
+SpiceJet,2026-02-04 23:12:16,Google Reviews,-0.9,Flight Delay,1512
+Air India,2026-01-27 10:12:16,Tripadvisor,-0.46,Flight Delay,96
+SpiceJet,2026-02-08 16:12:16,Tripadvisor,-0.48,Baggage Issue,66
+Air India,2026-01-18 23:12:16,Twitter,-0.7,Flight Delay,684
+IndiGo,2026-01-30 04:12:16,Google Reviews,0.11,None (Positive),30
+Vistara,2026-02-09 11:12:16,Google Reviews,0.28,None (Positive),14
+IndiGo,2026-01-18 09:12:16,Tripadvisor,-0.59,Flight Delay,9
+IndiGo,2026-01-22 14:12:16,Google Reviews,0.64,None (Positive),71
+Air India,2026-01-17 17:12:16,Twitter,-0.55,Flight Delay,91
+Akasa Air,2026-01-18 16:12:16,Twitter,-0.27,None (Positive),29
+IndiGo,2026-01-18 10:12:16,Twitter,0.12,None (Positive),53
+IndiGo,2026-01-16 04:12:16,Twitter,0.54,None (Positive),49
+IndiGo,2026-02-11 16:12:16,Google Reviews,-0.25,None (Positive),21
+Air India,2026-02-07 19:12:16,Twitter,-0.7,None (Positive),429
+SpiceJet,2026-02-04 09:12:16,Twitter,-0.47,Seat Comfort,67
+Akasa Air,2026-01-16 11:12:16,Twitter,-0.71,In-flight Food,1408
+SpiceJet,2026-01-15 14:12:16,Twitter,0.33,None (Positive),5
+Air India,2026-02-05 20:12:16,Tripadvisor,0.25,None (Positive),61
+Akasa Air,2026-02-08 04:12:16,Twitter,-0.93,Staff Behavior,80
+Air India,2026-02-06 07:12:16,Tripadvisor,0.15,None (Positive),64
+Vistara,2026-02-12 07:12:16,Tripadvisor,0.86,None (Positive),90
+IndiGo,2026-01-15 23:12:16,Google Reviews,0.16,None (Positive),96
+SpiceJet,2026-01-24 18:12:16,Twitter,0.12,None (Positive),5
+IndiGo,2026-01-30 11:12:16,Google Reviews,-0.87,Staff Behavior,702
+IndiGo,2026-01-26 01:12:16,Twitter,-0.28,None (Positive),83
+IndiGo,2026-02-12 15:12:16,Google Reviews,-0.59,Staff Behavior,10
+IndiGo,2026-01-16 13:12:16,Google Reviews,-0.22,None (Positive),70
+IndiGo,2026-02-10 12:12:16,Twitter,-0.84,Flight Delay,325
+IndiGo,2026-01-14 18:12:16,Tripadvisor,0.28,None (Positive),86
+SpiceJet,2026-01-19 13:12:16,Twitter,-0.74,Seat Comfort,1034
+SpiceJet,2026-02-02 18:12:16,Twitter,-0.74,In-flight Food,560
+Vistara,2026-01-14 20:12:16,Google Reviews,-0.24,In-flight Food,63
+Vistara,2026-01-31 16:12:16,Twitter,0.24,None (Positive),88
+SpiceJet,2026-02-02 03:12:16,Twitter,-0.79,Seat Comfort,1131
+Air India,2026-01-17 07:12:16,Twitter,-0.79,None (Positive),979
+Air India,2026-01-30 16:12:16,Twitter,-0.9,In-flight Food,630
+Vistara,2026-01-26 18:12:16,Google Reviews,0.27,None (Positive),12
+Air India,2026-01-20 12:12:16,Tripadvisor,-0.79,In-flight Food,1440
+Akasa Air,2026-01-25 05:12:16,Tripadvisor,-0.54,Refund Issue,67
+IndiGo,2026-01-27 00:12:16,Twitter,-0.39,Flight Delay,22
+SpiceJet,2026-01-14 07:12:16,Twitter,-0.57,None (Positive),1
+Vistara,2026-02-02 18:12:16,Google Reviews,-0.77,Seat Comfort,378
+Akasa Air,2026-01-25 05:12:16,Tripadvisor,-0.29,None (Positive),28
+Vistara,2026-01-17 06:12:16,Twitter,0.7,None (Positive),88
+Air India,2026-01-31 03:12:16,Twitter,-0.61,Staff Behavior,1209
+SpiceJet,2026-02-06 05:12:16,Twitter,-0.36,Refund Issue,17
+SpiceJet,2026-01-22 15:12:16,Google Reviews,-0.7,Seat Comfort,640
+Air India,2026-01-24 03:12:16,Google Reviews,-0.53,Baggage Issue,51
+Akasa Air,2026-01-16 01:12:16,Twitter,0.15,None (Positive),83
+Air India,2026-02-06 15:12:16,Google Reviews,-0.87,Flight Delay,1159
+Air India,2026-02-08 07:12:16,Twitter,-0.78,Baggage Issue,994
+SpiceJet,2026-01-23 08:12:16,Tripadvisor,-0.32,Flight Delay,48
+IndiGo,2026-02-11 17:12:16,Twitter,-0.12,None (Positive),29
+IndiGo,2026-01-31 12:12:16,Twitter,-0.96,Baggage Issue,1422
+Akasa Air,2026-01-14 14:12:16,Twitter,0.31,None (Positive),55
+Akasa Air,2026-02-04 07:12:16,Twitter,0.66,None (Positive),94
+SpiceJet,2026-01-15 12:12:16,Google Reviews,0.05,None (Positive),11
+Air India,2026-02-05 00:12:16,Twitter,-0.98,Flight Delay,686
+SpiceJet,2026-02-02 01:12:16,Twitter,0.25,None (Positive),17
+Vistara,2026-01-18 23:12:16,Twitter,0.45,None (Positive),26
+Vistara,2026-01-26 17:12:16,Twitter,0.35,None (Positive),32
+Akasa Air,2026-01-21 04:12:16,Twitter,0.67,None (Positive),0
+IndiGo,2026-01-20 10:12:16,Twitter,-0.71,Refund Issue,351
+Vistara,2026-02-10 12:12:16,Twitter,0.34,None (Positive),97
+Vistara,2026-02-06 16:12:16,Tripadvisor,-0.99,In-flight Food,648
+Air India,2026-01-21 20:12:16,Twitter,0.07,None (Positive),53
+IndiGo,2026-01-16 15:12:16,Tripadvisor,0.21,None (Positive),63
+IndiGo,2026-01-20 15:12:16,Twitter,0.16,None (Positive),73
+Vistara,2026-02-09 05:12:16,Twitter,0.81,None (Positive),90
+SpiceJet,2026-02-10 14:12:16,Twitter,-0.88,Refund Issue,1305
+IndiGo,2026-02-01 15:12:16,Tripadvisor,-0.81,App/Web Glitch,0
+Air India,2026-02-07 18:12:16,Twitter,-0.75,Baggage Issue,616
+SpiceJet,2026-01-25 16:12:16,Twitter,-0.71,Seat Comfort,516
+Vistara,2026-01-31 13:12:16,Twitter,0.89,None (Positive),37
+Air India,2026-01-23 23:12:16,Twitter,-0.44,Staff Behavior,67
+SpiceJet,2026-01-18 02:12:16,Google Reviews,-0.69,Flight Delay,138
+SpiceJet,2026-01-28 08:12:16,Google Reviews,-0.71,Refund Issue,420
+Vistara,2026-01-22 09:12:16,Tripadvisor,0.76,None (Positive),31
+Air India,2026-01-14 23:12:16,Twitter,-0.6,Seat Comfort,476
+Akasa Air,2026-01-31 09:12:16,Tripadvisor,0.5,None (Positive),4
+Vistara,2026-01-16 00:12:16,Twitter,0.54,None (Positive),40
+IndiGo,2026-02-01 13:12:16,Twitter,-0.83,Flight Delay,105
+Akasa Air,2026-01-26 14:12:16,Google Reviews,-0.81,Refund Issue,594
+IndiGo,2026-01-26 09:12:16,Tripadvisor,-0.13,None (Positive),53
+Air India,2026-01-31 16:12:16,Twitter,-0.47,Refund Issue,39
+Akasa Air,2026-01-15 06:12:16,Twitter,0.15,None (Positive),58
+SpiceJet,2026-01-26 11:12:16,Twitter,-0.96,Staff Behavior,1134
+SpiceJet,2026-02-06 11:12:16,Twitter,0.14,None (Positive),28
+Vistara,2026-01-20 17:12:16,Twitter,0.59,None (Positive),62
+SpiceJet,2026-02-05 15:12:16,Twitter,-0.46,None (Positive),23
+Air India,2026-01-14 02:12:16,Twitter,-0.17,None (Positive),45
+Akasa Air,2026-02-04 02:12:16,Twitter,0.06,None (Positive),41
+Vistara,2026-01-30 00:12:16,Twitter,0.42,None (Positive),64
+Akasa Air,2026-02-06 05:12:16,Twitter,-0.22,Flight Delay,59
+SpiceJet,2026-01-22 12:12:16,Twitter,-0.37,Flight Delay,41
+Air India,2026-02-09 19:12:16,Tripadvisor,0.15,None (Positive),60
+Vistara,2026-01-30 01:12:16,Twitter,0.38,None (Positive),12
+Vistara,2026-01-25 01:12:16,Twitter,0.29,None (Positive),83
+SpiceJet,2026-01-21 05:12:16,Twitter,-0.46,None (Positive),14
+IndiGo,2026-01-28 04:12:16,Twitter,-1.0,In-flight Food,418
+SpiceJet,2026-02-05 08:12:16,Twitter,-0.6,None (Positive),58
+Akasa Air,2026-02-08 07:12:16,Tripadvisor,-0.18,None (Positive),20
+Vistara,2026-01-29 12:12:16,Tripadvisor,0.19,None (Positive),0
+Vistara,2026-02-12 12:12:16,Twitter,0.83,None (Positive),78
+Air India,2026-02-01 05:12:16,Twitter,-0.7,In-flight Food,372
+Akasa Air,2026-01-29 04:12:16,Tripadvisor,-0.11,None (Positive),83
+SpiceJet,2026-02-08 15:12:16,Twitter,-0.74,Staff Behavior,480
+Akasa Air,2026-01-19 08:12:16,Twitter,-0.74,Staff Behavior,108
+SpiceJet,2026-01-20 19:12:16,Google Reviews,-0.37,Refund Issue,74
+Akasa Air,2026-02-01 16:12:16,Twitter,0.41,None (Positive),4
+IndiGo,2026-01-17 21:12:16,Twitter,0.35,None (Positive),92
+SpiceJet,2026-02-06 12:12:16,Twitter,-0.08,None (Positive),47
+SpiceJet,2026-02-05 16:12:16,Twitter,-0.14,None (Positive),2
+SpiceJet,2026-01-27 18:12:16,Google Reviews,0.12,None (Positive),14
+Akasa Air,2026-01-27 15:12:16,Tripadvisor,0.52,None (Positive),6
+IndiGo,2026-01-17 23:12:16,Google Reviews,0.2,None (Positive),74
+SpiceJet,2026-01-20 07:12:16,Twitter,-0.99,Seat Comfort,357
+SpiceJet,2026-01-19 09:12:16,Twitter,-0.46,Refund Issue,1
+Air India,2026-02-07 00:12:16,Twitter,0.04,None (Positive),73
+Akasa Air,2026-01-14 04:12:16,Twitter,-0.72,Seat Comfort,790
+SpiceJet,2026-01-25 10:12:16,Tripadvisor,-0.48,Staff Behavior,67
+IndiGo,2026-01-29 07:12:16,Google Reviews,-0.23,Flight Delay,97
+Air India,2026-01-15 14:12:16,Tripadvisor,-0.86,Refund Issue,864
+SpiceJet,2026-01-23 03:12:16,Tripadvisor,-0.98,Baggage Issue,174
+Akasa Air,2026-01-22 13:12:16,Twitter,-0.65,Staff Behavior,1200
+Vistara,2026-01-24 10:12:16,Tripadvisor,-0.99,Baggage Issue,741
+IndiGo,2026-02-03 15:12:16,Twitter,-0.34,Refund Issue,97
+IndiGo,2026-01-27 06:12:16,Twitter,-0.88,Flight Delay,56
+Akasa Air,2026-02-11 23:12:16,Google Reviews,0.19,None (Positive),62
+SpiceJet,2026-02-11 15:12:16,Twitter,-0.51,Staff Behavior,58
+Akasa Air,2026-02-02 19:12:16,Twitter,0.3,None (Positive),61
+IndiGo,2026-02-09 15:12:16,Twitter,-0.18,None (Positive),34
+IndiGo,2026-01-16 16:12:16,Twitter,-0.22,Baggage Issue,0
+IndiGo,2026-01-24 05:12:16,Tripadvisor,-0.56,Refund Issue,42
+IndiGo,2026-02-03 06:12:16,Twitter,-0.14,None (Positive),68
+Air India,2026-01-28 13:12:16,Twitter,-0.57,Flight Delay,0
+Vistara,2026-01-23 09:12:16,Twitter,0.64,None (Positive),64
+IndiGo,2026-01-29 01:12:16,Twitter,-0.74,Staff Behavior,242
+SpiceJet,2026-02-02 11:12:16,Twitter,-0.65,None (Positive),969
+SpiceJet,2026-01-24 10:12:16,Google Reviews,-0.6,In-flight Food,360
+Vistara,2026-01-27 07:12:16,Twitter,0.84,None (Positive),63
+Air India,2026-01-15 01:12:16,Twitter,-0.86,Flight Delay,287
+Vistara,2026-02-10 16:12:16,Tripadvisor,-0.88,Seat Comfort,444
+IndiGo,2026-01-14 08:12:16,Google Reviews,0.57,None (Positive),64
+SpiceJet,2026-02-10 21:12:16,Google Reviews,-0.78,In-flight Food,870
+IndiGo,2026-02-11 11:12:16,Twitter,-0.58,Baggage Issue,22
+Vistara,2026-01-18 23:12:16,Tripadvisor,0.47,None (Positive),88
+Air India,2026-02-03 12:12:16,Twitter,-0.43,Refund Issue,83
+SpiceJet,2026-01-22 15:12:16,Twitter,-0.48,Staff Behavior,78
+Air India,2026-02-07 19:12:16,Twitter,-0.45,None (Positive),87
+Akasa Air,2026-01-30 07:12:16,Twitter,0.27,None (Positive),54
+IndiGo,2026-01-18 00:12:16,Google Reviews,0.23,None (Positive),32
+IndiGo,2026-01-31 19:12:16,Tripadvisor,-0.41,Flight Delay,50
+Air India,2026-02-07 01:12:16,Google Reviews,0.26,None (Positive),97
+Vistara,2026-01-19 13:12:16,Twitter,-0.85,In-flight Food,96
+IndiGo,2026-02-05 07:12:16,Google Reviews,-0.02,None (Positive),58
+SpiceJet,2026-01-23 21:12:16,Twitter,0.36,None (Positive),7
+IndiGo,2026-01-19 11:12:16,Google Reviews,-0.14,None (Positive),38
+IndiGo,2026-01-19 00:12:16,Tripadvisor,0.37,None (Positive),86
+SpiceJet,2026-01-26 13:12:16,Google Reviews,-1.0,Refund Issue,1273
+IndiGo,2026-01-29 04:12:16,Twitter,0.23,None (Positive),7
+Akasa Air,2026-01-18 04:12:16,Twitter,-0.85,Flight Delay,280
+Vistara,2026-01-15 07:12:16,Tripadvisor,-0.91,Staff Behavior,1216
+Vistara,2026-01-17 17:12:16,Twitter,-0.92,Staff Behavior,952
+IndiGo,2026-01-23 15:12:16,Twitter,-0.9,App/Web Glitch,1260
+Air India,2026-01-29 13:12:16,Twitter,-0.51,None (Positive),75
+SpiceJet,2026-02-01 08:12:16,Google Reviews,-0.54,Refund Issue,97
+Air India,2026-01-19 04:12:16,Tripadvisor,-0.31,None (Positive),16
+Vistara,2026-02-02 03:12:16,Twitter,0.83,None (Positive),45
+SpiceJet,2026-01-16 13:12:16,Twitter,-0.92,Seat Comfort,660
+IndiGo,2026-02-02 20:12:16,Tripadvisor,0.65,None (Positive),6
+Air India,2026-01-19 08:12:16,Twitter,-0.54,Baggage Issue,81
+Air India,2026-01-19 20:12:16,Google Reviews,0.03,None (Positive),54
+IndiGo,2026-02-04 15:12:16,Twitter,-0.8,App/Web Glitch,32
+Air India,2026-02-02 00:12:16,Twitter,-0.85,Flight Delay,888
+IndiGo,2026-01-29 18:12:16,Twitter,0.06,None (Positive),24
+Akasa Air,2026-01-14 11:12:16,Twitter,0.08,None (Positive),3
+SpiceJet,2026-02-09 07:12:16,Tripadvisor,-0.55,In-flight Food,80
+Akasa Air,2026-01-24 07:12:16,Twitter,0.22,None (Positive),21
+IndiGo,2026-02-08 17:12:16,Twitter,-0.57,Flight Delay,5
+Air India,2026-01-23 13:12:16,Twitter,-0.53,None (Positive),83
+Akasa Air,2026-02-05 04:12:16,Twitter,0.67,None (Positive),82
+Vistara,2026-02-03 11:12:16,Twitter,-0.71,Flight Delay,1558
+Vistara,2026-01-16 12:12:16,Google Reviews,0.12,None (Positive),70
+Air India,2026-01-29 15:12:16,Twitter,-0.86,Flight Delay,348
+IndiGo,2026-02-09 03:12:16,Twitter,0.24,None (Positive),77
+Akasa Air,2026-01-29 01:12:16,Google Reviews,-0.8,Refund Issue,117
+Air India,2026-02-10 13:12:16,Twitter,-0.57,None (Positive),79
+Akasa Air,2026-01-30 20:12:16,Google Reviews,-0.04,None (Positive),16
+Akasa Air,2026-01-31 05:12:16,Tripadvisor,0.43,None (Positive),85
+Akasa Air,2026-02-08 07:12:16,Twitter,-0.22,None (Positive),50
+Air India,2026-01-15 06:12:16,Twitter,-0.7,In-flight Food,1296
+Akasa Air,2026-02-11 02:12:16,Tripadvisor,-0.02,None (Positive),99
+Air India,2026-01-29 19:12:16,Google Reviews,-0.53,Seat Comfort,29
+Air India,2026-01-17 20:12:16,Tripadvisor,-0.6,Flight Delay,1344
+SpiceJet,2026-01-19 03:12:16,Twitter,-0.57,Flight Delay,10
+Akasa Air,2026-01-21 14:12:16,Twitter,-0.95,Baggage Issue,658
+SpiceJet,2026-01-24 10:12:16,Tripadvisor,-0.2,None (Positive),69
+Akasa Air,2026-01-23 07:12:16,Twitter,-0.38,Flight Delay,69
+IndiGo,2026-02-08 17:12:16,Tripadvisor,0.34,None (Positive),89
+Air India,2026-02-05 16:12:16,Google Reviews,-0.63,None (Positive),24
+SpiceJet,2026-01-28 01:12:16,Twitter,-0.71,Staff Behavior,1139
+Vistara,2026-02-10 00:12:16,Twitter,-0.67,Staff Behavior,224
+Vistara,2026-01-24 17:12:16,Tripadvisor,0.87,None (Positive),22
+SpiceJet,2026-01-21 10:12:16,Twitter,0.32,None (Positive),85
+Akasa Air,2026-01-24 17:12:16,Twitter,-0.02,None (Positive),8
+Vistara,2026-01-30 19:12:16,Twitter,0.75,None (Positive),95
+SpiceJet,2026-01-22 12:12:16,Twitter,-0.41,Staff Behavior,66
+Akasa Air,2026-01-30 10:12:16,Twitter,-0.1,None (Positive),12
+Akasa Air,2026-01-25 17:12:16,Tripadvisor,-0.27,In-flight Food,19
+Air India,2026-01-16 10:12:16,Twitter,-0.99,Flight Delay,900
+SpiceJet,2026-01-30 09:12:16,Twitter,-0.38,Flight Delay,79
+Vistara,2026-02-04 15:12:16,Twitter,-0.52,Refund Issue,75
+SpiceJet,2026-02-01 14:12:16,Twitter,-0.52,Flight Delay,21
+IndiGo,2026-01-21 18:12:16,Twitter,-0.08,None (Positive),37
+Vistara,2026-01-15 14:12:16,Twitter,0.51,None (Positive),29
+SpiceJet,2026-02-04 12:12:16,Twitter,-0.05,None (Positive),61
+SpiceJet,2026-02-06 06:12:16,Twitter,-0.52,Flight Delay,44
+IndiGo,2026-01-16 19:12:16,Twitter,0.25,None (Positive),73
+Akasa Air,2026-01-26 00:12:16,Twitter,0.19,None (Positive),50
+SpiceJet,2026-01-16 13:12:16,Twitter,-0.92,Refund Issue,182
+SpiceJet,2026-01-14 02:12:16,Tripadvisor,-0.53,None (Positive),27
+Akasa Air,2026-02-09 23:12:16,Twitter,0.31,None (Positive),88
+Air India,2026-02-07 13:12:16,Twitter,0.3,None (Positive),16
+Air India,2026-02-03 15:12:16,Twitter,-0.72,None (Positive),429
+Akasa Air,2026-01-30 20:12:16,Twitter,-0.34,Refund Issue,27
+Air India,2026-01-14 05:12:16,Tripadvisor,0.24,None (Positive),56
+IndiGo,2026-02-03 16:12:16,Twitter,-0.16,None (Positive),55
+Akasa Air,2026-01-20 16:12:16,Twitter,-0.05,None (Positive),0
+IndiGo,2026-02-03 02:12:16,Tripadvisor,-0.99,In-flight Food,988
+Vistara,2026-01-23 01:12:16,Twitter,0.61,None (Positive),84
+IndiGo,2026-01-31 04:12:16,Twitter,-0.2,None (Positive),54
+Akasa Air,2026-02-01 20:12:16,Twitter,-0.22,In-flight Food,99
+SpiceJet,2026-02-09 20:12:16,Twitter,-0.6,Flight Delay,52
+Vistara,2026-02-11 11:12:16,Tripadvisor,0.55,None (Positive),57
+Air India,2026-01-26 23:12:16,Twitter,-0.57,Staff Behavior,78
+IndiGo,2026-01-16 00:12:16,Twitter,-0.37,Flight Delay,57
+SpiceJet,2026-02-11 14:12:16,Twitter,-0.76,None (Positive),160
+Vistara,2026-02-01 04:12:16,Tripadvisor,0.59,None (Positive),87
+Vistara,2026-01-30 14:12:16,Tripadvisor,-0.67,Baggage Issue,1458
+IndiGo,2026-02-08 19:12:16,Google Reviews,0.17,None (Positive),71
+SpiceJet,2026-01-28 08:12:16,Twitter,-0.43,Flight Delay,80
+Akasa Air,2026-01-27 04:12:16,Twitter,-0.32,Staff Behavior,94
+Air India,2026-02-09 11:12:16,Twitter,-0.68,None (Positive),592
+Akasa Air,2026-02-08 23:12:16,Google Reviews,-0.28,None (Positive),1
+SpiceJet,2026-01-30 14:12:16,Twitter,-0.69,In-flight Food,150
+Vistara,2026-01-31 20:12:16,Twitter,0.33,None (Positive),81
+SpiceJet,2026-02-09 00:12:16,Google Reviews,-0.08,None (Positive),78
+SpiceJet,2026-02-05 20:12:16,Google Reviews,0.38,None (Positive),86
+IndiGo,2026-02-10 09:12:16,Twitter,0.5,None (Positive),87
+Air India,2026-01-24 15:12:16,Google Reviews,-0.73,Refund Issue,767
+Vistara,2026-01-31 02:12:16,Twitter,0.47,None (Positive),87
+SpiceJet,2026-01-21 15:12:16,Twitter,-0.63,None (Positive),220
+Akasa Air,2026-01-23 16:12:16,Twitter,-0.35,In-flight Food,2
+SpiceJet,2026-02-05 03:12:16,Twitter,-0.25,None (Positive),22
+IndiGo,2026-01-15 14:12:16,Tripadvisor,-0.27,Flight Delay,85
+IndiGo,2026-01-16 06:12:16,Google Reviews,-0.73,Staff Behavior,30
+IndiGo,2026-02-04 05:12:16,Google Reviews,-0.12,None (Positive),53
+Vistara,2026-01-28 19:12:16,Twitter,0.23,None (Positive),41
+Air India,2026-02-08 00:12:16,Tripadvisor,-0.82,In-flight Food,988
+Air India,2026-02-05 00:12:16,Twitter,0.2,None (Positive),64
+Vistara,2026-01-14 10:12:16,Twitter,0.71,None (Positive),96
+Vistara,2026-02-06 13:12:16,Twitter,0.45,None (Positive),85
+Akasa Air,2026-02-08 07:12:16,Twitter,0.6,None (Positive),30
+Air India,2026-01-18 18:12:16,Tripadvisor,0.38,None (Positive),98
+Air India,2026-01-31 20:12:16,Twitter,-0.76,Staff Behavior,840
+Air India,2026-01-28 07:12:16,Twitter,-0.6,Seat Comfort,54
+Akasa Air,2026-01-18 18:12:16,Tripadvisor,-0.56,Refund Issue,76
+IndiGo,2026-02-05 21:12:16,Tripadvisor,-0.29,Refund Issue,56
+Akasa Air,2026-01-28 07:12:16,Google Reviews,-0.38,Flight Delay,48
+IndiGo,2026-01-24 23:12:16,Google Reviews,0.4,None (Positive),5
+Vistara,2026-01-19 13:12:16,Google Reviews,0.36,None (Positive),41
+IndiGo,2026-01-27 16:12:16,Twitter,-0.05,None (Positive),51
+SpiceJet,2026-02-06 03:12:16,Twitter,-0.9,Refund Issue,576
+Akasa Air,2026-01-31 14:12:16,Google Reviews,-0.43,In-flight Food,98
+IndiGo,2026-02-06 15:12:16,Twitter,0.46,None (Positive),61
+SpiceJet,2026-02-04 09:12:16,Twitter,-0.2,Staff Behavior,50
+Akasa Air,2026-01-20 00:12:16,Twitter,-0.9,Staff Behavior,210
+IndiGo,2026-01-25 21:12:16,Twitter,-0.64,Refund Issue,60
+Vistara,2026-01-29 12:12:16,Google Reviews,-0.32,Flight Delay,20
+SpiceJet,2026-01-18 23:12:16,Twitter,-0.18,None (Positive),15
+Vistara,2026-01-23 14:12:16,Tripadvisor,0.22,None (Positive),25
+Vistara,2026-01-16 20:12:16,Twitter,0.83,None (Positive),13
+IndiGo,2026-01-19 08:12:16,Google Reviews,-0.65,Refund Issue,207
+IndiGo,2026-01-30 13:12:16,Twitter,0.33,None (Positive),22
+IndiGo,2026-02-07 02:12:16,Twitter,-0.22,None (Positive),67
+SpiceJet,2026-02-08 15:12:16,Twitter,-0.58,None (Positive),90
+Vistara,2026-02-02 17:12:16,Google Reviews,0.61,None (Positive),37
+Vistara,2026-01-31 18:12:16,Twitter,0.52,None (Positive),92
+Air India,2026-01-27 10:12:16,Tripadvisor,-0.86,Flight Delay,874
+IndiGo,2026-01-24 19:12:16,Twitter,-0.01,None (Positive),95
+IndiGo,2026-01-20 16:12:16,Twitter,-0.15,None (Positive),31
+IndiGo,2026-02-04 14:12:16,Tripadvisor,-0.14,None (Positive),48
+Vistara,2026-01-25 15:12:16,Twitter,0.14,None (Positive),95
+SpiceJet,2026-02-09 00:12:16,Google Reviews,0.32,None (Positive),1
+SpiceJet,2026-01-23 17:12:16,Twitter,-0.26,None (Positive),61
+SpiceJet,2026-02-03 05:12:16,Twitter,-0.39,None (Positive),38
+Akasa Air,2026-02-05 10:12:16,Tripadvisor,-0.76,Refund Issue,306
+Vistara,2026-02-10 13:12:16,Twitter,-0.41,Staff Behavior,35
+Air India,2026-02-02 04:12:16,Twitter,-0.44,Flight Delay,90
+Akasa Air,2026-01-22 18:12:16,Twitter,-0.86,App/Web Glitch,352
+Akasa Air,2026-02-02 01:12:16,Twitter,0.68,None (Positive),57
+Akasa Air,2026-02-04 02:12:16,Twitter,0.03,None (Positive),95
+Air India,2026-01-25 16:12:16,Tripadvisor,-0.64,Flight Delay,792
+Air India,2026-01-19 05:12:16,Twitter,-0.12,None (Positive),54
+Akasa Air,2026-01-29 15:12:16,Twitter,-0.49,Refund Issue,65
+Akasa Air,2026-01-29 09:12:16,Tripadvisor,0.36,None (Positive),51
+IndiGo,2026-01-18 08:12:16,Twitter,0.27,None (Positive),54
+SpiceJet,2026-02-07 04:12:16,Twitter,-0.11,None (Positive),95
+Vistara,2026-01-25 15:12:16,Twitter,-0.24,Baggage Issue,99
+SpiceJet,2026-01-31 15:12:16,Twitter,0.1,None (Positive),99
+Air India,2026-01-18 09:12:16,Google Reviews,0.14,None (Positive),34
+Vistara,2026-01-26 09:12:16,Tripadvisor,0.22,None (Positive),47
+Air India,2026-01-27 18:12:16,Google Reviews,-0.7,Flight Delay,616
+Vistara,2026-01-26 17:12:16,Tripadvisor,-0.87,Flight Delay,319
+Vistara,2026-02-02 15:12:16,Tripadvisor,0.66,None (Positive),66
+IndiGo,2026-01-18 15:12:16,Google Reviews,0.37,None (Positive),88
+SpiceJet,2026-01-29 00:12:16,Twitter,-0.69,Baggage Issue,828
+IndiGo,2026-01-21 06:12:16,Twitter,-0.04,None (Positive),96
+SpiceJet,2026-01-17 18:12:16,Twitter,-0.42,None (Positive),9
+Air India,2026-02-03 09:12:16,Twitter,-0.25,Flight Delay,65
+Akasa Air,2026-01-19 15:12:16,Twitter,-0.79,In-flight Food,870
+Akasa Air,2026-02-02 06:12:16,Twitter,0.29,None (Positive),91
+SpiceJet,2026-01-19 18:12:16,Tripadvisor,-0.78,None (Positive),680
+Air India,2026-01-22 21:12:16,Twitter,-0.66,None (Positive),247
+IndiGo,2026-02-02 18:12:16,Twitter,-0.21,None (Positive),78
+Air India,2026-02-08 00:12:16,Twitter,-0.39,Flight Delay,21
+SpiceJet,2026-01-31 03:12:16,Twitter,-0.11,None (Positive),26
+Air India,2026-01-24 04:12:16,Twitter,-0.71,Refund Issue,132
+Vistara,2026-01-14 11:12:16,Twitter,0.62,None (Positive),33
+SpiceJet,2026-02-05 14:12:16,Google Reviews,-0.97,Refund Issue,840
+SpiceJet,2026-01-16 14:12:16,Google Reviews,-0.78,None (Positive),276
+IndiGo,2026-01-16 18:12:16,Tripadvisor,-0.53,Flight Delay,16
+IndiGo,2026-02-02 07:12:16,Twitter,-0.58,Baggage Issue,98
+SpiceJet,2026-01-26 14:12:16,Tripadvisor,-0.53,None (Positive),11
+IndiGo,2026-02-09 13:12:16,Twitter,-0.29,None (Positive),7
+Air India,2026-02-12 01:12:16,Twitter,-0.14,None (Positive),42
+Vistara,2026-01-24 00:12:16,Tripadvisor,-0.22,Baggage Issue,47
+SpiceJet,2026-02-06 04:12:16,Twitter,-0.31,Staff Behavior,96
+SpiceJet,2026-02-04 08:12:16,Twitter,-0.33,Staff Behavior,52
+Vistara,2026-02-12 01:12:16,Google Reviews,0.47,None (Positive),84
+Akasa Air,2026-02-07 13:12:16,Google Reviews,0.56,None (Positive),35
+IndiGo,2026-01-21 04:12:16,Tripadvisor,-0.63,In-flight Food,948
+Akasa Air,2026-01-25 05:12:16,Twitter,0.3,None (Positive),19
+Air India,2026-02-09 15:12:16,Twitter,-0.7,Flight Delay,1312
+Air India,2026-01-16 09:12:16,Twitter,-0.8,None (Positive),252
+SpiceJet,2026-02-11 07:12:16,Tripadvisor,-0.72,None (Positive),1232
+Vistara,2026-01-31 09:12:16,Twitter,0.21,None (Positive),83
+IndiGo,2026-01-24 14:12:16,Twitter,-0.16,None (Positive),29
+Air India,2026-01-31 17:12:16,Twitter,0.23,None (Positive),80
+Vistara,2026-01-22 23:12:16,Tripadvisor,0.44,None (Positive),60
+Air India,2026-01-27 11:12:16,Tripadvisor,-0.8,Baggage Issue,30
+IndiGo,2026-02-07 14:12:16,Twitter,0.31,None (Positive),16
+Akasa Air,2026-01-28 01:12:16,Google Reviews,0.07,None (Positive),67
+Vistara,2026-01-19 00:12:16,Twitter,-0.99,In-flight Food,57
+SpiceJet,2026-01-17 23:12:16,Twitter,-0.5,Baggage Issue,57
+Akasa Air,2026-02-04 13:12:16,Tripadvisor,0.2,None (Positive),2
+IndiGo,2026-02-08 04:12:16,Twitter,-0.83,Refund Issue,890
+SpiceJet,2026-01-24 16:12:16,Google Reviews,-0.84,Staff Behavior,260
+IndiGo,2026-01-21 01:12:16,Twitter,0.5,None (Positive),27
+IndiGo,2026-01-14 14:12:16,Twitter,-0.67,Staff Behavior,1504
+SpiceJet,2026-01-19 07:12:16,Twitter,-0.61,Flight Delay,665
+SpiceJet,2026-02-01 12:12:16,Twitter,-0.63,None (Positive),532
+Air India,2026-01-24 06:12:16,Tripadvisor,0.35,None (Positive),80
+SpiceJet,2026-01-28 06:12:16,Tripadvisor,-0.09,None (Positive),76
+Air India,2026-01-30 05:12:16,Tripadvisor,-0.85,Baggage Issue,420
+SpiceJet,2026-01-14 05:12:16,Google Reviews,-0.73,Refund Issue,390
+SpiceJet,2026-01-30 13:12:16,Twitter,-0.86,Refund Issue,546
+Akasa Air,2026-02-03 13:12:16,Twitter,-0.47,In-flight Food,21
+Vistara,2026-01-21 15:12:16,Twitter,0.11,None (Positive),62
+Air India,2026-02-08 11:12:16,Twitter,-0.56,Flight Delay,5
+Akasa Air,2026-01-26 00:12:16,Tripadvisor,-0.2,None (Positive),43
+Vistara,2026-01-20 03:12:16,Twitter,0.21,None (Positive),56
+Akasa Air,2026-01-30 02:12:16,Twitter,-0.88,In-flight Food,710
+SpiceJet,2026-01-14 05:12:16,Google Reviews,-0.55,Baggage Issue,12
+Akasa Air,2026-01-22 02:12:16,Google Reviews,0.21,None (Positive),74
+Akasa Air,2026-01-30 10:12:16,Twitter,0.49,None (Positive),93
+Vistara,2026-02-10 14:12:16,Tripadvisor,0.61,None (Positive),10
+IndiGo,2026-01-31 18:12:16,Twitter,0.7,None (Positive),49
+IndiGo,2026-01-25 17:12:16,Twitter,0.46,None (Positive),61
+IndiGo,2026-02-04 13:12:16,Twitter,-0.53,In-flight Food,42
+IndiGo,2026-02-05 20:12:16,Twitter,-0.37,Baggage Issue,87
+Air India,2026-01-28 15:12:16,Twitter,0.07,None (Positive),77
+Air India,2026-01-23 21:12:16,Twitter,-0.5,Seat Comfort,51
+IndiGo,2026-02-12 01:12:16,Tripadvisor,-0.25,None (Positive),8
+Vistara,2026-02-06 20:12:16,Twitter,0.83,None (Positive),35
+IndiGo,2026-02-05 23:12:16,Tripadvisor,-0.64,App/Web Glitch,741
+SpiceJet,2026-01-21 23:12:16,Twitter,-0.34,None (Positive),17
+Akasa Air,2026-01-19 18:12:16,Twitter,0.44,None (Positive),71
+Air India,2026-01-14 04:12:16,Tripadvisor,-0.74,Staff Behavior,108
+IndiGo,2026-02-08 15:12:16,Twitter,-0.64,Flight Delay,145
+IndiGo,2026-01-29 04:12:16,Twitter,0.69,None (Positive),69
+Air India,2026-01-15 17:12:16,Tripadvisor,-0.26,None (Positive),55
+Vistara,2026-01-22 19:12:16,Google Reviews,0.66,None (Positive),34
+Vistara,2026-01-30 15:12:16,Twitter,0.72,None (Positive),89
+IndiGo,2026-01-20 12:12:16,Twitter,0.18,None (Positive),21
+Vistara,2026-01-30 12:12:16,Google Reviews,-0.85,In-flight Food,60
+SpiceJet,2026-02-08 03:12:16,Google Reviews,0.24,None (Positive),2
+SpiceJet,2026-01-18 11:12:16,Twitter,-0.61,Refund Issue,36
+Vistara,2026-01-25 07:12:16,Google Reviews,0.62,None (Positive),1
+Akasa Air,2026-01-28 21:12:16,Google Reviews,-0.96,Flight Delay,156
+Air India,2026-01-24 07:12:16,Google Reviews,-0.69,None (Positive),972
+IndiGo,2026-02-11 20:12:16,Twitter,-0.26,None (Positive),34
+SpiceJet,2026-01-24 03:12:16,Twitter,-0.42,Baggage Issue,17
+SpiceJet,2026-01-18 16:12:16,Twitter,-1.0,Refund Issue,378
+Vistara,2026-02-03 19:12:16,Google Reviews,0.31,None (Positive),15
+Vistara,2026-01-15 18:12:16,Twitter,0.81,None (Positive),5
+SpiceJet,2026-02-02 03:12:16,Twitter,-0.28,None (Positive),54
+Air India,2026-01-17 18:12:16,Google Reviews,-0.21,None (Positive),93
+Air India,2026-02-01 01:12:16,Tripadvisor,-0.47,Baggage Issue,24
+Air India,2026-02-12 20:12:16,Google Reviews,0.03,None (Positive),38
+Vistara,2026-02-10 21:12:16,Tripadvisor,0.23,None (Positive),37
+Air India,2026-01-31 10:12:16,Twitter,-0.87,Flight Delay,232
+Air India,2026-01-19 16:12:16,Twitter,-0.99,Flight Delay,135
+Akasa Air,2026-01-23 21:12:16,Twitter,0.01,None (Positive),9
+Air India,2026-01-16 02:12:16,Twitter,-0.48,Baggage Issue,43
+IndiGo,2026-01-23 01:12:16,Twitter,0.04,None (Positive),5
+Akasa Air,2026-01-18 11:12:16,Twitter,-0.73,In-flight Food,405
+SpiceJet,2026-02-01 19:12:16,Twitter,-0.58,Refund Issue,32
+Vistara,2026-02-08 05:12:16,Twitter,0.25,None (Positive),17
+Air India,2026-01-30 08:12:16,Tripadvisor,-0.71,None (Positive),1008
+SpiceJet,2026-02-07 02:12:16,Tripadvisor,0.05,None (Positive),94
+Akasa Air,2026-02-08 16:12:16,Tripadvisor,-0.04,None (Positive),79
+IndiGo,2026-01-26 01:12:16,Twitter,0.2,None (Positive),13
+Vistara,2026-02-11 14:12:16,Tripadvisor,0.83,None (Positive),68
+Akasa Air,2026-01-30 15:12:16,Tripadvisor,-0.64,Flight Delay,741
+IndiGo,2026-01-28 19:12:16,Twitter,-1.0,Baggage Issue,510
+Akasa Air,2026-01-30 01:12:16,Twitter,0.16,None (Positive),18
+SpiceJet,2026-02-09 05:12:16,Twitter,0.06,None (Positive),30
+Akasa Air,2026-01-17 04:12:16,Twitter,0.24,None (Positive),14
+SpiceJet,2026-01-20 18:12:16,Twitter,-0.73,None (Positive),810
+Akasa Air,2026-01-30 19:12:16,Twitter,-0.81,App/Web Glitch,825
+Vistara,2026-02-07 03:12:16,Twitter,0.39,None (Positive),18
+Akasa Air,2026-02-07 11:12:16,Tripadvisor,-0.37,Baggage Issue,19
+SpiceJet,2026-02-07 14:12:16,Tripadvisor,0.05,None (Positive),57
+SpiceJet,2026-02-03 08:12:16,Twitter,0.14,None (Positive),79
+Air India,2026-01-16 09:12:16,Twitter,-0.65,Seat Comfort,568
+SpiceJet,2026-01-29 17:12:16,Twitter,0.36,None (Positive),16
+Akasa Air,2026-01-30 18:12:16,Twitter,0.46,None (Positive),23
+Air India,2026-02-02 01:12:16,Twitter,-0.52,Flight Delay,91
+Akasa Air,2026-01-28 09:12:16,Twitter,0.39,None (Positive),4
+IndiGo,2026-01-26 21:12:16,Twitter,0.33,None (Positive),14
+SpiceJet,2026-01-31 12:12:16,Tripadvisor,-0.74,Flight Delay,690
+Air India,2026-02-04 19:12:16,Tripadvisor,-0.46,Flight Delay,94
+IndiGo,2026-02-05 04:12:16,Google Reviews,-0.54,App/Web Glitch,89
+Akasa Air,2026-01-26 08:12:16,Google Reviews,-0.91,Seat Comfort,221
+IndiGo,2026-02-09 21:12:16,Tripadvisor,-0.84,App/Web Glitch,286
+IndiGo,2026-01-28 15:12:16,Twitter,-0.22,App/Web Glitch,98
+IndiGo,2026-01-22 03:12:16,Tripadvisor,-0.59,Flight Delay,91
+SpiceJet,2026-01-27 04:12:16,Twitter,-0.54,Refund Issue,83
+IndiGo,2026-01-28 08:12:16,Tripadvisor,-0.37,Refund Issue,32
+Vistara,2026-01-30 01:12:16,Twitter,0.81,None (Positive),36
+SpiceJet,2026-01-24 01:12:16,Twitter,-0.76,None (Positive),255
+Air India,2026-01-20 01:12:16,Twitter,-0.3,Flight Delay,33
+Akasa Air,2026-01-20 18:12:16,Twitter,-0.74,Refund Issue,504
+Air India,2026-02-05 13:12:16,Twitter,-0.76,Flight Delay,265
+Air India,2026-02-12 09:12:16,Twitter,-0.6,Flight Delay,17
+Akasa Air,2026-02-01 18:12:16,Twitter,-0.24,Seat Comfort,58
+IndiGo,2026-01-29 13:12:16,Tripadvisor,-0.39,Flight Delay,77
+IndiGo,2026-01-16 03:12:16,Google Reviews,-0.76,Staff Behavior,28
+Vistara,2026-01-30 17:12:16,Google Reviews,0.64,None (Positive),28
+Vistara,2026-01-24 12:12:16,Tripadvisor,0.21,None (Positive),45
+Akasa Air,2026-02-07 00:12:16,Twitter,-0.28,Refund Issue,8
+Akasa Air,2026-02-12 13:12:16,Tripadvisor,-0.28,Baggage Issue,57
+IndiGo,2026-02-05 19:12:16,Twitter,-0.62,App/Web Glitch,36
+SpiceJet,2026-01-26 21:12:16,Twitter,-0.25,Staff Behavior,86
+Vistara,2026-01-22 04:12:16,Tripadvisor,0.27,None (Positive),46
+IndiGo,2026-01-15 09:12:16,Twitter,0.01,None (Positive),53
+SpiceJet,2026-02-09 16:12:16,Tripadvisor,-0.45,Baggage Issue,14
+SpiceJet,2026-01-17 09:12:16,Tripadvisor,-0.66,Baggage Issue,1200
+Air India,2026-01-14 16:12:16,Google Reviews,-0.45,Refund Issue,49
+Akasa Air,2026-02-12 06:12:16,Google Reviews,0.28,None (Positive),45
+Akasa Air,2026-02-03 21:12:16,Twitter,0.54,None (Positive),2
+Vistara,2026-01-20 04:12:16,Tripadvisor,0.68,None (Positive),55
+SpiceJet,2026-01-21 01:12:16,Twitter,-0.65,Refund Issue,192
+SpiceJet,2026-01-19 21:12:16,Twitter,-0.26,None (Positive),86
+Vistara,2026-02-12 01:12:16,Tripadvisor,0.65,None (Positive),1
+Vistara,2026-01-18 17:12:16,Twitter,0.26,None (Positive),9
+Akasa Air,2026-01-25 17:12:16,Twitter,0.08,None (Positive),24
+Air India,2026-01-28 04:12:16,Twitter,0.12,None (Positive),9
+SpiceJet,2026-01-17 17:12:16,Twitter,0.15,None (Positive),51
+Akasa Air,2026-02-11 11:12:16,Google Reviews,0.3,None (Positive),27
+Vistara,2026-01-20 17:12:16,Twitter,0.84,None (Positive),98
+SpiceJet,2026-01-27 23:12:16,Twitter,-0.96,Flight Delay,416
+Air India,2026-02-09 07:12:16,Twitter,-0.73,Staff Behavior,836
+IndiGo,2026-01-14 19:12:16,Twitter,-0.52,Refund Issue,33
+SpiceJet,2026-01-29 19:12:16,Twitter,-0.88,Staff Behavior,418
+Akasa Air,2026-02-05 07:12:16,Twitter,0.29,None (Positive),53
+Akasa Air,2026-01-25 02:12:16,Tripadvisor,-0.95,Flight Delay,476
+Air India,2026-02-08 14:12:16,Google Reviews,-0.89,Flight Delay,1440
+IndiGo,2026-02-06 15:12:16,Twitter,0.48,None (Positive),75
+Akasa Air,2026-02-11 17:12:16,Twitter,-0.39,Staff Behavior,94
+IndiGo,2026-01-17 02:12:16,Twitter,-0.45,Refund Issue,18
+Akasa Air,2026-01-31 03:12:16,Twitter,0.59,None (Positive),46
+Akasa Air,2026-02-01 23:12:16,Google Reviews,0.05,None (Positive),17
+Akasa Air,2026-02-03 18:12:16,Google Reviews,0.41,None (Positive),59
+Air India,2026-02-12 20:12:16,Twitter,-0.8,In-flight Food,1248
+IndiGo,2026-02-03 14:12:16,Google Reviews,0.43,None (Positive),11
+IndiGo,2026-01-25 13:12:16,Twitter,0.33,None (Positive),22
+Akasa Air,2026-02-10 07:12:16,Google Reviews,-0.19,None (Positive),55
+IndiGo,2026-01-25 04:12:16,Twitter,-0.18,None (Positive),77
+Akasa Air,2026-01-15 18:12:16,Google Reviews,-0.58,Flight Delay,0
+SpiceJet,2026-02-03 18:12:16,Twitter,-0.93,Staff Behavior,1089
+Akasa Air,2026-02-02 05:12:16,Google Reviews,-0.31,Refund Issue,49
+Akasa Air,2026-01-20 01:12:16,Tripadvisor,0.31,None (Positive),90
+Vistara,2026-01-28 09:12:16,Tripadvisor,0.12,None (Positive),80
+IndiGo,2026-01-14 20:12:16,Twitter,0.01,None (Positive),7
+Vistara,2026-01-19 10:12:16,Twitter,0.89,None (Positive),11
+SpiceJet,2026-01-27 14:12:16,Twitter,-0.36,None (Positive),56
+IndiGo,2026-01-16 11:12:16,Tripadvisor,0.36,None (Positive),69
+SpiceJet,2026-02-11 13:12:16,Tripadvisor,-0.39,Refund Issue,43
+IndiGo,2026-02-10 23:12:16,Twitter,-0.07,None (Positive),57
+Akasa Air,2026-02-03 11:12:16,Twitter,-0.98,Staff Behavior,748
+SpiceJet,2026-01-19 16:12:16,Twitter,-0.67,None (Positive),228
+IndiGo,2026-02-08 21:12:16,Google Reviews,0.56,None (Positive),37
+IndiGo,2026-02-10 07:12:16,Google Reviews,0.14,None (Positive),24
+Air India,2026-02-02 10:12:16,Google Reviews,-0.39,Refund Issue,40
+Akasa Air,2026-01-18 01:12:16,Google Reviews,0.15,None (Positive),55
+SpiceJet,2026-01-28 08:12:16,Google Reviews,-0.39,None (Positive),38
+IndiGo,2026-01-28 14:12:16,Twitter,0.35,None (Positive),18
+Vistara,2026-02-02 13:12:16,Tripadvisor,0.61,None (Positive),97
+IndiGo,2026-01-25 17:12:16,Google Reviews,0.0,None (Positive),5
+Akasa Air,2026-02-07 17:12:16,Twitter,-0.48,Refund Issue,24
+Air India,2026-01-22 12:12:16,Twitter,-0.95,Flight Delay,1001
+SpiceJet,2026-02-05 18:12:16,Twitter,-0.51,Refund Issue,35
+Vistara,2026-01-22 07:12:16,Twitter,0.24,None (Positive),79
+Akasa Air,2026-01-25 20:12:16,Google Reviews,-0.03,None (Positive),21
+SpiceJet,2026-01-20 02:12:16,Google Reviews,-0.21,In-flight Food,68
+SpiceJet,2026-02-07 18:12:16,Google Reviews,-0.63,Staff Behavior,816
+IndiGo,2026-02-10 15:12:16,Twitter,-0.03,None (Positive),7
+Air India,2026-02-02 21:12:16,Google Reviews,-0.48,Staff Behavior,64
+Akasa Air,2026-02-03 05:12:16,Twitter,-0.99,Refund Issue,552
+SpiceJet,2026-01-25 04:12:16,Twitter,0.02,None (Positive),63
+SpiceJet,2026-01-19 03:12:16,Twitter,-0.28,Flight Delay,34
+Air India,2026-01-25 02:12:16,Twitter,-0.79,Refund Issue,360
+IndiGo,2026-01-17 19:12:16,Twitter,0.62,None (Positive),35
+IndiGo,2026-02-10 23:12:16,Twitter,-0.35,Staff Behavior,25
+Akasa Air,2026-01-15 12:12:16,Twitter,0.42,None (Positive),36
+SpiceJet,2026-02-04 00:12:16,Twitter,-0.73,Baggage Issue,1326
+Air India,2026-01-16 19:12:16,Google Reviews,-0.28,App/Web Glitch,36
+Akasa Air,2026-01-24 15:12:16,Tripadvisor,-0.8,Refund Issue,385
+Air India,2026-01-19 00:12:16,Twitter,-0.92,Seat Comfort,165
+Air India,2026-01-22 16:12:16,Twitter,0.12,None (Positive),84
+IndiGo,2026-01-24 10:12:16,Google Reviews,0.59,None (Positive),65
+Akasa Air,2026-01-22 07:12:16,Twitter,-0.99,Flight Delay,154
+Air India,2026-02-05 09:12:16,Twitter,-0.14,None (Positive),15
+IndiGo,2026-01-21 13:12:16,Tripadvisor,0.37,None (Positive),52
+Vistara,2026-01-26 01:12:16,Tripadvisor,0.35,None (Positive),75
+Air India,2026-02-03 15:12:16,Twitter,-0.87,Refund Issue,108
+Air India,2026-02-06 14:12:16,Google Reviews,-0.41,Flight Delay,44
+Vistara,2026-02-09 06:12:16,Twitter,-0.55,Flight Delay,59
+SpiceJet,2026-02-11 14:12:16,Twitter,-0.59,Baggage Issue,46
+Vistara,2026-01-20 12:12:16,Google Reviews,0.85,None (Positive),21
+SpiceJet,2026-01-20 06:12:16,Twitter,-0.26,Baggage Issue,35
+Air India,2026-02-01 15:12:16,Twitter,0.06,None (Positive),31
+Akasa Air,2026-02-10 17:12:16,Twitter,-0.26,None (Positive),29
+Vistara,2026-01-30 06:12:16,Twitter,0.69,None (Positive),7
+Air India,2026-01-21 11:12:16,Twitter,-0.66,Baggage Issue,722
+Air India,2026-01-19 03:12:16,Tripadvisor,-0.46,Staff Behavior,42
+Vistara,2026-02-02 07:12:16,Twitter,0.5,None (Positive),3
+Akasa Air,2026-01-24 21:12:16,Twitter,-1.0,Flight Delay,9
+Vistara,2026-02-12 19:12:16,Google Reviews,0.82,None (Positive),57
+IndiGo,2026-01-14 02:12:16,Tripadvisor,0.53,None (Positive),40
+Air India,2026-01-18 01:12:16,Twitter,-0.76,Staff Behavior,990
+Akasa Air,2026-01-29 08:12:16,Twitter,-0.23,Flight Delay,48
+Air India,2026-01-23 01:12:16,Twitter,-0.69,In-flight Food,915
+Air India,2026-01-16 07:12:16,Twitter,-0.82,Staff Behavior,442
+IndiGo,2026-01-27 23:12:16,Twitter,-0.92,In-flight Food,80
+SpiceJet,2026-01-29 00:12:16,Twitter,-0.65,Flight Delay,51
+Akasa Air,2026-01-27 17:12:16,Twitter,-0.25,None (Positive),1
+IndiGo,2026-01-18 09:12:16,Google Reviews,0.19,None (Positive),41
+Air India,2026-01-26 18:12:16,Twitter,-0.61,Staff Behavior,192
+IndiGo,2026-02-05 09:12:16,Tripadvisor,-0.03,None (Positive),80
+SpiceJet,2026-02-04 08:12:16,Twitter,-0.12,None (Positive),64
+IndiGo,2026-01-25 15:12:16,Twitter,-0.33,App/Web Glitch,48
+SpiceJet,2026-01-25 01:12:16,Twitter,-0.47,None (Positive),57
+Akasa Air,2026-02-04 18:12:16,Google Reviews,0.47,None (Positive),14
+SpiceJet,2026-01-25 21:12:16,Twitter,-0.81,Flight Delay,996
+IndiGo,2026-02-07 05:12:16,Twitter,-0.32,Staff Behavior,90
+Akasa Air,2026-01-14 18:12:16,Twitter,0.46,None (Positive),15
+IndiGo,2026-01-25 10:12:16,Tripadvisor,-0.41,Flight Delay,55
+SpiceJet,2026-01-29 16:12:16,Twitter,-0.52,None (Positive),7
+IndiGo,2026-02-10 21:12:16,Google Reviews,0.59,None (Positive),44
+Vistara,2026-02-12 07:12:16,Tripadvisor,0.43,None (Positive),6
+SpiceJet,2026-01-23 00:12:16,Twitter,-0.49,None (Positive),49
+IndiGo,2026-02-04 10:12:16,Twitter,-0.96,Baggage Issue,693
+IndiGo,2026-01-26 00:12:16,Google Reviews,-0.75,Flight Delay,12
+Vistara,2026-01-24 02:12:16,Twitter,0.89,None (Positive),1
+Akasa Air,2026-01-21 03:12:16,Google Reviews,0.17,None (Positive),53
+Vistara,2026-01-29 23:12:16,Google Reviews,0.41,None (Positive),87
+Vistara,2026-01-30 07:12:16,Tripadvisor,0.61,None (Positive),66
+IndiGo,2026-01-17 01:12:16,Twitter,-0.64,Staff Behavior,318
+Vistara,2026-02-04 03:12:16,Twitter,0.31,None (Positive),9
+Akasa Air,2026-02-05 11:12:16,Google Reviews,-0.68,Staff Behavior,228
+SpiceJet,2026-01-22 23:12:16,Twitter,-0.94,Flight Delay,1280
+IndiGo,2026-02-09 17:12:16,Twitter,-0.27,Seat Comfort,94
+Vistara,2026-01-29 06:12:16,Twitter,-0.62,Flight Delay,60
+Vistara,2026-02-09 03:12:16,Twitter,0.35,None (Positive),11
+Air India,2026-01-27 05:12:16,Tripadvisor,-0.01,None (Positive),43
+Akasa Air,2026-02-04 00:12:16,Tripadvisor,0.12,None (Positive),61
+Vistara,2026-01-26 23:12:16,Twitter,0.2,None (Positive),82
+SpiceJet,2026-01-30 18:12:16,Twitter,-0.43,None (Positive),93
+IndiGo,2026-02-08 15:12:16,Twitter,-0.34,Baggage Issue,14
+Air India,2026-02-10 14:12:16,Twitter,-0.68,None (Positive),480
+SpiceJet,2026-02-08 15:12:16,Twitter,-0.56,Refund Issue,87
+SpiceJet,2026-01-18 05:12:16,Twitter,-0.0,None (Positive),85
+Vistara,2026-01-18 17:12:16,Tripadvisor,0.56,None (Positive),73
+Vistara,2026-02-08 19:12:16,Twitter,-0.71,Seat Comfort,528
+IndiGo,2026-01-23 13:12:16,Google Reviews,0.68,None (Positive),50
+Air India,2026-02-02 16:12:16,Twitter,-0.2,None (Positive),7
+Akasa Air,2026-01-29 04:12:16,Twitter,-0.22,None (Positive),28
+SpiceJet,2026-01-28 11:12:16,Twitter,-0.52,Staff Behavior,18
+Vistara,2026-01-29 17:12:16,Twitter,0.65,None (Positive),57
+Vistara,2026-01-25 09:12:16,Tripadvisor,0.74,None (Positive),91
+Vistara,2026-01-21 12:12:16,Twitter,-0.66,Baggage Issue,1067
+Air India,2026-02-04 03:12:16,Tripadvisor,-0.66,Baggage Issue,210
+IndiGo,2026-01-14 21:12:16,Google Reviews,-0.61,Seat Comfort,72
+IndiGo,2026-02-08 08:12:16,Twitter,0.21,None (Positive),83
+Akasa Air,2026-01-15 13:12:16,Tripadvisor,-0.2,None (Positive),92
+Vistara,2026-01-20 19:12:16,Tripadvisor,-0.26,Flight Delay,28
+Vistara,2026-01-28 09:12:16,Google Reviews,0.39,None (Positive),99
+Air India,2026-01-27 23:12:16,Google Reviews,-0.65,Baggage Issue,640
+Air India,2026-01-27 08:12:16,Twitter,-0.12,None (Positive),11
+Vistara,2026-02-12 10:12:16,Twitter,0.6,None (Positive),59
+IndiGo,2026-02-10 12:12:16,Twitter,-0.26,None (Positive),80
+SpiceJet,2026-02-03 01:12:16,Tripadvisor,-0.92,Seat Comfort,715
+Air India,2026-01-21 13:12:16,Twitter,-0.72,Refund Issue,210
+Vistara,2026-01-18 13:12:16,Google Reviews,0.19,None (Positive),3
+Air India,2026-01-14 03:12:16,Twitter,-0.51,Seat Comfort,12
+IndiGo,2026-01-17 20:12:16,Google Reviews,-0.39,Refund Issue,1
+IndiGo,2026-02-09 12:12:16,Twitter,0.26,None (Positive),69
+IndiGo,2026-01-22 21:12:16,Tripadvisor,0.28,None (Positive),89
+SpiceJet,2026-02-10 05:12:16,Twitter,-0.27,None (Positive),10
+SpiceJet,2026-01-19 23:12:16,Twitter,-0.27,None (Positive),27
+Air India,2026-01-23 04:12:16,Twitter,-0.96,Refund Issue,795
+SpiceJet,2026-02-08 18:12:16,Twitter,-0.77,Seat Comfort,36
+SpiceJet,2026-02-11 10:12:16,Twitter,-0.88,Flight Delay,830
+SpiceJet,2026-02-03 15:12:16,Tripadvisor,-0.61,Staff Behavior,276
+IndiGo,2026-01-15 18:12:16,Twitter,-0.03,None (Positive),23
+SpiceJet,2026-02-12 19:12:16,Twitter,-0.28,Staff Behavior,72
+Akasa Air,2026-01-19 07:12:16,Tripadvisor,-0.84,Staff Behavior,1140
+Air India,2026-01-16 08:12:16,Twitter,-0.14,None (Positive),41
+IndiGo,2026-02-07 21:12:16,Twitter,-0.25,Baggage Issue,4
+IndiGo,2026-01-31 07:12:16,Twitter,-0.68,Baggage Issue,396
+SpiceJet,2026-02-05 08:12:16,Tripadvisor,-0.39,Staff Behavior,88
+Air India,2026-02-12 00:12:16,Twitter,-0.43,Refund Issue,27
+Akasa Air,2026-01-27 13:12:16,Tripadvisor,-0.61,Flight Delay,308
+SpiceJet,2026-01-25 20:12:16,Twitter,-0.19,None (Positive),66
+IndiGo,2026-01-14 14:12:16,Twitter,0.12,None (Positive),21
+IndiGo,2026-01-22 23:12:16,Tripadvisor,-0.61,Staff Behavior,150
+SpiceJet,2026-01-17 17:12:16,Twitter,-0.64,None (Positive),364
+SpiceJet,2026-02-09 14:12:16,Twitter,-0.68,Flight Delay,720
+Air India,2026-01-22 11:12:16,Google Reviews,-0.46,In-flight Food,17
+Akasa Air,2026-02-10 01:12:16,Google Reviews,0.36,None (Positive),55
+SpiceJet,2026-01-14 17:12:16,Twitter,-0.96,Flight Delay,936
+Akasa Air,2026-01-24 04:12:16,Twitter,0.05,None (Positive),64
+SpiceJet,2026-02-01 05:12:16,Twitter,0.09,None (Positive),56
+Akasa Air,2026-01-18 21:12:16,Twitter,-0.64,Baggage Issue,135
+Akasa Air,2026-01-14 03:12:16,Twitter,0.68,None (Positive),45
+SpiceJet,2026-01-26 23:12:16,Twitter,-0.33,Baggage Issue,84
+Akasa Air,2026-01-19 00:12:16,Google Reviews,0.43,None (Positive),81
+SpiceJet,2026-02-08 17:12:16,Twitter,-0.41,Refund Issue,77
+Vistara,2026-01-23 10:12:16,Twitter,0.59,None (Positive),99
+Vistara,2026-01-31 01:12:16,Twitter,0.76,None (Positive),56
+SpiceJet,2026-02-10 08:12:16,Twitter,-0.23,App/Web Glitch,57
+SpiceJet,2026-01-31 04:12:16,Google Reviews,-0.21,None (Positive),24
+IndiGo,2026-01-18 13:12:16,Twitter,-0.28,Staff Behavior,72
+IndiGo,2026-01-26 06:12:16,Twitter,-0.52,Refund Issue,67
+SpiceJet,2026-02-10 02:12:16,Google Reviews,-0.38,Staff Behavior,52
+SpiceJet,2026-01-16 09:12:16,Tripadvisor,-0.97,Refund Issue,16
+IndiGo,2026-01-31 11:12:16,Google Reviews,-0.15,None (Positive),5
+IndiGo,2026-01-30 23:12:16,Google Reviews,-0.16,None (Positive),27
+IndiGo,2026-02-08 21:12:16,Twitter,-0.56,Flight Delay,65
+Air India,2026-01-24 09:12:16,Twitter,-0.63,None (Positive),120
+SpiceJet,2026-01-14 08:12:16,Twitter,-0.37,Staff Behavior,73
+Akasa Air,2026-01-25 18:12:16,Tripadvisor,-0.2,None (Positive),45
+Air India,2026-02-08 05:12:16,Tripadvisor,-0.83,Baggage Issue,675
+Air India,2026-01-22 04:12:16,Google Reviews,-0.71,Refund Issue,972
+IndiGo,2026-02-02 21:12:16,Twitter,-0.22,None (Positive),80
+Vistara,2026-01-28 11:12:16,Google Reviews,0.78,None (Positive),50
+Air India,2026-01-20 11:12:16,Twitter,-0.46,Baggage Issue,77
+IndiGo,2026-01-21 06:12:16,Tripadvisor,-0.27,None (Positive),33
+SpiceJet,2026-01-15 21:12:16,Twitter,-0.74,Flight Delay,820
+Akasa Air,2026-01-18 15:12:16,Twitter,-0.24,None (Positive),99
+Akasa Air,2026-02-09 00:12:16,Tripadvisor,-0.9,Refund Issue,589
+SpiceJet,2026-01-19 17:12:16,Twitter,-0.21,Refund Issue,72
+Vistara,2026-01-28 03:12:16,Twitter,0.61,None (Positive),89
+SpiceJet,2026-02-06 14:12:16,Twitter,-0.78,Flight Delay,1278
+SpiceJet,2026-02-04 05:12:16,Google Reviews,-0.78,Flight Delay,240
+SpiceJet,2026-01-18 00:12:16,Twitter,-0.41,Staff Behavior,27
+SpiceJet,2026-02-04 08:12:16,Twitter,-0.44,In-flight Food,76
+Air India,2026-01-18 09:12:16,Google Reviews,-0.15,None (Positive),86
+SpiceJet,2026-01-14 09:12:16,Twitter,-0.72,Staff Behavior,230
+SpiceJet,2026-01-23 16:12:16,Tripadvisor,-0.48,None (Positive),20
+Akasa Air,2026-01-25 17:12:16,Tripadvisor,-0.25,None (Positive),47
+Vistara,2026-01-25 19:12:16,Twitter,-0.25,Flight Delay,17
+Akasa Air,2026-01-28 21:12:16,Google Reviews,-0.02,None (Positive),84
+SpiceJet,2026-01-30 01:12:16,Google Reviews,0.11,None (Positive),90
+SpiceJet,2026-02-04 01:12:16,Google Reviews,-0.85,Staff Behavior,280
+Vistara,2026-01-20 16:12:16,Twitter,0.7,None (Positive),25
+SpiceJet,2026-02-06 15:12:16,Twitter,-0.65,Baggage Issue,539
+Akasa Air,2026-02-03 20:12:16,Twitter,-0.63,Refund Issue,150
+Akasa Air,2026-02-09 10:12:16,Google Reviews,0.61,None (Positive),29
+Akasa Air,2026-01-24 08:12:16,Google Reviews,-0.26,Staff Behavior,18
+IndiGo,2026-01-26 02:12:16,Tripadvisor,-0.1,None (Positive),67
+Akasa Air,2026-01-27 23:12:16,Twitter,-0.65,Refund Issue,15
+Akasa Air,2026-01-28 03:12:16,Google Reviews,-0.28,Flight Delay,33
+Vistara,2026-02-12 04:12:16,Twitter,0.77,None (Positive),45
+Akasa Air,2026-01-14 18:12:16,Twitter,0.01,None (Positive),50
+Akasa Air,2026-02-11 17:12:16,Google Reviews,0.08,None (Positive),82
+Akasa Air,2026-01-28 17:12:16,Google Reviews,-0.6,Flight Delay,49
+Vistara,2026-02-09 08:12:16,Twitter,0.54,None (Positive),46
+Akasa Air,2026-01-18 07:12:16,Twitter,-0.01,None (Positive),14
+IndiGo,2026-02-02 16:12:16,Google Reviews,-0.42,Flight Delay,84
+SpiceJet,2026-01-30 20:12:16,Twitter,-0.38,Seat Comfort,17
+Air India,2026-01-27 02:12:16,Tripadvisor,-0.79,Flight Delay,976
+IndiGo,2026-02-10 21:12:16,Tripadvisor,-0.39,App/Web Glitch,96
+SpiceJet,2026-02-03 18:12:16,Twitter,-0.39,None (Positive),13
+SpiceJet,2026-01-24 06:12:16,Google Reviews,-0.4,Staff Behavior,61
+Akasa Air,2026-02-05 00:12:16,Twitter,-0.72,In-flight Food,168
+Air India,2026-02-04 07:12:16,Tripadvisor,-0.15,None (Positive),73
+Vistara,2026-01-23 20:12:16,Twitter,-0.98,Baggage Issue,120
+Vistara,2026-02-03 16:12:16,Twitter,0.17,None (Positive),27
+Air India,2026-02-12 03:12:16,Google Reviews,-0.29,None (Positive),47
+Akasa Air,2026-01-26 01:12:16,Tripadvisor,0.21,None (Positive),27
+IndiGo,2026-02-09 11:12:16,Google Reviews,-0.18,None (Positive),67
+Air India,2026-01-19 06:12:16,Twitter,-0.25,None (Positive),18
+SpiceJet,2026-02-11 18:12:16,Tripadvisor,0.02,None (Positive),44
+Vistara,2026-01-23 11:12:16,Twitter,0.66,None (Positive),48
+Air India,2026-01-25 23:12:16,Twitter,-0.24,Flight Delay,43
+IndiGo,2026-01-21 04:12:16,Twitter,0.39,None (Positive),39
+Air India,2026-02-06 12:12:16,Tripadvisor,-0.62,Flight Delay,180
+Air India,2026-02-12 07:12:16,Twitter,-0.7,Flight Delay,406
+Air India,2026-02-11 10:12:16,Twitter,-0.46,Flight Delay,31
+IndiGo,2026-02-06 09:12:16,Twitter,-0.86,Seat Comfort,600
+Vistara,2026-02-09 00:12:16,Twitter,0.54,None (Positive),73
+SpiceJet,2026-01-20 23:12:16,Twitter,-0.48,Flight Delay,11
+IndiGo,2026-01-31 12:12:16,Twitter,0.56,None (Positive),87
+Akasa Air,2026-02-08 10:12:16,Twitter,-0.18,None (Positive),19
+Vistara,2026-02-05 02:12:16,Twitter,0.7,None (Positive),11
+Vistara,2026-02-06 11:12:16,Twitter,0.12,None (Positive),55
+SpiceJet,2026-01-14 18:12:16,Twitter,-0.58,In-flight Food,20
+Air India,2026-02-12 20:12:16,Google Reviews,-0.19,None (Positive),99
+Air India,2026-01-19 01:12:16,Tripadvisor,-0.53,Flight Delay,43
+SpiceJet,2026-01-21 13:12:16,Twitter,-0.42,None (Positive),65
+Akasa Air,2026-02-04 01:12:16,Tripadvisor,0.16,None (Positive),46
+Air India,2026-02-08 14:12:16,Twitter,-0.67,In-flight Food,570
+IndiGo,2026-02-11 12:12:16,Twitter,0.59,None (Positive),68
+SpiceJet,2026-02-12 20:12:16,Twitter,-0.83,Baggage Issue,810
+Akasa Air,2026-01-23 15:12:16,Twitter,-0.78,Flight Delay,540
+IndiGo,2026-02-08 01:12:16,Twitter,0.03,None (Positive),24
+SpiceJet,2026-01-27 10:12:16,Twitter,-0.05,None (Positive),44
+IndiGo,2026-02-08 14:12:16,Twitter,0.2,None (Positive),30
+SpiceJet,2026-02-12 00:12:16,Google Reviews,-0.29,None (Positive),76
+Akasa Air,2026-02-04 11:12:16,Twitter,0.37,None (Positive),45
+Air India,2026-02-12 04:12:16,Twitter,0.33,None (Positive),53
+SpiceJet,2026-02-03 23:12:16,Twitter,0.28,None (Positive),85
+Vistara,2026-01-16 08:12:16,Twitter,-0.44,In-flight Food,71
+Vistara,2026-01-23 01:12:16,Twitter,0.4,None (Positive),34
+SpiceJet,2026-01-18 01:12:16,Twitter,-0.53,None (Positive),67
+SpiceJet,2026-02-07 02:12:16,Twitter,-0.45,None (Positive),74
+Akasa Air,2026-01-30 20:12:16,Twitter,0.42,None (Positive),11
+Air India,2026-01-17 04:12:16,Twitter,-0.66,None (Positive),511
+Vistara,2026-02-05 21:12:16,Twitter,0.3,None (Positive),28
+Akasa Air,2026-02-10 03:12:16,Tripadvisor,0.69,None (Positive),99
+IndiGo,2026-02-04 00:12:16,Tripadvisor,-0.98,Seat Comfort,847
+SpiceJet,2026-01-25 17:12:16,Twitter,-0.75,None (Positive),1672
+Vistara,2026-02-11 09:12:16,Twitter,0.28,None (Positive),89
+SpiceJet,2026-01-26 18:12:16,Twitter,-0.39,Refund Issue,32
+SpiceJet,2026-01-28 13:12:16,Tripadvisor,-0.13,None (Positive),14
+Akasa Air,2026-02-06 17:12:16,Google Reviews,0.09,None (Positive),35
+Akasa Air,2026-01-28 03:12:16,Tripadvisor,-0.82,Refund Issue,828
+Vistara,2026-01-20 14:12:16,Twitter,0.87,None (Positive),93
+SpiceJet,2026-01-31 17:12:16,Twitter,-0.38,None (Positive),77
+Akasa Air,2026-01-29 13:12:16,Google Reviews,0.64,None (Positive),46
+Vistara,2026-02-06 04:12:16,Google Reviews,0.42,None (Positive),56
+Air India,2026-01-21 06:12:16,Tripadvisor,-0.81,Baggage Issue,289
+Air India,2026-01-28 15:12:16,Twitter,-0.61,Flight Delay,108
+Air India,2026-02-09 19:12:16,Twitter,-0.52,Flight Delay,88
+Akasa Air,2026-02-10 02:12:16,Twitter,0.53,None (Positive),19
+SpiceJet,2026-01-15 16:12:16,Tripadvisor,-0.58,None (Positive),84
+SpiceJet,2026-01-14 08:12:16,Google Reviews,-0.45,Refund Issue,70
+Akasa Air,2026-01-22 10:12:16,Twitter,-0.73,Flight Delay,1479
+IndiGo,2026-01-19 18:12:16,Twitter,-0.95,Flight Delay,198
+SpiceJet,2026-01-25 14:12:16,Tripadvisor,-0.74,Flight Delay,702
+SpiceJet,2026-02-10 01:12:16,Google Reviews,-0.48,Staff Behavior,91
+Vistara,2026-01-28 00:12:16,Twitter,0.42,None (Positive),91
+SpiceJet,2026-02-01 15:12:16,Tripadvisor,-0.55,None (Positive),47
+Vistara,2026-02-08 06:12:16,Twitter,0.15,None (Positive),72
+IndiGo,2026-01-25 16:12:16,Twitter,-0.27,Refund Issue,47
+Air India,2026-01-26 00:12:16,Twitter,-0.98,Flight Delay,1044
+SpiceJet,2026-02-04 03:12:16,Google Reviews,-0.5,None (Positive),96
+Vistara,2026-01-16 05:12:16,Tripadvisor,0.32,None (Positive),11
+IndiGo,2026-01-15 03:12:16,Twitter,-0.45,Flight Delay,52
+SpiceJet,2026-01-27 21:12:16,Twitter,-0.76,None (Positive),402
+Air India,2026-02-07 16:12:16,Twitter,-0.15,None (Positive),29
+Vistara,2026-01-31 14:12:16,Twitter,0.69,None (Positive),56
+IndiGo,2026-02-02 13:12:16,Twitter,-0.15,None (Positive),76
+Vistara,2026-01-16 12:12:16,Tripadvisor,0.51,None (Positive),96
+Vistara,2026-01-21 20:12:16,Twitter,0.89,None (Positive),25
+Air India,2026-01-16 00:12:16,Google Reviews,-0.65,Refund Issue,885
+IndiGo,2026-01-19 01:12:16,Twitter,0.38,None (Positive),12
+SpiceJet,2026-02-04 13:12:16,Tripadvisor,-0.48,Staff Behavior,32
+Air India,2026-02-03 21:12:16,Tripadvisor,-0.55,Flight Delay,97
+SpiceJet,2026-02-10 19:12:16,Twitter,-0.79,Baggage Issue,132
+Air India,2026-02-07 19:12:16,Tripadvisor,0.16,None (Positive),81
+Vistara,2026-01-19 06:12:16,Twitter,0.24,None (Positive),4
+Vistara,2026-01-14 07:12:16,Twitter,0.6,None (Positive),81
+Vistara,2026-01-28 02:12:16,Twitter,0.62,None (Positive),10
+Akasa Air,2026-01-26 02:12:16,Twitter,-0.19,None (Positive),74
+Akasa Air,2026-01-17 06:12:16,Twitter,0.3,None (Positive),75
+SpiceJet,2026-01-18 15:12:16,Twitter,0.37,None (Positive),29
+IndiGo,2026-02-12 09:12:16,Tripadvisor,-0.9,Refund Issue,696
+Vistara,2026-01-15 06:12:16,Twitter,-0.82,In-flight Food,408
+IndiGo,2026-01-20 06:12:16,Google Reviews,-0.61,Staff Behavior,584
+SpiceJet,2026-02-09 12:12:16,Twitter,-0.68,Staff Behavior,432
+Air India,2026-01-23 19:12:16,Twitter,0.28,None (Positive),37
+Akasa Air,2026-02-01 17:12:16,Google Reviews,0.7,None (Positive),23
+IndiGo,2026-01-27 23:12:16,Tripadvisor,0.21,None (Positive),25
+IndiGo,2026-01-15 23:12:16,Twitter,-0.25,None (Positive),91
+Air India,2026-02-03 12:12:16,Tripadvisor,-0.47,None (Positive),7
+IndiGo,2026-02-08 11:12:16,Twitter,0.38,None (Positive),76
+IndiGo,2026-01-19 06:12:16,Tripadvisor,0.22,None (Positive),25
+Akasa Air,2026-02-02 19:12:16,Twitter,-0.02,None (Positive),68
+Air India,2026-02-08 05:12:16,Twitter,-0.62,Staff Behavior,416
+Akasa Air,2026-01-21 06:12:16,Twitter,0.22,None (Positive),68
+Air India,2026-01-20 00:12:16,Google Reviews,-0.5,Flight Delay,64
+Vistara,2026-02-08 08:12:16,Twitter,0.55,None (Positive),98
+Vistara,2026-01-22 10:12:16,Twitter,0.6,None (Positive),55
+Akasa Air,2026-01-21 17:12:16,Twitter,-0.16,None (Positive),22
+IndiGo,2026-02-04 17:12:16,Twitter,0.46,None (Positive),66
+Vistara,2026-01-27 02:12:16,Twitter,0.65,None (Positive),37
+Akasa Air,2026-02-01 07:12:16,Tripadvisor,0.55,None (Positive),70
+Air India,2026-02-04 19:12:16,Twitter,0.17,None (Positive),77
+SpiceJet,2026-01-16 06:12:16,Tripadvisor,0.07,None (Positive),76
+Vistara,2026-01-27 13:12:16,Twitter,0.79,None (Positive),77
+IndiGo,2026-02-12 20:12:16,Twitter,0.05,None (Positive),55
+IndiGo,2026-01-28 19:12:16,Google Reviews,-0.93,App/Web Glitch,1440
+SpiceJet,2026-02-09 23:12:16,Tripadvisor,-0.29,None (Positive),60
+SpiceJet,2026-01-18 01:12:16,Twitter,-0.53,None (Positive),85
+Air India,2026-01-21 05:12:16,Google Reviews,-0.79,None (Positive),1188
+SpiceJet,2026-01-31 07:12:16,Twitter,-0.64,Seat Comfort,832
+IndiGo,2026-01-14 11:12:16,Twitter,0.52,None (Positive),86
+Vistara,2026-02-08 12:12:16,Google Reviews,-0.2,Refund Issue,50
+SpiceJet,2026-02-01 04:12:16,Twitter,-0.65,None (Positive),1184
+Vistara,2026-01-25 12:12:16,Tripadvisor,0.34,None (Positive),95
+Vistara,2026-02-09 13:12:16,Google Reviews,0.68,None (Positive),35
+Air India,2026-02-09 03:12:16,Tripadvisor,-0.8,App/Web Glitch,850
+SpiceJet,2026-02-02 08:12:16,Twitter,0.34,None (Positive),47
+Vistara,2026-02-04 01:12:16,Google Reviews,0.44,None (Positive),76
+SpiceJet,2026-02-07 09:12:16,Twitter,-0.39,None (Positive),20
+Akasa Air,2026-01-19 05:12:16,Tripadvisor,-0.15,None (Positive),26
+IndiGo,2026-01-24 19:12:16,Twitter,-0.72,Flight Delay,75
+Air India,2026-01-14 12:12:16,Twitter,-0.73,In-flight Food,216
+Akasa Air,2026-02-04 15:12:16,Twitter,0.09,None (Positive),50
+Vistara,2026-02-08 13:12:16,Tripadvisor,-0.98,Staff Behavior,392
+Air India,2026-01-30 12:12:16,Twitter,-0.54,Flight Delay,38
+Akasa Air,2026-01-18 08:12:16,Google Reviews,0.25,None (Positive),27
+Air India,2026-02-07 08:12:16,Tripadvisor,-0.75,Baggage Issue,532
+SpiceJet,2026-01-31 17:12:16,Twitter,-0.97,Seat Comfort,266
+IndiGo,2026-01-19 02:12:16,Twitter,0.34,None (Positive),9
+SpiceJet,2026-02-11 08:12:16,Twitter,-0.48,None (Positive),50
+IndiGo,2026-01-23 06:12:16,Twitter,0.25,None (Positive),93
+IndiGo,2026-02-09 10:12:16,Tripadvisor,0.21,None (Positive),6
+Vistara,2026-01-27 09:12:16,Twitter,0.5,None (Positive),21
+Akasa Air,2026-02-07 06:12:16,Tripadvisor,0.47,None (Positive),27
+SpiceJet,2026-01-30 05:12:16,Twitter,-0.75,App/Web Glitch,880
+Vistara,2026-01-14 00:12:16,Twitter,0.16,None (Positive),49
+Air India,2026-01-14 19:12:16,Twitter,-0.82,Baggage Issue,475
+Air India,2026-02-03 07:12:16,Twitter,-0.52,Flight Delay,38
+SpiceJet,2026-01-19 18:12:16,Twitter,-0.75,None (Positive),868
+SpiceJet,2026-01-26 23:12:16,Twitter,-0.66,Staff Behavior,45
+IndiGo,2026-02-08 21:12:16,Twitter,-0.31,Refund Issue,62
+SpiceJet,2026-02-11 21:12:16,Google Reviews,-0.16,None (Positive),18
+Vistara,2026-01-28 10:12:16,Twitter,0.11,None (Positive),98
+SpiceJet,2026-02-01 23:12:16,Twitter,-0.72,In-flight Food,300
+Akasa Air,2026-02-03 15:12:16,Twitter,-0.27,None (Positive),71
+SpiceJet,2026-01-19 06:12:16,Twitter,0.35,None (Positive),23
+Vistara,2026-02-08 14:12:16,Twitter,0.81,None (Positive),72
+Air India,2026-02-01 12:12:16,Tripadvisor,-0.65,Staff Behavior,91
+Air India,2026-02-01 08:12:16,Twitter,-0.77,Staff Behavior,126
+Vistara,2026-01-23 19:12:16,Twitter,0.39,None (Positive),66
+Air India,2026-02-11 23:12:16,Tripadvisor,-0.82,In-flight Food,51
+Air India,2026-01-24 15:12:16,Tripadvisor,-0.56,In-flight Food,65
+Air India,2026-02-11 06:12:16,Tripadvisor,-0.4,None (Positive),70
+IndiGo,2026-01-21 00:12:16,Tripadvisor,-0.01,None (Positive),23
+Air India,2026-01-31 17:12:16,Twitter,-0.96,Baggage Issue,720
+SpiceJet,2026-02-10 10:12:16,Twitter,-0.64,Refund Issue,576
+Vistara,2026-02-01 14:12:16,Tripadvisor,0.33,None (Positive),93
+Vistara,2026-01-19 05:12:16,Tripadvisor,0.43,None (Positive),93
+IndiGo,2026-02-03 06:12:16,Twitter,-0.45,Baggage Issue,34
+IndiGo,2026-01-22 06:12:16,Tripadvisor,0.49,None (Positive),44
+Vistara,2026-01-27 10:12:16,Google Reviews,0.11,None (Positive),0
+SpiceJet,2026-01-14 06:12:16,Twitter,-0.75,Flight Delay,330
+Air India,2026-01-17 10:12:16,Twitter,-0.93,Refund Issue,400
+SpiceJet,2026-02-01 16:12:16,Twitter,-0.09,None (Positive),38
+IndiGo,2026-01-17 11:12:16,Twitter,0.66,None (Positive),85
+Akasa Air,2026-01-14 10:12:16,Twitter,-0.52,In-flight Food,93
+Air India,2026-01-16 17:12:16,Twitter,-0.23,None (Positive),66
+Air India,2026-01-29 16:12:16,Twitter,-0.42,Flight Delay,97
+IndiGo,2026-02-06 05:12:16,Twitter,0.15,None (Positive),79
+Akasa Air,2026-01-30 00:12:16,Twitter,0.4,None (Positive),31
+Vistara,2026-01-29 10:12:16,Twitter,0.86,None (Positive),73
+IndiGo,2026-01-15 07:12:16,Google Reviews,0.54,None (Positive),36
+Air India,2026-02-12 19:12:16,Twitter,-0.37,Staff Behavior,36
+Air India,2026-02-09 07:12:16,Twitter,0.2,None (Positive),75
+IndiGo,2026-01-14 16:12:16,Twitter,-0.08,None (Positive),73
+Akasa Air,2026-01-22 02:12:16,Google Reviews,-0.18,None (Positive),63
+Air India,2026-02-07 03:12:16,Tripadvisor,-0.58,Refund Issue,50
+SpiceJet,2026-02-07 19:12:16,Twitter,-1.0,Baggage Issue,689
+Air India,2026-02-08 07:12:16,Google Reviews,-0.44,None (Positive),75
+IndiGo,2026-02-10 02:12:16,Google Reviews,-0.41,Refund Issue,62
+IndiGo,2026-02-08 11:12:16,Twitter,-0.54,Refund Issue,64
+Vistara,2026-02-01 08:12:16,Google Reviews,-0.28,Staff Behavior,90
+Air India,2026-02-10 14:12:16,Google Reviews,-0.77,Staff Behavior,192
+Akasa Air,2026-02-08 20:12:16,Google Reviews,-0.72,In-flight Food,595

@@ -1,0 +1,5 @@
+event_id,city,event_name,event_type,start_date,end_date,expected_attendance,international_attendees_percent,demand_impact_score
+E1,BOM,IPL Final 2026,Sports,2026-05-24,2026-05-24,80000,5.0,0.9
+E2,DEL,India Tech Summit,Conference,2026-02-15,2026-02-18,15000,20.0,0.7
+E3,GOI,Sunburn Festival,Music,2026-12-27,2026-12-30,50000,15.0,0.95
+E4,BLR,Aero India 2026,Exhibition,2026-02-10,2026-02-14,100000,30.0,0.85

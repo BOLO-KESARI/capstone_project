@@ -1,0 +1,9 @@
+country,state,holiday_date,holiday_name,holiday_type,travel_demand_multiplier
+India,All,2026-01-26,Republic Day,National holiday,2.5
+India,All,2026-03-04,Holi,Gazetted Holiday,1.8
+India,All,2026-03-20,Eid ul-Fitr,"Muslim, Common local holiday",1.8
+India,All,2026-08-15,Independence Day,National holiday,2.5
+India,All,2026-10-02,Mahatma Gandhi Jayanti,National holiday,2.5
+India,All,2026-10-21,Dussehra,Gazetted Holiday,1.8
+India,All,2026-11-08,Diwali / Deepavali,Gazetted Holiday,1.8
+India,All,2026-12-25,Christmas,Gazetted Holiday,1.8
