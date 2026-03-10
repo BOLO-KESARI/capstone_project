@@ -274,7 +274,8 @@ class AviationStackClient:
             "CCU": {"lat": 22.6547, "lon": 88.4467},
             "AMD": {"lat": 23.0734, "lon": 72.6347},
             "PNQ": {"lat": 18.5822, "lon": 73.9197},
-            "GOI": {"lat": 15.3800, "lon": 73.8300}
+            "GOI": {"lat": 15.3800, "lon": 73.8300},
+            "SXR": {"lat": 33.9871, "lon": 74.7742}
         }
         
         coords = indian_airports.get(iata_code)
