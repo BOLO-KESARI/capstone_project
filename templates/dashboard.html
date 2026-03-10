@@ -23,8 +23,9 @@
         <div class="d-flex align-items-center gap-2">
             <span class="nav-health online pulse"><i class="bi bi-circle-fill me-1" style="font-size:.45rem"></i>LIVE</span>
             <a href="/" class="btn btn-outline-light btn-sm" style="font-size:.72rem">
-                <i class="bi bi-database me-1"></i>API
+                <i class="bi bi-house me-1"></i>Home
             </a>
+            
         </div>
     </div>
 </nav>
@@ -39,9 +40,19 @@
 
 <div class="container-fluid px-4 mt-3">
 
+
     <!-- ╔══════════════════════════════════════════════════════╗
          ║  SECTION 1 – COMMAND CENTER KPI HEADER               ║
          ╚══════════════════════════════════════════════════════╝ -->
+    <div class="d-flex align-items-center justify-content-between mb-2 px-1">
+        <div>
+            <span class="fw-bold text-black" style="font-size:1.05rem">Domestic Network Overview</span>
+            <span class="text-black-50 ms-2" style="font-size:.78rem" id="cc-period-label">Feb 2026 &middot; 198 flights &middot; 66 routes &middot; 9 airports</span>
+        </div>
+        <span class="badge bg-dark text-white-50 border border-secondary" style="font-size:.68rem">
+            <i class="bi bi-calendar3 me-1"></i>Period: 01 Feb – 02 Mar 2026
+        </span>
+    </div>
     <div class="row g-3 mb-4" id="cc-kpi-row"></div>
 
     <!-- ╔══════════════════════════════════════════════════════╗
@@ -326,39 +337,22 @@
                                 <div>
                                     <label class="form-label mb-0 text-white" style="font-size:.7rem;">Route</label>
                                     <select class="form-select form-select-sm" id="sel-365-route" style="width:180px;">
-                                        <optgroup label="Delhi Hub">
-                                            <option value="DEL-BOM">DEL–BOM (1150 km)</option>
-                                            <option value="DEL-BLR">DEL–BLR (1740 km)</option>
-                                            <option value="DEL-CCU">DEL–CCU (1300 km)</option>
-                                            <option value="DEL-MAA">DEL–MAA (1760 km)</option>
-                                            <option value="DEL-AMD">DEL–AMD (780 km)</option>
-                                            <option value="DEL-JAI">DEL–JAI (240 km)</option>
-                                            <option value="DEL-NAG">DEL–NAG (850 km)</option>
-                                            <option value="DEL-GAU">DEL–GAU (1450 km)</option>
-                                        </optgroup>
-                                        <optgroup label="Mumbai Hub">
-                                            <option value="BOM-BLR">BOM–BLR (840 km)</option>
-                                            <option value="BOM-MAA">BOM–MAA (1030 km)</option>
-                                            <option value="BOM-HYD">BOM–HYD (620 km)</option>
-                                            <option value="BOM-CCU">BOM–CCU (1960 km)</option>
-                                            <option value="BOM-GOI">BOM–GOI (440 km)</option>
-                                            <option value="BOM-AMD">BOM–AMD (440 km)</option>
-                                            <option value="BOM-NAG">BOM–NAG (700 km)</option>
-                                        </optgroup>
-                                        <optgroup label="Bengaluru Hub">
-                                            <option value="BLR-MAA">BLR–MAA (290 km)</option>
-                                            <option value="BLR-HYD">BLR–HYD (500 km)</option>
-                                            <option value="BLR-COK">BLR–COK (365 km)</option>
-                                            <option value="BLR-CCU">BLR–CCU (1560 km)</option>
-                                        </optgroup>
-                                        <optgroup label="Other Routes">
-                                            <option value="MAA-HYD">MAA–HYD (520 km)</option>
-                                            <option value="PNQ-NAG" selected>PNQ–NAG (620 km)</option>
-                                            <option value="PNQ-DEL">PNQ–DEL (1170 km)</option>
-                                            <option value="PNQ-BLR">PNQ–BLR (735 km)</option>
-                                            <option value="PNQ-HYD">PNQ–HYD (500 km)</option>
-                                            <option value="NAG-BLR">NAG–BLR (1080 km)</option>
-                                            <option value="GAU-CCU">GAU–CCU (500 km)</option>
+                                        <optgroup label="Top 15 Routes (by annual passengers)">
+                                            <option value="DEL-BOM" selected>DEL–BOM (1150 km) — #1 6.5M pax</option>
+                                            <option value="BLR-DEL">BLR–DEL (1740 km) — #2 4.8M pax</option>
+                                            <option value="BLR-BOM">BLR–BOM (840 km) — #3 4.4M pax</option>
+                                            <option value="DEL-HYD">DEL–HYD (1260 km) — #4 2.9M pax</option>
+                                            <option value="DEL-CCU">DEL–CCU (1300 km) — #5 2.8M pax</option>
+                                            <option value="DEL-PNQ">DEL–PNQ (1170 km) — #6 2.8M pax</option>
+                                            <option value="DEL-SXR">DEL–SXR (670 km) — #7 2.6M pax</option>
+                                            <option value="BOM-MAA">BOM–MAA (1030 km) — #8 2.5M pax</option>
+                                            <option value="DEL-AMD">DEL–AMD (780 km) — #9 2.4M pax</option>
+                                            <option value="DEL-MAA">DEL–MAA (1760 km) — #10 2.3M pax</option>
+                                            <option value="BOM-HYD">BOM–HYD (620 km) — #11 2.2M pax</option>
+                                            <option value="BLR-HYD">BLR–HYD (500 km) — #12 2.1M pax</option>
+                                            <option value="BOM-AMD">BOM–AMD (440 km) — #13 2.1M pax</option>
+                                            <option value="BLR-CCU">BLR–CCU (1560 km) — #14 2.0M pax</option>
+                                            <option value="BLR-PNQ">BLR–PNQ (735 km) — #15 1.8M pax</option>
                                         </optgroup>
                                         <optgroup label="─────────────">
                                             <option value="CUSTOM">Custom distance…</option>
@@ -457,9 +451,24 @@
                             </div>
                             <div class="col-md-2 col-6">
                                 <label class="form-label mb-0 small fw-bold">Year</label>
-                                <select class="form-select form-select-sm" name="year">
-                                    <option>2018</option><option>2019</option><option>2020</option><option>2021</option><option>2022</option><option selected>2023</option><option>2024</option><option>2025</option>
-                                </select>
+                                <select class="form-select form-select-sm" name="year" id="yearSelect"></select>
+
+<script>
+    const select = document.getElementById("yearSelect");
+    const currentYear = new Date().getFullYear();
+
+    for (let year = 2018; year <= currentYear + 20; year++) {
+        let option = document.createElement("option");
+        option.value = year;
+        option.text = year;
+
+        if (year === currentYear) {
+            option.selected = true;
+        }
+
+        select.appendChild(option);
+    }
+</script>
                             </div>
                             <div class="col-md-2 col-6">
                                 <label class="form-label mb-0 small fw-bold">Historical Pax</label>
@@ -729,7 +738,7 @@
                                 <label class="form-label mb-0 small fw-bold">Origin Airport</label>
                                 <select class="form-select form-select-sm" name="origin_airport">
                                     <option>DEL</option><option>BOM</option><option>BLR</option><option>MAA</option>
-                                    <option>HYD</option><option>CCU</option><option>AMD</option><option>PNQ</option><option>GOI</option>
+                                    <option>HYD</option><option>CCU</option><option>AMD</option><option>PNQ</option><option>SXR</option><option>GOI</option>
                                 </select>
                             </div>
                             <div class="col-md-2 col-6">
@@ -1157,11 +1166,11 @@
         "Festival Days":["Count of days with festival/holiday surcharges applied. Typically see 20-50% fare premiums.","Event Count|Premium Range|Top Events"],
         "Wedding":["Days with wedding season surcharges. Indian wedding season drives significant regional demand spikes.","Wedding Days|Seasonal Premium|Regions"],
         "School":["Days with school holiday surcharges. Family travel surges during summer and winter breaks.","School Holiday Days|Travel Surge %|Key Periods"],
-        "Total Revenue":["Overall revenue across all routes and fare classes. Primary business performance metric.","Total ₹|Period|Growth %"],
-        "Total Bookings":["Total number of bookings across all channels, routes, and fare classes in the current period.","Booking Count|Period|Channels"],
-        "Avg Load Factor":["Average percentage of seats filled across all flights. Target is 75-85% for optimal revenue.","LF %|Target|Network Avg"],
-        "Avg Yield/Pax":["Average revenue per passenger across all routes. Higher yield = better pricing power.","₹/Pax|Route Mix|Fare Mix"],
-        "RASM":["Revenue per Available Seat Mile — key airline profitability metric combining LF and yield.","₹/ASM|Benchmark|Trend"],
+        "Monthly Revenue":["Total confirmed passenger revenue for the current month (Feb 2026) across 198 domestic flights and 66 routes spanning 9 Indian airports.","Total ₹|Confirmed Bookings|Monthly Period"],
+        "Total Bookings":["Unique booking count across all channels, routes, and fare classes for Feb 2026 period. Includes Confirmed, Cancelled, and No-show statuses.","Booking Count|Monthly Period|5 Airlines"],
+        "Avg Load Factor":["Average percentage of seats filled, computed as confirmed passengers divided by seat capacity per flight. Domestic Indian carriers typically target 80-90%.","LF %|Target 80%+|Pax/Capacity"],
+        "Avg Yield/Pax":["Average revenue earned per confirmed passenger across all routes. Higher yield indicates stronger pricing and premium fare class mix.","₹/Pax|Route Mix|Fare Mix"],
+        "RASM":["Revenue per Available Seat Kilometer — total confirmed revenue divided by total ASK (seats x distance). Key airline unit revenue metric.","₹/ASK|Benchmark ₹3-5|Trend"],
         "On-Time %":["Percentage of flights departing within 15 minutes of schedule. DGCA monitors below 80%.","OTP %|Target 85%|DGCA Threshold"],
     };
 

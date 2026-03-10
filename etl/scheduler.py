@@ -135,7 +135,7 @@ def job_weather_sync():
     logger.info("[ETL] Syncing weather data...")
     try:
         import httpx
-        airports = ["DEL", "BOM", "BLR", "MAA", "HYD", "CCU", "PNQ", "GOI"]
+        airports = ["DEL", "BOM", "BLR", "MAA", "HYD", "CCU", "PNQ", "GOI", "SXR"]
         # Simulated weather data (in production, call actual weather API)
         import random
         with get_connection() as conn:

@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LNT Aviation – Airline Revenue Optimization Platform</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet" />
+    <link href="/static/landing.css" rel="stylesheet" />
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     NAVBAR
+     ═══════════════════════════════════════════════════════════════════ -->
+<nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="landing-nav">
+    <div class="container">
+        <a class="navbar-brand d-flex align-items-center" href="/">
+            <i class="bi bi-airplane-engines me-2 fs-4"></i>
+            <span class="fw-bold">LNT Aviation</span>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navContent">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navContent">
+            <ul class="navbar-nav ms-auto mb-2 mb-lg-0 align-items-lg-center gap-lg-1">
+                <li class="nav-item"><a class="nav-link" href="#features">Features</a></li>
+                <li class="nav-item"><a class="nav-link" href="#architecture">Architecture</a></li>
+                <li class="nav-item"><a class="nav-link" href="#models">ML Models</a></li>
+                <li class="nav-item"><a class="nav-link" href="#stack">Tech Stack</a></li>
+                <li class="nav-item ms-lg-3">
+                    <a href="/dashboard" class="btn btn-outline-light btn-sm px-3">
+                        <i class="bi bi-bar-chart-line me-1"></i>Dashboard
+                    </a>
+                </li>
+                
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     HERO
+     ═══════════════════════════════════════════════════════════════════ -->
+<header class="hero-section d-flex align-items-center" id="hero">
+    <div class="hero-particles" id="particles"></div>
+    <div class="container position-relative z-1">
+        <div class="row align-items-center">
+            <div class="col-lg-7">
+                <span class="hero-badge mb-3">
+                    <i class="bi bi-mortarboard-fill me-1"></i> Capstone Project
+                </span>
+                <h1 class="hero-title">
+                    Airline Revenue<br>
+                    <span class="gradient-text">Optimization Platform</span>
+                </h1>
+                <p class="hero-subtitle mt-3">
+                    An end-to-end intelligent system combining <strong>real-time aviation data</strong>,
+                    <strong>machine learning forecasting</strong>, and <strong>dynamic pricing optimization</strong>
+                    to maximize airline revenue while managing operational risk.
+                </p>
+                <div class="d-flex flex-wrap gap-3 mt-4">
+                    <a href="/dashboard" class="btn btn-primary btn-lg px-4 shadow">
+                        <i class="bi bi-speedometer2 me-2"></i>Revenue Command Center
+                    </a>
+                    <a href="/explorer" class="btn btn-outline-light btn-lg px-4">
+                        <i class="bi bi-code-slash me-2"></i>API Explorer
+                    </a>
+                </div>
+                <div class="hero-stats mt-5">
+                    <div class="hero-stat">
+                        <div class="hero-stat-value">198</div>
+                        <div class="hero-stat-label">Flights Tracked</div>
+                    </div>
+                    <div class="hero-stat">
+                        <div class="hero-stat-value">66</div>
+                        <div class="hero-stat-label">Route Pairs</div>
+                    </div>
+                    <div class="hero-stat">
+                        <div class="hero-stat-value">9</div>
+                        <div class="hero-stat-label">Airports</div>
+                    </div>
+                    <div class="hero-stat">
+                        <div class="hero-stat-value">10</div>
+                        <div class="hero-stat-label">ML Models</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-5 d-none d-lg-flex justify-content-center">
+                <div class="hero-visual">
+                    <div class="orbit-ring ring-1">
+                        <div class="orbit-dot" style="--delay:0s"><i class="bi bi-airplane"></i></div>
+                    </div>
+                    <div class="orbit-ring ring-2">
+                        <div class="orbit-dot" style="--delay:-5s"><i class="bi bi-graph-up-arrow"></i></div>
+                    </div>
+                    <div class="orbit-ring ring-3">
+                        <div class="orbit-dot" style="--delay:-10s"><i class="bi bi-database-fill-gear"></i></div>
+                    </div>
+                    <div class="orbit-center">
+                        <i class="bi bi-airplane-engines"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     FEATURES
+     ═══════════════════════════════════════════════════════════════════ -->
+<section class="py-5" id="features">
+    <div class="container py-4">
+        <div class="text-center mb-5">
+            <span class="section-badge">Core Capabilities</span>
+            <h2 class="section-title mt-2">Platform Features</h2>
+            <p class="section-subtitle">A comprehensive revenue management ecosystem built for modern airlines</p>
+        </div>
+        <div class="row g-4">
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <div class="feature-icon" style="--accent:#3b82f6">
+                        <i class="bi bi-cloud-download"></i>
+                    </div>
+                    <h5>Live Aviation Data</h5>
+                    <p>Integration with AviationStack API for real-time flight tracking, airport data, airline information, and schedule monitoring.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <div class="feature-icon" style="--accent:#8b5cf6">
+                        <i class="bi bi-cpu"></i>
+                    </div>
+                    <h5>ML Demand Forecasting</h5>
+                    <p>Multi-horizon forecasting using XGBoost, Random Forest, and ARIMA models with SHAP explainability and drift detection.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <div class="feature-icon" style="--accent:#22c55e">
+                        <i class="bi bi-tags-fill"></i>
+                    </div>
+                    <h5>Dynamic Pricing</h5>
+                    <p>Real-time price optimization using elasticity modeling, competitor analysis, and multi-objective Pareto optimization.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <div class="feature-icon" style="--accent:#f59e0b">
+                        <i class="bi bi-shield-check"></i>
+                    </div>
+                    <h5>Risk Management</h5>
+                    <p>Operational risk scoring, overbooking strategy optimization, and regulatory compliance with full audit trail logging.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <div class="feature-icon" style="--accent:#ef4444">
+                        <i class="bi bi-database-fill-gear"></i>
+                    </div>
+                    <h5>3-Tier Database</h5>
+                    <p>RDBMS (SQLite), OLAP aggregations, and NoSQL passenger intelligence for comprehensive data storage and querying.</p>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4">
+                <div class="feature-card">
+                    <div class="feature-icon" style="--accent:#06b6d4">
+                        <i class="bi bi-speedometer2"></i>
+                    </div>
+                    <h5>Command Center</h5>
+                    <p>Executive dashboard with KPI monitoring, route heatmaps, booking pace analysis, and scenario simulation tools.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     ARCHITECTURE
+     ═══════════════════════════════════════════════════════════════════ -->
+<section class="py-5 bg-dark-section" id="architecture">
+    <div class="container py-4">
+        <div class="text-center mb-5">
+            <span class="section-badge light">System Architecture</span>
+            <h2 class="section-title text-white mt-2">How It All Connects</h2>
+            <p class="section-subtitle text-white-50">End-to-end data flow from ingestion to actionable insights</p>
+        </div>
+        <div class="row g-4 justify-content-center">
+            <div class="col-lg-10">
+                <div class="architecture-flow">
+                    <div class="arch-step">
+                        <div class="arch-icon"><i class="bi bi-cloud-arrow-down-fill"></i></div>
+                        <div class="arch-label">Data Ingestion</div>
+                        <div class="arch-detail">AviationStack API, Simulated CSVs, External Services</div>
+                    </div>
+                    <div class="arch-arrow"><i class="bi bi-arrow-right"></i></div>
+                    <div class="arch-step">
+                        <div class="arch-icon"><i class="bi bi-funnel-fill"></i></div>
+                        <div class="arch-label">ETL Pipeline</div>
+                        <div class="arch-detail">Scheduled Jobs, Data Quality Checks, Transformations</div>
+                    </div>
+                    <div class="arch-arrow"><i class="bi bi-arrow-right"></i></div>
+                    <div class="arch-step">
+                        <div class="arch-icon"><i class="bi bi-server"></i></div>
+                        <div class="arch-label">3-Tier DB</div>
+                        <div class="arch-detail">RDBMS + OLAP + NoSQL Passenger Intelligence</div>
+                    </div>
+                    <div class="arch-arrow"><i class="bi bi-arrow-right"></i></div>
+                    <div class="arch-step">
+                        <div class="arch-icon"><i class="bi bi-robot"></i></div>
+                        <div class="arch-label">ML Engine</div>
+                        <div class="arch-detail">5 Models, SHAP Explainer, Drift Detection</div>
+                    </div>
+                    <div class="arch-arrow"><i class="bi bi-arrow-right"></i></div>
+                    <div class="arch-step">
+                        <div class="arch-icon"><i class="bi bi-display"></i></div>
+                        <div class="arch-label">Command Center</div>
+                        <div class="arch-detail">KPI Dashboard, Pricing Reco, Risk Alerts</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     ML MODELS
+     ═══════════════════════════════════════════════════════════════════ -->
+<section class="py-5" id="models">
+    <div class="container py-4">
+        <div class="text-center mb-5">
+            <span class="section-badge">Intelligence Layer</span>
+            <h2 class="section-title mt-2">Machine Learning Models</h2>
+            <p class="section-subtitle">Five production-grade models powering revenue decisions</p>
+        </div>
+        <div class="row g-4">
+            <div class="col-md-6 col-xl-4">
+                <div class="model-card">
+                    <div class="model-number">01</div>
+                    <h5>Demand Forecasting</h5>
+                    <p>Multi-horizon time-series forecasting using XGBoost and ensemble methods with walk-forward validation.</p>
+                    <div class="model-tags">
+                        <span>XGBoost</span><span>ARIMA</span><span>Ensemble</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xl-4">
+                <div class="model-card">
+                    <div class="model-number">02</div>
+                    <h5>Pricing Optimization</h5>
+                    <p>Elasticity-based dynamic pricing with competitor awareness and multi-objective Pareto optimization.</p>
+                    <div class="model-tags">
+                        <span>Elasticity</span><span>Pareto</span><span>Real-time</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xl-4">
+                <div class="model-card">
+                    <div class="model-number">03</div>
+                    <h5>Overbooking Strategy</h5>
+                    <p>Risk-aware overbooking with no-show prediction, compensation cost modeling, and capacity constraints.</p>
+                    <div class="model-tags">
+                        <span>Classification</span><span>Risk Model</span><span>Simulation</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xl-4">
+                <div class="model-card">
+                    <div class="model-number">04</div>
+                    <h5>Route Profitability</h5>
+                    <p>Network-level profitability analysis with seasonal decomposition and route performance scoring.</p>
+                    <div class="model-tags">
+                        <span>Regression</span><span>Clustering</span><span>Scoring</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xl-4">
+                <div class="model-card">
+                    <div class="model-number">05</div>
+                    <h5>Operational Risk</h5>
+                    <p>Flight delay prediction, disruption risk scoring, and proactive mitigation recommendations.</p>
+                    <div class="model-tags">
+                        <span>Random Forest</span><span>Risk Scoring</span><span>Alerts</span>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-xl-4">
+                <div class="model-card model-card-cta">
+                    <div class="model-cta-inner">
+                        <i class="bi bi-bar-chart-line fs-1 mb-3 d-block" style="color:#3b82f6"></i>
+                        <h5>See Models in Action</h5>
+                        <p>Explore live predictions and model performance in the Revenue Command Center.</p>
+                        <a href="/dashboard" class="btn btn-primary btn-sm mt-2">Open Dashboard</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     TECH STACK
+     ═══════════════════════════════════════════════════════════════════ -->
+<section class="py-5 bg-dark-section" id="stack">
+    <div class="container py-4">
+        <div class="text-center mb-5">
+            <span class="section-badge light">Built With</span>
+            <h2 class="section-title text-white mt-2">Technology Stack</h2>
+        </div>
+        <div class="row g-3 justify-content-center">
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="tech-badge">
+                    <i class="bi bi-filetype-py"></i>
+                    <span>Python</span>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="tech-badge">
+                    <i class="bi bi-lightning-charge-fill"></i>
+                    <span>FastAPI</span>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="tech-badge">
+                    <i class="bi bi-table"></i>
+                    <span>Pandas</span>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="tech-badge">
+                    <i class="bi bi-cpu-fill"></i>
+                    <span>Scikit-learn</span>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="tech-badge">
+                    <i class="bi bi-tree-fill"></i>
+                    <span>XGBoost</span>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="tech-badge">
+                    <i class="bi bi-database-fill"></i>
+                    <span>SQLite</span>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="tech-badge">
+                    <i class="bi bi-bar-chart-fill"></i>
+                    <span>Chart.js</span>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="tech-badge">
+                    <i class="bi bi-bootstrap-fill"></i>
+                    <span>Bootstrap 5</span>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="tech-badge">
+                    <i class="bi bi-file-earmark-code"></i>
+                    <span>Jinja2</span>
+                </div>
+            </div>
+            <div class="col-6 col-md-4 col-lg-2">
+                <div class="tech-badge">
+                    <i class="bi bi-cloud-fill"></i>
+                    <span>AviationStack</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     QUICK LINKS / CTA
+     ═══════════════════════════════════════════════════════════════════ -->
+<section class="py-5" id="cta">
+    <div class="container py-4">
+        <div class="row g-4 justify-content-center">
+            <div class="col-md-6 col-lg-5">
+                <div class="cta-card cta-dashboard">
+                    <i class="bi bi-speedometer2 cta-icon"></i>
+                    <h4>Revenue Command Center</h4>
+                    <p>Real-time KPI tracking, route heatmaps, pricing recommendations, booking pace monitoring, and scenario simulation.</p>
+                    <a href="/dashboard" class="btn btn-primary px-4">
+                        <i class="bi bi-arrow-right-circle me-1"></i>Launch Dashboard
+                    </a>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-5">
+                <div class="cta-card cta-api">
+                    <i class="bi bi-braces cta-icon"></i>
+                    <h4>API Explorer</h4>
+                    <p>Browse and test 20+ REST endpoints covering flights, routes, airports, bookings, passengers, and simulated data.</p>
+                    <a href="/explorer" class="btn btn-outline-primary px-4">
+                        <i class="bi bi-arrow-right-circle me-1"></i>Explore APIs
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     DISCLAIMER
+     ═══════════════════════════════════════════════════════════════════ -->
+<section class="py-3" style="background:rgba(59,130,246,0.06);border-top:1px solid rgba(59,130,246,0.15)">
+    <div class="container">
+        <div class="d-flex align-items-start gap-2" style="font-size:.82rem;color:#94a3b8">
+            <i class="bi bi-info-circle-fill mt-1" style="color:#3b82f6;flex-shrink:0"></i>
+            <p class="mb-0">
+                <strong style="color:#cbd5e1">Note:</strong> This platform is an academic capstone project built for demonstration purposes.
+                All airline booking, revenue, passenger, and operational data shown in the dashboard is <strong style="color:#cbd5e1">synthetically generated</strong>
+                and does not represent any real airline's actual performance. Flight codes (6E, AI, SG, UK, QP) are used for realistic simulation only.
+                The dataset covers a simulated one-month period (Feb 2026) across 9 Indian domestic airports.
+            </p>
+        </div>
+    </div>
+</section>
+
+<!-- ═══════════════════════════════════════════════════════════════════
+     FOOTER
+     ═══════════════════════════════════════════════════════════════════ -->
+<footer class="py-4 border-top">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-md-6 text-center text-md-start">
+                <span class="text-muted" style="font-size:.85rem">
+                    <i class="bi bi-airplane-engines me-1"></i>
+                    <strong>LNT Aviation</strong> &middot; Airline Revenue Optimization Platform
+                </span>
+            </div>
+            <div class="col-md-6 text-center text-md-end mt-2 mt-md-0">
+                <span class="text-muted" style="font-size:.8rem">
+                    Powered by <a href="https://aviationstack.com" target="_blank" rel="noopener" class="text-decoration-none">AviationStack</a>
+                    &middot; FastAPI &middot; Bootstrap 5
+                </span>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+// Navbar background on scroll
+window.addEventListener('scroll', () => {
+    const nav = document.getElementById('landing-nav');
+    nav.classList.toggle('scrolled', window.scrollY > 60);
+});
+
+// Simple particle effect
+(function initParticles() {
+    const container = document.getElementById('particles');
+    if (!container) return;
+    for (let i = 0; i < 30; i++) {
+        const p = document.createElement('div');
+        p.className = 'particle';
+        p.style.left = Math.random() * 100 + '%';
+        p.style.animationDelay = Math.random() * 20 + 's';
+        p.style.animationDuration = (15 + Math.random() * 20) + 's';
+        p.style.opacity = (0.15 + Math.random() * 0.25).toFixed(2);
+        p.style.width = p.style.height = (2 + Math.random() * 4) + 'px';
+        container.appendChild(p);
+    }
+})();
+</script>
+</body>
+</html>

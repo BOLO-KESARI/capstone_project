@@ -105,11 +105,11 @@
         const flightsAtRisk = D.alerts ? D.alerts.filter(a => a.severity === "high" || a.type === "danger").length : 0;
 
         const cards = [
-            { label: "Total Revenue", value: COMPACT(k.total_revenue), sub: `${INR(k.total_bookings)} bookings`, icon: "bi-currency-rupee", iconCls: "icon-green", kpiCls: "kpi-green", arrow: "up" },
-            { label: "System Load Factor", value: PCT(k.avg_load_factor), sub: k.avg_load_factor >= 0.75 ? "Healthy" : "Below target", icon: "bi-pie-chart-fill", iconCls: "icon-purple", kpiCls: k.avg_load_factor >= 0.75 ? "kpi-green" : "kpi-red", arrow: k.avg_load_factor >= 0.75 ? "up" : "down" },
-            { label: "RASM", value: "₹" + k.avg_rasm.toFixed(2), sub: "Revenue per ASK", icon: "bi-speedometer2", iconCls: "icon-cyan", kpiCls: "kpi-cyan" },
-            { label: "Avg Yield / Pax", value: "₹" + k.avg_yield.toFixed(2), sub: "Per passenger", icon: "bi-graph-up-arrow", iconCls: "icon-amber", kpiCls: "kpi-amber" },
-            { label: "Forecast Accuracy", value: avgMape + "%", sub: "Avg MAPE (lower=better)", icon: "bi-bullseye", iconCls: "icon-blue", kpiCls: parseFloat(avgMape) <= 10 ? "kpi-green" : "kpi-amber", arrow: parseFloat(avgMape) <= 10 ? "up" : "down" },
+            { label: "Monthly Revenue", value: COMPACT(k.total_revenue), sub: `${INR(k.confirmed)} confirmed of ${INR(k.total_bookings)} bookings`, icon: "bi-currency-rupee", iconCls: "icon-green", kpiCls: "kpi-green", arrow: "up" },
+            { label: "System Load Factor", value: PCT(k.avg_load_factor), sub: k.avg_load_factor >= 0.70 ? "Healthy" : "Below target", icon: "bi-pie-chart-fill", iconCls: "icon-purple", kpiCls: k.avg_load_factor >= 0.70 ? "kpi-green" : "kpi-red", arrow: k.avg_load_factor >= 0.70 ? "up" : "down" },
+            { label: "RASM", value: "₹" + k.avg_rasm.toFixed(2), sub: "Revenue per ASK (₹/km)", icon: "bi-speedometer2", iconCls: "icon-cyan", kpiCls: k.avg_rasm >= 3.0 ? "kpi-green" : "kpi-cyan" },
+            { label: "Avg Yield / Pax", value: "₹" + k.avg_yield.toFixed(2), sub: "Per confirmed passenger", icon: "bi-graph-up-arrow", iconCls: "icon-amber", kpiCls: "kpi-amber" },
+            { label: "Pace Deviation", value: avgMape + "%", sub: "Booking pace vs historical", icon: "bi-bullseye", iconCls: "icon-blue", kpiCls: parseFloat(avgMape) <= 10 ? "kpi-green" : "kpi-amber", arrow: parseFloat(avgMape) <= 10 ? "up" : "down" },
             { label: "Flights at Risk", value: flightsAtRisk, sub: "High-severity alerts", icon: "bi-exclamation-triangle-fill", iconCls: "icon-red", kpiCls: flightsAtRisk > 5 ? "kpi-red" : "kpi-amber", arrow: flightsAtRisk > 5 ? "down" : "up" },
         ];
 
@@ -742,14 +742,14 @@
         paceTable("tbl-behind", D.pace.behind, false);
         paceTable("tbl-ahead", D.pace.ahead, true);
 
-        /* Forecast Accuracy (MAPE) */
+        /* Booking Pace Deviation by Route */
         if (D.mape_by_route && D.mape_by_route.length) {
             make("c-mape", {
                 type: "bar",
                 data: {
                     labels: D.mape_by_route.map(d => d.route),
                     datasets: [{
-                        label: "MAPE %",
+                        label: "Pace Deviation %",
                         data: D.mape_by_route.map(d => d.mape_pct),
                         backgroundColor: D.mape_by_route.map(d =>
                             d.mape_pct > 15 ? alpha(COLORS.red, 0.75) : d.mape_pct > 8 ? alpha(COLORS.amber, 0.75) : alpha(COLORS.green, 0.75)
@@ -1325,10 +1325,11 @@
         const revTarget = D.revenue_target || D.rev_target;
         if (revTarget && revTarget.length) {
             const months = ["", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+            const rtLabels = revTarget.map(d => d.label || (months[d.month] || d.month));
             make("c-rev-target", {
                 type: "bar",
                 data: {
-                    labels: revTarget.map(d => months[d.month] || d.month),
+                    labels: rtLabels,
                     datasets: [
                         { label: "Actual Revenue", data: revTarget.map(d => d.actual), backgroundColor: alpha(COLORS.blue, 0.7), borderRadius: 4, maxBarThickness: 35, order: 2 },
                         { label: "Target (10% Growth)", data: revTarget.map(d => d.target), type: "line", borderColor: COLORS.red, pointRadius: 5, borderWidth: 2, borderDash: [6, 3], order: 1, fill: false }
@@ -1336,8 +1337,11 @@
                 },
                 options: {
                     responsive: true, maintainAspectRatio: false,
+                    plugins: {
+                        title: { display: true, text: "Jan 2025 – Feb 2026", font: { size: 12 }, color: "#64748b", padding: { bottom: 10 } }
+                    },
                     scales: {
-                        x: { grid: { display: false } },
+                        x: { grid: { display: false }, ticks: { font: { size: 10 }, maxRotation: 45 } },
                         y: { ticks: { callback: v => "Rs." + INR(v) }, beginAtZero: true }
                     }
                 }
