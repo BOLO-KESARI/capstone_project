@@ -85,6 +85,8 @@ The advanced features dataset contains 50+ engineered features across 10 categor
 
 The platform trains 12 ML models at startup, stored in-memory for real-time inference:
 
+**Figure 2: Model Performance Summary Across All 12 ML Models**
+
 ![Model Performance Summary](generated_reports/12_model_performance_summary.png)
 
 | Model | Algorithm | Target |
@@ -151,17 +153,27 @@ Forecasts are generated at four horizons: 7 days (MAPE target <8%), 30 days (<10
 
 ### 11. Revenue Command Center Dashboard
 
+**Figure 14: Revenue Command Center — Main Dashboard Overview**
+
 ![Dashboard Overview](prototype_image/Screenshot%202026-03-10%20080944.png)
+
+**Figure 15: Revenue Command Center — Routes Analytics & Overbooking Optimization**
 
 ![Routes and Overbooking](prototype_image/Screenshot%202026-03-10%20080953.png)
 
+**Figure 15b: Revenue Command Center — Demand Forecast**
+
 ![Overbooking and Demand Forecast](prototype_image/Screenshot%202026-03-10%20081002.png)
+
+**Figure 16: Revenue Command Center — Dynamic Pricing Recommendations**
 
 ![Dynamic Pricing Recommendations](prototype_image/Screenshot%202026-03-10%20081016.png)
 
 The Revenue Command Center dashboard implements a comprehensive analytics interface with 12 KPI cards and 12 analytics tabs: Revenue, Routes, Bookings, Pricing, Overbooking, Operations, Customers, Ancillary, Forecast, Alerts, 365-Day Pricing, and ML Predictions. All visualizations use Chart.js with INR currency formatting and 80+ interactive info-buttons serving as an embedded user guide.
 
-### 9. Explainability, Drift Detection, and Compliance provides global feature importance (TreeExplainer/LinearExplainer), individual prediction force plots, and route-level driver analysis — all in under 50ms per prediction.
+### 9. Explainability, Drift Detection, and Compliance
+
+**SHAP explainability** provides global feature importance (TreeExplainer/LinearExplainer), individual prediction force plots, and route-level driver analysis — all in under 50ms per prediction.
 
 **PSI drift detection** monitors distribution shift:
 
@@ -177,11 +189,15 @@ The **DGCA compliance engine** enforces distance-based fare caps (Economy: ₹5,
 
 ### Demand Forecasting
 
+**Figure 3: Demand Forecasting Results**
+
 ![Demand Forecasting Results](generated_reports/01_demand_forecasting_results.png)
 
 The XGBoost-based demand model achieved MAPE below 10% for near-term (7-day) horizons. The Prophet + SARIMA ensemble (60/40 weighting) achieved MAPE of 8.4% on 7-day forecasts, consistently outperforming standalone models. Walk-forward validation confirmed that forecast accuracy holds under proper temporal evaluation, avoiding the 20–30% optimistic bias seen with standard k-fold cross-validation.
 
 ### Dynamic Pricing Validation
+
+**Figure 4: Dynamic Pricing Optimization Results**
 
 ![Dynamic Pricing Results](generated_reports/02_dynamic_pricing_results.png)
 
@@ -189,21 +205,35 @@ The 365-day pricing calendar was validated against historical fare data. Price p
 
 ### Overbooking Optimization
 
+**Figure 5: Monte Carlo Overbooking Simulation Results**
+
 ![Overbooking Monte Carlo Results](generated_reports/03_overbooking_monte_carlo_results.png)
 
 Monte Carlo simulation with 1,000 runs per overbooking level identified optimal quantities that reduced denied boardings by 30% while simultaneously reducing empty seats by 15%. The cost trade-off curve across all 25 overbooking levels (0–24 extra seats) enables risk-appetite-based decision-making for analysts.
 
 ### Classification Model Performance
 
+**Figure 8: Customer Churn Prediction Results**
+
 ![Customer Churn Results](generated_reports/06_customer_churn_results.png)
+
+**Figure 7: Operational Risk Classification Results**
 
 ![Operational Risk Results](generated_reports/05_operational_risk_results.png)
 
+**Figure 9: Flight Delay Prediction Results**
+
 ![Flight Delay Results](generated_reports/07_flight_delay_results.png)
+
+**Figure 10: Cancellation Prediction Results**
 
 ![Cancellation Results](generated_reports/08_cancellation_results.png)
 
+**Figure 11: Load Factor Prediction Results**
+
 ![Load Factor Results](generated_reports/09_load_factor_results.png)
+
+**Figure 12: No-Show Prediction Results**
 
 ![No-Show Results](generated_reports/10_noshow_results.png)
 
@@ -220,7 +250,11 @@ The Flight Delay model identified turnaround time as the highest-importance feat
 
 ### Route Profitability and Clustering
 
+**Figure 6: Route Profitability Analysis Results**
+
 ![Route Profitability Results](generated_reports/04_route_profitability_results.png)
+
+**Figure 13: Passenger Clustering Results**
 
 ![Passenger Clustering Results](generated_reports/11_passenger_clustering_results.png)
 
